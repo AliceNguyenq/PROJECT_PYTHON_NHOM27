@@ -1,5 +1,6 @@
 # PROJECT_PYTHON_NHOM27
 
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -7,6 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 
+</div>
 ## Description
 Đây là một dự án Python để phân tích dữ liệu khách hàng và xây dựng mô hình máy học dự đoán gói dịch vụ viễn thông
 Mục tiêu của dự án là:
