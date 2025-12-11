@@ -1,7 +1,7 @@
 # PROJECT_PYTHON_NHOM27
 
 ## Description
-PROJECT_PYTHON_NHOM27 là 1  Python project để phân tích dữ liệu khách hàng và xây dựng mô hình máy học dự đoán gói dịch vụ viễn thông
+Đây là một dự án Python để phân tích dữ liệu khách hàng và xây dựng mô hình máy học dự đoán gói dịch vụ viễn thông
 Mục tiêu của dự án là:
 - Phân tích dữ liệu khách hàng và dữ liệu hành trình của du khách quốc tế đến Việt Nam.
 - Xây dựng mô hình Multi-class Classification dự đoán gói cước 4G Viettel phù hợp cho từng khách hàng.
@@ -9,11 +9,10 @@ Mục tiêu của dự án là:
 
 ## Dataset
 Dự án gồm 4 bảng dữ liệu chính:
-File	Nội dung	Kích thước
-user.csv	Thông tin nhân khẩu học người dùng	11,572 × 16
-context.csv	Thông tin chuyến đi	11,572 × 12
-mobile_plan_user.csv	Gói cước được đề xuất và lựa chọn của khách hàng	45,321 × 3
-mobile_plan_attr.csv	Thông tin chi tiết các gói data Viettel	5 × 4
+user.csv	- Thông tin nhân khẩu học người dùng	- 11,572 × 16
+context.csv	- Thông tin chuyến đi -	11,572 × 12
+mobile_plan_user.csv	- Gói cước được đề xuất và lựa chọn của khách hàng -	45,321 × 3
+mobile_plan_attr.csv	- Thông tin chi tiết các gói data Viettel	- 5 × 4
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
