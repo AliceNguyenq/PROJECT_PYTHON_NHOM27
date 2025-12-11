@@ -40,7 +40,7 @@ Dự án gồm tập train và tập test đã chia sẵn, mỗi tập gồm 4 b
 
 ## 📁 Cấu trúc Project
 
-
+```
 project/
 │
 ├─ 📁 Result/                                      # Kết quả mô hình & log quá trình chạy
@@ -90,7 +90,7 @@ project/
 ├─ 📄 LICENSE                                       # Giấy phép MIT License
 ├─ 📄 requirements.txt                              # Danh sách thư viện phụ thuộc Python
 └─ 📄 README.md                                     # Mô tả project
-
+```
 
 
 ## Prerequisites
