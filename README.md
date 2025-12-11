@@ -2,15 +2,16 @@
 
 
 <div align="center">
-
+   
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 
 </div>
+
 ## Description
-Đây là một dự án Python để phân tích dữ liệu khách hàng và xây dựng mô hình máy học dự đoán gói dịch vụ viễn thông
+Đây là dự án phân tích dữ liệu và xây dựng mô hình Machine Learning (Multi-class Classification) nhằm dự đoán gói cước 4G Viettel phù hợp cho từng khách hàng quốc tế đến Việt Nam.
 Mục tiêu của dự án là:
 - Phân tích dữ liệu khách hàng và dữ liệu hành trình của du khách quốc tế đến Việt Nam.
 - Xây dựng mô hình Multi-class Classification dự đoán gói cước 4G Viettel phù hợp cho từng khách hàng.
@@ -18,19 +19,24 @@ Mục tiêu của dự án là:
 ## Dataset
 Dự án gồm tập train và tập test đã chia sẵn, mỗi tập gồm 4 bảng dữ liệu chính:
 1. train
-| File                     | Nội dung                                         | Kích thước      |
-| ------------------------ | ------------------------------------------------ | --------------- |
-| **user.csv**             | Thông tin nhân khẩu học người dùng               | **11,572 × 16** |
-| **context.csv**          | Thông tin chuyến đi                              | **11,572 × 12** |
-| **mobile_plan_user.csv** | Gói cước được đề xuất và lựa chọn của khách hàng | **45,321 × 3**  |
-| **mobile_plan_attr.csv** | Thông tin chi tiết các gói data Viettel          | **5 × 4**       |
+
+| File                     | Nội dung                          | Kích thước      |
+| ------------------------ | --------------------------------- | --------------- |
+| **user.csv**             | Thông tin nhân khẩu học           | **11,572 × 16** |
+| **context.csv**          | Thông tin chuyến đi               | **11,572 × 12** |
+| **mobile_plan_user.csv** | Gói data được đề xuất & chấp nhận | **45,321 × 3**  |
+| **mobile_plan_attr.csv** | Mô tả các gói data                | **5 × 4**       |
+
+
 3. test
-| File                          | Nội dung                                         | Kích thước     |
-| ----------------------------- | ------------------------------------------------ | -------------- |
-| **user_test.csv**             | Thông tin nhân khẩu học người dùng               | **1,112 × 16** |
-| **context_test.csv**          | Thông tin chuyến đi                              | **1,112 × 12** |
-| **mobile_plan_user_test.csv** | Gói cước được đề xuất và lựa chọn của khách hàng | **1,397 × 3**  |
-| **mobile_plan_attr_test.csv** | Thông tin chi tiết các gói data Viettel          | **5 × 4**      |
+
+| File                     | Nội dung                          | Kích thước      |
+| ------------------------ | --------------------------------- | --------------- |
+| **user.csv**             | Thông tin nhân khẩu học           | **11,572 × 16** |
+| **context.csv**          | Thông tin chuyến đi               | **11,572 × 12** |
+| **mobile_plan_user.csv** | Gói data được đề xuất & chấp nhận | **45,321 × 3**  |
+| **mobile_plan_attr.csv** | Mô tả các gói data                | **5 × 4**       |
+
 
 
 
