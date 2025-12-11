@@ -103,7 +103,7 @@ Trước khi bắt đầu, hãy đảm bảo đã đáp ứng các yêu cầu sa
  
 
 ##  Cách cài đặt 
-1. Sao chép (clone) kho lưu trữ này về máy của bạn:
+1. Sao chép (clone) kho lưu trữ này về máy:
    ```bash
    git clone https://github.com/AliceNguyenq/PROJECT_PYTHON_NHOM27.git
    ```
