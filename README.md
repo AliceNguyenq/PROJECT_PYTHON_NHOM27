@@ -1,11 +1,17 @@
 # PROJECT_PYTHON_NHOM27
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+
 ## Description
 Đây là một dự án Python để phân tích dữ liệu khách hàng và xây dựng mô hình máy học dự đoán gói dịch vụ viễn thông
 Mục tiêu của dự án là:
 - Phân tích dữ liệu khách hàng và dữ liệu hành trình của du khách quốc tế đến Việt Nam.
 - Xây dựng mô hình Multi-class Classification dự đoán gói cước 4G Viettel phù hợp cho từng khách hàng.
-- Hỗ trợ cá nhân hóa sản phẩm, tối ưu chiến dịch marketing, tăng tỷ lệ chuyển đổi tại sân bay và điểm du lịch.
 
 ## Dataset
 Dự án gồm 4 bảng dữ liệu chính:
@@ -13,6 +19,28 @@ user.csv	- Thông tin nhân khẩu học người dùng	- 11,572 × 16
 context.csv	- Thông tin chuyến đi -	11,572 × 12
 mobile_plan_user.csv	- Gói cước được đề xuất và lựa chọn của khách hàng -	45,321 × 3
 mobile_plan_attr.csv	- Thông tin chi tiết các gói data Viettel	- 5 × 4
+
+
+📁 project/
+│
+├─ 📁 Result/
+├─ 📁 data test cleaned/
+├─ 📁 data train cleaned/
+├─ 📁 notebookooks/          # Có thể đổi tên: notebooks/
+├─ 📁 test data/
+├─ 📁 train data/
+│
+├─ 📄 LICENSE
+├─ 📄 README.md
+│
+├─ 📄 [NHOM27_PYTHON_1]_DataPreprocessing_No...
+├─ 📄 [NHOM27_PYTHON_2]_DataPreprocessing_With...
+├─ 📄 [NHOM27_PYTHON_3]_EDA.ipynb
+├─ 📄 [NHOM27_PYTHON_4]_Model_Final.ipynb
+└─ 📄 [NHOM27_PYTHON_5]_Report_File.pdf
+
+
+
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
