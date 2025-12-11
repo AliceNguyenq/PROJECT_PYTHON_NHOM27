@@ -14,11 +14,22 @@ Mục tiêu của dự án là:
 - Xây dựng mô hình Multi-class Classification dự đoán gói cước 4G Viettel phù hợp cho từng khách hàng.
 
 ## Dataset
-Dự án gồm 4 bảng dữ liệu chính:
-user.csv	- Thông tin nhân khẩu học người dùng	- 11,572 × 16
-context.csv	- Thông tin chuyến đi -	11,572 × 12
-mobile_plan_user.csv	- Gói cước được đề xuất và lựa chọn của khách hàng -	45,321 × 3
-mobile_plan_attr.csv	- Thông tin chi tiết các gói data Viettel	- 5 × 4
+Dự án gồm tập train và tập test đã chia sẵn, mỗi tập gồm 4 bảng dữ liệu chính:
+1. train
+| File                     | Nội dung                                         | Kích thước      |
+| ------------------------ | ------------------------------------------------ | --------------- |
+| **user.csv**             | Thông tin nhân khẩu học người dùng               | **11,572 × 16** |
+| **context.csv**          | Thông tin chuyến đi                              | **11,572 × 12** |
+| **mobile_plan_user.csv** | Gói cước được đề xuất và lựa chọn của khách hàng | **45,321 × 3**  |
+| **mobile_plan_attr.csv** | Thông tin chi tiết các gói data Viettel          | **5 × 4**       |
+3. test
+| File                          | Nội dung                                         | Kích thước     |
+| ----------------------------- | ------------------------------------------------ | -------------- |
+| **user_test.csv**             | Thông tin nhân khẩu học người dùng               | **1,112 × 16** |
+| **context_test.csv**          | Thông tin chuyến đi                              | **1,112 × 12** |
+| **mobile_plan_user_test.csv** | Gói cước được đề xuất và lựa chọn của khách hàng | **1,397 × 3**  |
+| **mobile_plan_attr_test.csv** | Thông tin chi tiết các gói data Viettel          | **5 × 4**      |
+
 
 
 📁 project/
