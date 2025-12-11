@@ -1,0 +1,1113 @@
+id,name,gender,age,education,profession,income,living_with,nation,phone,job,fb_freq,yt_freq,tik_freq,use_less_than_2GB,use_2GB_to_4GB,marriage_status,number_child
+7067,김은주,Female,33,Masters,Unemployed,1607500000.0,Married_1,Korea,053-265-1191,Clay product production machine operator,0,1,3,0,1,Married,1
+2114,김지연,Female,34,Masters,Unemployed,1600000000.0,Married_1,Korea,051-368-9724,Other transportation equipment maintenance workers,0,1,1,1,1,Married,1
+6582,Sharon Rodriguez,Female,34,Masters,Unemployed,1627200000.0,Married_3,Australia,-5039,Actor,0,1,3,1,0,Married,3
+11379,Mariah Peixoto,Female,34,Masters,Unemployed,1792500000.0,Married_4,Brazil,(071) 6038 8054,Occupational therapist,0,1,3,0,0,Married,4
+3986,김서영,Female,34,Masters,Unemployed,1657500000.0,Married_1,Korea,054-274-1759,Product production manager,0,1,1,0,1,Married,1
+18895,Patricia Bartlett,Female,33,Masters,Unemployed,1670000000.0,Married_2,Australia,07 9107 8202,Data processing manager,0,1,3,0,1,Married,2
+15411,Kristine Gonzalez,Female,35,Masters,Unemployed,1692000000.0,Married_1,Australia,(03).3512.5316,Product manager,0,0,3,1,0,Married,1
+9479,Olivia da Conceição,Female,44,Bachelor,Arts Design Entertainment Sports & Media,556800000.0,Divorced_2,Brazil,(071) 9279-2262,Doctor,0,21,1,2,0,Divorced,2
+6066,Anja Sölzer MBA.,Female,43,Bachelor,Arts Design Entertainment Sports & Media,400000000.0,Divorced_1,Denmark,+49(0)4544884677,Artist,0,17,1,3,0,Divorced,1
+4993,Charlene Barnes,Female,33,Bachelor,Life Physical Social Science,1167500000.0,Married_1,Australia,9045-9845,Insurance risk surveyor,0,0,4,7,0,Married,1
+16677,Prof. Rosalinde Lange B.Eng.,Female,33,Bachelor,Life Physical Social Science,1110000000.0,Married_1,Denmark,+49 (0) 7298 483586,Physician,0,1,5,7,1,Married,1
+12449,Elly Sauer,Female,34,Bachelor,Life Physical Social Science,924000000.0,Married_2,Denmark,0791105890,Schornsteinfeger,0,1,6,7,1,Married,2
+7488,지수민,Female,48,Bachelor,Arts Design Entertainment Sports & Media,1227500000.0,Single_0,Korea,016-561-6557,beautician,0,0,1,1,0,Single,0
+16063,Priska Zimmer MBA.,Female,49,Bachelor,Arts Design Entertainment Sports & Media,1197600000.0,Single_0,Denmark,(05502) 83126,technician,0,0,0,0,0,Single,0
+3687,Sra. Aylla Novais,Female,48,Bachelor,Arts Design Entertainment Sports & Media,1056000000.0,Single_0,Brazil,+55 (051) 6582 0750,Surveyor,0,1,1,1,0,Single,0
+19554,Larissa Fonseca,Female,44,Unknown,Office & Administrative Support,681600000.0,Single_3,Brazil,(041) 5508-2834,Gastronomes,1,1,2,1,0,Single,3
+13548,Michele Henderson,Female,43,Unknown,Office & Administrative Support,729600000.0,Single_1,Australia,07-7812-9147,"Surveyor, building control",0,1,2,3,0,Single,1
+9635,Evamaria Jacob,Female,45,Unknown,Office & Administrative Support,737500000.0,Single_1,Denmark,0338698344,Nurse,0,2,3,3,0,Single,1
+9065,Christina Scheel,Female,45,Unknown,Office & Administrative Support,878400000.0,Single_3,Denmark,+49(0)6399 831059,Winzer,0,1,1,2,0,Single,3
+9063,Ana Liz Gonçalves,Female,72,Unknown,Healthcare Support,797500000.0,Married_0,Brazil,+55 (051) 9798-3521,Papilloscopist,2,2,5,7,2,Married,0
+4097,Destiny Hanna,Female,50,Unknown,Healthcare Support,645600000.0,Married_0,Australia,0480-764-795,Personnel officer,1,2,8,7,3,Married,0
+16457,Sarah Moreira,Female,59,Unknown,Healthcare Support,674400000.0,Married_0,Brazil,+55 84 0045-2542,Foreman,2,1,8,7,1,Married,0
+5225,Cheryl Ponce,Female,76,Unknown,Healthcare Support,772500000.0,Married_0,Australia,45146883,"Engineer, electronics",2,1,4,4,3,Married,0
+14587,김윤서,Female,62,Unknown,Healthcare Support,715000000.0,Married_0,Korea,016-287-7762,trade clerk,3,3,8,5,3,Married,0
+11945,유수빈,Female,68,Unknown,Healthcare Support,799200000.0,Married_0,Korea,054-347-7135,Manager related to environment/cleaning and security,2,3,8,8,3,Married,0
+19981,이옥자,Female,72,Unknown,Healthcare Support,830400000.0,Married_0,Korea,019-098-5467,Magicians and other cultural/art-related workers,3,1,5,8,3,Married,0
+5942,나하은,Female,74,Unknown,Healthcare Support,792500000.0,Married_0,Korea,055-858-8285,telemarketer,2,1,5,6,2,Married,0
+2482,이순옥,Female,67,Unknown,Healthcare Support,645000000.0,Married_0,Korea,052-254-2981,Chinese chef and cook,1,3,7,4,2,Married,0
+1331,Fernanda da Cruz,Female,30,Masters,Legal,861600000.0,Single_0,Brazil,+55 71 5296-5868,petrochemical engineer,1,3,1,17,2,Single,0
+10734,Srta. Caroline das Neves,Female,30,Masters,Legal,616800000.0,Single_0,Brazil,+55 61 7625-5762,Tourismologist,1,3,2,19,1,Single,0
+2379,Sophia Nunes,Female,49,Unknown,Sales & Related,887500000.0,Married_2,Brazil,+55 (031) 2034 1789,Typist,0,0,3,1,0,Married,2
+16826,임지은,Female,48,Unknown,Sales & Related,852000000.0,Married_1,Korea,053-428-1167,emergency medical technician,1,0,2,0,0,Married,1
+4701,Marija Wesack,Female,48,Unknown,Sales & Related,632500000.0,Married_1,Denmark,0162224380,Pilot,0,1,3,1,0,Married,1
+10078,Milena Silveira,Female,46,Unknown,Sales & Related,690000000.0,Married_1,Brazil,31 4427-7969,Gravedigger/Burial,0,0,3,0,0,Married,1
+2810,Camila Almeida,Female,47,Unknown,Sales & Related,860000000.0,Married_4,Brazil,+55 71 9457 7716,Hospitality professional,0,1,1,0,0,Married,4
+8146,Christa-Maria Mühle,Female,30,Associate,Community & Social Services,1404000000.0,Unmarried_0,Denmark,07998 919683,geriatric nurse,0,3,3,2,0,Unmarried,0
+15925,Lavínia Machado,Female,32,Associate,Education&Training&Library,1560000000.0,Unmarried_1,Brazil,+55 (071) 5441-9525,Torreiro/Torrista,0,0,5,14,0,Unmarried,1
+10381,김지민,Female,35,Associate,Education&Training&Library,1308000000.0,Unmarried_1,Korea,017-883-3143,Officer level or higher,0,0,6,22,0,Unmarried,1
+7211,김예지,Female,34,Associate,Education&Training&Library,1510000000.0,Unmarried_1,Korea,044-535-6360,Automatic assembly line and industrial robot operators,0,0,7,21,0,Unmarried,1
+5365,Meryem Rosenow,Female,34,Masters,Life Physical Social Science,1342500000.0,Single_0,Denmark,+49(0)2988 838500,Schornsteinfeger,1,4,7,7,8,Single,0
+16974,Cynthia Roach,Female,32,Masters,Life Physical Social Science,1452000000.0,Single_0,Australia,(02).6448.9593,Sports coach,2,4,8,4,7,Single,0
+16815,Natalia Pärtzelt-Tintzmann,Female,33,Masters,Life Physical Social Science,1527500000.0,Single_0,Denmark,+49(0) 525696279,educator,2,7,8,5,4,Single,0
+14365,Brooke Hammond,Female,33,Masters,Life Physical Social Science,1363200000.0,Single_0,Australia,(08).3924.0761,Operations geologist,3,6,6,8,4,Single,0
+2638,Aylla Peixoto,Female,34,Masters,Life Physical Social Science,1406400000.0,Single_0,Brazil,0500-393-6220,Clarinettist,3,6,7,8,5,Single,0
+1731,Srta. Mariana Montenegro,Female,40,Masters,Healthcare Practitioners & Technical,2116800000.0,Married_4,Brazil,+55 84 3517-3656,Shopping tracker,0,1,3,5,1,Married,4
+14732,문하은,Female,37,Masters,Healthcare Practitioners & Technical,2126400000.0,Married_1,Korea,070-1894-4987,patent attorney,1,0,2,7,0,Married,1
+5080,Luísa da Conceição,Female,36,Masters,Healthcare Practitioners & Technical,2107200000.0,Married_2,Brazil,(071) 8755-9079,Senator,1,0,1,7,0,Married,2
+10049,강정순,Female,37,Masters,Healthcare Practitioners & Technical,2104800000.0,Married_1,Korea,032-652-0375,Worksheets and visiting teachers,0,0,3,4,1,Married,1
+18547,김유진,Female,36,Masters,Healthcare Practitioners & Technical,2328000000.0,Married_1,Korea,070-9228-5406,Legal/Police/Fire and Prison Managers,0,0,1,5,1,Married,1
+3506,Waltraut Ring B.Eng.,Female,36,Masters,Healthcare Practitioners & Technical,2295000000.0,Married_3,Denmark,(00321) 878887,Fleischer,0,1,2,6,0,Married,3
+13943,Sra. Marcela Cunha,Female,33,Bachelor,Arts Design Entertainment Sports & Media,624000000.0,Married_4,Brazil,(011) 5576-3080,Musical instrumentalist,0,0,1,0,0,Married,4
+14077,Hubertine Weiß,Female,31,Bachelor,Arts Design Entertainment Sports & Media,775200000.0,Married_1,Denmark,+49(0) 429007153,Pilot,0,0,3,0,0,Married,1
+18165,Nancy Gray,Female,67,Masters,Retired,398400000.0,Divorced_2,Australia,+61 414 345 183,Publishing copy,1,7,5,5,0,Divorced,2
+17178,Antje Schuchhardt-Hettner,Female,73,Masters,Retired,506400000.0,Divorced_3,Denmark,03001 386456,IT specialist,3,8,4,5,1,Divorced,3
+12426,Joyce Lopez,Female,32,Unknown,Office & Administrative Support,2020800000.0,Unmarried_0,Australia,9034 2785,"Surveyor, mining",0,3,13,4,2,Unmarried,0
+1819,Michelle Clark PhD,Female,31,Unknown,Office & Administrative Support,1922500000.0,Unmarried_0,Australia,+61 496 767 861,Biomedical scientist,0,1,20,6,1,Unmarried,0
+8067,권지원,Female,42,Associate,Unemployed,1917600000.0,Married_2,Korea,031-015-1350,Other clothing manufacturers,0,1,4,2,0,Married,2
+14390,주지영,Female,41,Associate,Unemployed,1903200000.0,Married_3,Korea,033-858-4413,Other food processing workers,0,0,7,3,1,Married,3
+6548,Univ.Prof. Magdalena Christoph,Female,45,Associate,Unemployed,2067500000.0,Married_1,Denmark,+49(0) 514177827,Barber,0,1,8,2,0,Married,1
+8922,Brenda Madden,Female,39,Bachelor,Unemployed,2272500000.0,Married_1,Australia,4975.9666,Clinical biochemist,1,3,2,0,0,Married,1
+8231,Dr. Christina Jones,Female,35,Unknown,Computer & Mathematical,4860000000.0,Married_0,Australia,0452-108-329,Sales promotion account executive,0,0,23,4,0,Married,0
+16405,Julia Caldeira,Female,31,Unknown,Computer & Mathematical,2772500000.0,Married_0,Brazil,84 8543-3513,street vendor,1,1,20,6,1,Married,0
+5619,Laura Mendonça,Female,34,Unknown,Computer & Mathematical,4240800000.0,Married_0,Brazil,(081) 9295 0513,undertaker,0,0,11,6,1,Married,0
+15489,Desiree Morgan,Female,35,Unknown,Computer & Mathematical,5955000000.0,Married_0,Australia,0498-5003,Surgeon,1,0,14,5,1,Married,0
+12882,Valentina Moreira,Female,35,Unknown,Computer & Mathematical,2707200000.0,Married_0,Brazil,(011) 7485 9034,Cupbearer,0,0,22,8,1,Married,0
+16852,배영숙,Female,32,Unknown,Sales & Related,490000000.0,Married_1,Korea,017-288-6738,landscape engineer,3,10,4,4,12,Married,1
+14790,최경희,Female,33,Unknown,Sales & Related,333600000.0,Married_1,Korea,019-391-1759,Steel Structure Processing Institute and Construction Institute,3,22,7,4,21,Married,1
+19292,Amanda Gonzalez,Female,33,Unknown,Sales & Related,367500000.0,Married_2,Australia,34211555,"Geologist, wellsite",3,23,4,7,13,Married,2
+9334,Margaret Sanchez,Female,46,Unknown,Sales & Related,984000000.0,Single_1,Australia,0454.989.078,Financial planner,0,1,3,3,1,Single,1
+3171,Sigrun Eigenwillig,Female,49,Unknown,Sales & Related,1200000000.0,Single_4,Denmark,05085023931,Surgeon and mechanic,0,1,3,2,1,Single,4
+11211,Laís da Paz,Female,67,Highschool,Retired,415200000.0,Widowed_2,Brazil,+55 (011) 0139 6524,About the prince,0,1,3,7,1,Widowed,2
+9767,곽채원,Female,60,Highschool,Retired,516000000.0,Widowed_3,Korea,063-606-7416,nurse,0,1,1,7,0,Widowed,3
+13703,Lindsay Carrillo,Female,51,Highschool,Retired,326400000.0,Widowed_2,Australia,0462.936.436,"Radiographer, therapeutic",0,1,2,6,0,Widowed,2
+19696,Isadora Correia,Female,64,Highschool,Retired,564000000.0,Widowed_2,Brazil,+55 (071) 3123-8034,plaster technician,0,0,3,4,1,Widowed,2
+6430,Kaitlyn Murphy,Female,46,Unknown,Sales & Related,732500000.0,Single_0,Australia,-4897,"Engineer, drilling",0,0,1,1,1,Single,0
+17396,Nadeschda Jopich,Female,49,Unknown,Sales & Related,866400000.0,Single_0,Denmark,09536 20760,Nurse,0,0,2,0,0,Single,0
+18477,Frau Yvette Krebs MBA.,Female,66,Unknown,Retired,1195000000.0,Unmarried_2,Denmark,0464427139,Optometrist,0,3,1,2,1,Unmarried,2
+5744,Cindy Finke,Female,32,Bachelor,Legal,10874400000.0,Unmarried_0,Denmark,+49(0)5646 23234,Baker,0,0,1,2,1,Unmarried,0
+7946,Maria Cobb,Female,33,Bachelor,Legal,4051200000.0,Unmarried_0,Australia,02.4195.1477,Social researcher,0,1,0,1,3,Unmarried,0
+18508,Melina Garcia,Female,37,Unknown,Construction & Extraction,345000000.0,Married_3,Brazil,0300 947 4871,Brigadier,0,1,1,0,0,Married,3
+9598,Erna Stolze,Female,40,Unknown,Construction & Extraction,326400000.0,Married_3,Denmark,(03493) 516809,geriatric nurse,0,1,3,0,0,Married,3
+9750,Jamie Abbott,Female,39,Unknown,Construction & Extraction,527500000.0,Married_2,Australia,0453.122.419,IT technical support officer,0,2,1,0,1,Married,2
+18244,김춘자,Female,36,Unknown,Construction & Extraction,496800000.0,Married_3,Korea,063-876-7044,Other liberal arts/technology and arts instructors,0,3,2,1,0,Married,3
+6675,Diane Brown,Female,37,Unknown,Construction & Extraction,405000000.0,Married_1,Australia,07-9366-5627,Chartered accountant,0,3,2,0,0,Married,1
+14529,Michelle Cruz,Female,39,Unknown,Construction & Extraction,400000000.0,Married_4,Australia,0493.980.148,Site engineer,0,1,3,1,1,Married,4
+1073,Maria Luísa Dias,Female,36,Unknown,Construction & Extraction,516000000.0,Married_4,Brazil,81 0817 3887,foreman,0,3,3,1,1,Married,4
+13544,Amanda Howard,Female,39,Unknown,Construction & Extraction,602500000.0,Married_4,Australia,08.9480.5092,Call centre manager,0,1,1,1,1,Married,4
+17137,Amanda Horn,Female,40,Unknown,Construction & Extraction,583200000.0,Married_1,Australia,-6373,Brewing technologist,0,1,2,0,0,Married,1
+5063,Alana Siqueira,Female,37,Unknown,Construction & Extraction,523200000.0,Married_1,Brazil,+55 (061) 6828 6110,Upholsterer,0,3,1,0,0,Married,1
+13362,Courtney Atkinson,Female,36,Unknown,Construction & Extraction,557500000.0,Married_1,Australia,(02) 1915 3343,Higher education careers adviser,0,1,1,0,1,Married,1
+2626,Birthe Ring,Female,30,Bachelor,Healthcare Practitioners & Technical,909600000.0,Single_0,Denmark,07325208390,Designer,3,1,17,12,14,Single,0
+8488,고예진,Female,30,Bachelor,Healthcare Practitioners & Technical,1044000000.0,Single_0,Korea,016-086-5491,Management and Diagnostic Expert,1,1,19,21,21,Single,0
+4761,Tonya Johnson,Female,30,Bachelor,Healthcare Practitioners & Technical,1060000000.0,Single_0,Australia,07-2873-1556,Call centre manager,1,2,10,19,16,Single,0
+12088,Helena Mendes,Female,30,Unknown,Unemployed,1102500000.0,Married_4,Brazil,+55 (021) 2370-6749,Captain,3,4,1,8,1,Married,4
+12726,박현지,Female,30,Bachelor,Education&Training&Library,627500000.0,Single_0,Korea,070-1448-6385,Information and communication manager,0,3,0,3,0,Single,0
+18936,Bailey Ortiz,Female,69,Bachelor,Retired,1401600000.0,Married_1,Australia,(07).5693.5518,"Investment banker, corporate",0,0,6,3,1,Married,1
+3634,Ágatha Monteiro,Female,67,Bachelor,Retired,1420000000.0,Married_1,Brazil,+55 (021) 8969-6911,aeronautical engineer,0,1,8,2,1,Married,1
+16141,Sara Pastor,Female,60,Bachelor,Retired,1290000000.0,Married_1,Brazil,0500-116-3391,Sun lounger,0,0,6,1,0,Married,1
+8449,Michaele Heuser,Female,34,Bachelor,Transportation & Material Moving,832500000.0,Single_0,Denmark,02313 11804,Schornsteinfeger,0,3,6,13,1,Single,0
+13925,김정숙,Female,33,Bachelor,Transportation & Material Moving,840000000.0,Single_0,Korea,031-004-9685,Other Sports and Recreation Professionals,0,3,8,17,0,Single,0
+3380,Emanuelly Pimenta,Female,32,Bachelor,Transportation & Material Moving,700800000.0,Single_0,Brazil,+55 61 9916 8090,Physical,0,1,4,11,1,Single,0
+14493,Amber May,Female,33,Bachelor,Transportation & Material Moving,715000000.0,Single_0,Australia,0790326246,Actuary,0,1,8,9,1,Single,0
+7757,Susan Solis,Female,35,Bachelor,Transportation & Material Moving,832800000.0,Single_0,Australia,-6709,Pyhthesorapist,1,3,7,12,0,Single,0
+3825,Camila Fernandes,Female,34,Bachelor,Transportation & Material Moving,648000000.0,Single_0,Brazil,41 3755 3012,Allergist,0,3,6,16,0,Single,0
+10231,Lori Johnson,Female,50,Associate,Legal,8702400000.0,Married_1,Australia,69872524,Heritage manager,1,0,14,5,2,Married,1
+17615,Lotte Walter,Female,59,Associate,Legal,8972500000.0,Married_1,Denmark,0857163012,mathematician,0,0,9,6,2,Married,1
+5661,이은정,Female,56,Associate,Legal,8906400000.0,Married_1,Korea,041-638-1124,guitar delivery man,0,0,17,4,2,Married,1
+11017,Heidi Rodriguez,Female,60,Associate,Legal,5687500000.0,Married_2,Australia,0456-9111,Advertising copywriter,1,0,19,4,3,Married,2
+6453,강민서,Female,37,Masters,Arts Design Entertainment Sports & Media,1473600000.0,Married_1,Korea,064-765-4560,Musical instrument manufacturer and tuner,5,19,5,5,1,Married,1
+11563,Emilly Andrade,Female,36,Masters,Arts Design Entertainment Sports & Media,1347500000.0,Married_1,Brazil,+55 84 3131-4499,Vehicle keeper,8,19,4,8,2,Married,1
+16302,Univ.Prof. Telse Wiek,Female,37,Masters,Arts Design Entertainment Sports & Media,1476000000.0,Married_1,Denmark,09579 56972,Chemist,5,15,6,6,1,Married,1
+7722,Jeannette Heser B.Eng.,Female,38,Masters,Arts Design Entertainment Sports & Media,1370400000.0,Married_1,Denmark,04073 56219,policeman,8,10,8,6,3,Married,1
+17288,Frau Olga Ruppert B.Eng.,Female,40,Masters,Arts Design Entertainment Sports & Media,1212000000.0,Married_1,Denmark,+49(0)5231820767,Korean studies scholar,6,20,5,8,1,Married,1
+8434,Dr. Tina Brown MD,Female,40,Masters,Student,327500000.0,Divorced_2,Australia,2710 8615,Merchant navy officer,0,22,10,21,2,Divorced,2
+9457,Ana Sophia Jesus,Female,37,Masters,Student,345000000.0,Divorced_2,Brazil,+55 41 1746 4276,Accounting classifier,0,14,23,18,1,Divorced,2
+13340,Lorraine Foster,Female,36,Masters,Business & Financial,5150000000.0,Married_2,Australia,0431.065.754,"Administrator, Civil Service",0,4,1,4,2,Married,2
+17357,Agatha Campos,Female,37,Masters,Business & Financial,3998400000.0,Married_1,Brazil,84 6604-5777,Angiologist,0,4,1,8,1,Married,1
+14420,Cathrin Blümel-Zahn,Female,38,Masters,Business & Financial,7617600000.0,Married_3,Denmark,00916 964504,Physician,0,5,2,8,3,Married,3
+19905,Dipl.-Ing. Mareike Süßebier,Female,44,Unknown,Office & Administrative Support,925000000.0,Single_3,Denmark,(00744) 29331,Barber,1,0,1,1,0,Single,3
+12980,Crystal Underwood,Female,41,Unknown,Office & Administrative Support,796800000.0,Single_1,Australia,+61 484 834 666,Health visitor,0,1,1,0,0,Single,1
+5028,Frau Helen Buchholz B.Sc.,Female,42,Unknown,Office & Administrative Support,805000000.0,Single_1,Denmark,+49(0)0507684172,Barber,0,1,0,1,0,Single,1
+7136,Susan Torres,Female,44,Unknown,Office & Administrative Support,877500000.0,Single_2,Australia,0428 874 861,Intelligence analyst,1,1,1,0,0,Single,2
+7566,Regina Williams,Female,41,Unknown,Office & Administrative Support,862500000.0,Single_3,Australia,+61.416.745.262,Geoscientist,0,1,1,0,0,Single,3
+13031,Carin Stolze,Female,45,Unknown,Office & Administrative Support,695000000.0,Single_4,Denmark,+49(0)5286 78038,Asphaltbauer,0,0,1,0,0,Single,4
+12987,Ana Liz Martins,Female,44,Unknown,Office & Administrative Support,657600000.0,Single_2,Brazil,0500 274 0929,Odontologist legal,1,1,1,1,0,Single,2
+4074,Erin Todd,Female,34,Bachelor,Sales & Related,832800000.0,Single_0,Australia,26782614,Associate Professor,4,3,1,5,1,Single,0
+7751,Emily Murphy,Female,35,Bachelor,Sales & Related,880000000.0,Single_0,Australia,(07) 5278 5296,IT consultant,8,2,2,6,2,Single,0
+1878,김영숙,Female,32,Bachelor,Sales & Related,861600000.0,Single_0,Korea,064-788-3539,information systems operator,7,2,2,4,2,Single,0
+12773,Univ.Prof. Katherina Rädel B.Eng.,Female,32,Unknown,Education&Training&Library,1440000000.0,Married_1,Denmark,+49(0)0687 46478,Korean studies scholar,0,1,8,8,0,Married,1
+18388,강옥자,Female,32,Unknown,Education&Training&Library,1327500000.0,Married_2,Korea,043-201-0524,technical salesperson,0,1,8,8,1,Married,2
+13316,Courtney Zhang,Female,32,Unknown,Education&Training&Library,1327200000.0,Married_3,Australia,03.3686.2465,"Engineer, land",1,2,4,6,1,Married,3
+10256,신미경,Female,60,Unknown,Transportation & Material Moving,1912800000.0,Married_1,Korea,053-808-3167,Lighting and projectionist,0,0,5,12,1,Married,1
+13853,Emanuella Leão,Female,78,Unknown,Transportation & Material Moving,1939200000.0,Married_1,Brazil,+55 21 9921-9375,Lyricist,0,0,5,14,1,Married,1
+15067,Jessica Aguirre,Female,52,Unknown,Transportation & Material Moving,2085600000.0,Married_2,Australia,57804292,Personnel officer,0,0,7,16,1,Married,2
+11161,Kimberly Gill,Female,66,Unknown,Transportation & Material Moving,2030400000.0,Married_1,Australia,07-5631-0610,"Engineer, automotive",0,0,7,23,1,Married,1
+6458,Ayla Ribeiro,Female,49,Masters,Management,2066400000.0,Single_1,Brazil,31 5247-7907,Industrial engineer,0,0,21,4,0,Single,1
+17704,Anna Liz Vasconcelos,Female,46,Masters,Management,2185000000.0,Single_4,Brazil,11 5726-0486,Diver,0,0,15,6,0,Single,4
+14936,최춘자,Female,30,Unknown,Office & Administrative Support,1052500000.0,Single_0,Korea,031-775-8239,kitchen assistant,6,4,6,5,1,Single,0
+5420,Sarah Freitas,Female,44,Bachelor,Legal,11846400000.0,Married_1,Brazil,+55 (041) 9768-6470,Geriatrician,0,1,3,2,1,Married,1
+11993,Karolina Ackermann-Löffler,Female,44,Bachelor,Legal,4140000000.0,Married_1,Denmark,+49(0)7604 53379,Bank clerk,0,2,3,1,1,Married,1
+15894,Ariana Waters,Female,30,Bachelor,Architecture & Engineering,904800000.0,Married_2,Australia,9564-3948,"Surveyor, quantity",0,1,2,2,0,Married,2
+6198,Jessica Keller,Female,44,Bachelor,Education&Training&Library,11112500000.0,Married_2,Australia,-18252,Brewing technologist,1,2,3,7,1,Married,2
+14947,양정숙,Female,42,Bachelor,Education&Training&Library,8479200000.0,Married_2,Korea,051-967-7578,information systems operator,0,1,1,7,0,Married,2
+15520,Lotte Zirme,Female,42,Bachelor,Education&Training&Library,7248000000.0,Married_1,Denmark,(05902) 989882,Designer,1,1,2,7,0,Married,1
+11475,Debra Zavala,Female,44,Bachelor,Education&Training&Library,7315200000.0,Married_4,Australia,0779744990,Chiropodist,1,2,2,4,1,Married,4
+16290,Isabela da Cruz,Female,52,Bachelor,Education&Training&Library,1490000000.0,Married_2,Brazil,+55 11 2389 9424,military police,0,0,1,1,0,Married,2
+4277,Anna Patrick DDS,Female,58,Bachelor,Education&Training&Library,1238400000.0,Married_2,Australia,+61 429 487 220,"Pharmacist, hospital",0,0,1,0,0,Married,2
+10917,Angelica Lucas,Female,30,Associate,Unemployed,196800000.0,Single_0,Australia,(07)64710110,Animator,2,1,8,1,6,Single,0
+12526,Sara da Mata,Female,69,Bachelor,Life Physical Social Science,1292500000.0,Married_2,Brazil,0500-816-9641,telecommunications engineer,1,0,7,1,0,Married,2
+18888,Srta. Sabrina Cassiano,Female,56,Bachelor,Life Physical Social Science,1272500000.0,Married_2,Brazil,0300-443-4960,Wood technology technologist,1,0,4,0,1,Married,2
+2485,Amber Sanchez,Female,70,Bachelor,Life Physical Social Science,1418400000.0,Married_1,Australia,(03) 7200 0636,Industrial/product designer,1,0,8,1,0,Married,1
+8264,Lorena Moreira,Female,54,Bachelor,Life Physical Social Science,1240800000.0,Married_2,Brazil,+55 (071) 0254-5971,Trainer,1,0,6,0,0,Married,2
+7467,Frau Henrike Hande,Female,34,Unknown,Business & Financial,1247500000.0,Married_1,Denmark,07771 941566,Bank clerk,11,13,22,12,13,Married,1
+15555,최정희,Female,34,Unknown,Business & Financial,916800000.0,Married_3,Korea,064-717-6620,Afforestation/forest and logging farm,10,10,19,17,21,Married,3
+17837,Karen Mccoy,Female,40,Bachelor,Education&Training&Library,1390000000.0,Married_3,Australia,03 2407 2025,Chiropodist,20,2,8,2,3,Married,3
+1064,서미경,Female,38,Bachelor,Education&Training&Library,1540000000.0,Married_2,Korea,041-869-1221,Elevator installation and maintenance workers,18,3,6,1,3,Married,2
+17132,Maria Eduarda Silveira,Female,37,Bachelor,Education&Training&Library,1312500000.0,Married_1,Brazil,+55 (051) 7258-0397,Obstetrician,18,1,6,1,1,Married,1
+4461,Rachel Miller,Female,31,Highschool,Business & Financial,905000000.0,Divorced_2,Australia,(02).4976.2158,Special effects artist,3,1,3,1,8,Divorced,2
+10434,Isabela Carvalho,Female,32,Highschool,Business & Financial,705000000.0,Divorced_3,Brazil,0800-807-8689,Embalmer,2,1,2,1,6,Divorced,3
+11410,Michelle Parrish,Female,31,Highschool,Business & Financial,745000000.0,Divorced_4,Australia,0422.305.845,"Surveyor, land/geomatics",1,1,2,1,8,Divorced,4
+1586,Univ.Prof. Isolde Klingelhöfer,Female,33,Highschool,Business & Financial,787200000.0,Divorced_3,Denmark,00835569513,mathematician,1,0,3,1,5,Divorced,3
+11016,Jennifer Ramirez,Female,35,Highschool,Business & Financial,825000000.0,Divorced_1,Australia,0470-908-597,"Lighting technician, broadcasting/film/video",3,1,1,1,6,Divorced,1
+19876,박영숙,Female,34,Highschool,Business & Financial,878400000.0,Divorced_1,Korea,02-1532-9964,Other construction/electrical and production related managers,3,0,3,1,8,Divorced,1
+16749,Univ.Prof. Jo Seip B.Sc.,Female,33,Highschool,Business & Financial,680000000.0,Divorced_1,Denmark,+49(0)8748 42204,mechanic,2,1,1,0,5,Divorced,1
+19378,Sra. Luna Ramos,Female,32,Unknown,Food Preparation & Serving Related,388800000.0,Divorced_3,Brazil,(084) 8702-0013,Political,3,0,7,0,0,Divorced,3
+12226,Zoe Sales,Female,32,Unknown,Food Preparation & Serving Related,362400000.0,Divorced_4,Brazil,81 6543 8372,Shopping tracker,1,0,6,1,1,Divorced,4
+4112,Joanne Brady,Female,35,Unknown,Food Preparation & Serving Related,337500000.0,Divorced_2,Australia,-4505,Technical author,3,0,5,1,1,Divorced,2
+17670,권수빈,Female,42,Masters,Computer & Mathematical,2170000000.0,Married_2,Korea,018-667-7914,general practitioner,0,12,6,16,1,Married,2
+13970,Dra. Mirella Dias,Female,44,Masters,Computer & Mathematical,2112500000.0,Married_2,Brazil,81 7645 0088,Reporter,1,17,6,15,1,Married,2
+5472,Sarah Cirino,Female,45,Masters,Computer & Mathematical,2052500000.0,Married_4,Brazil,41 3978 2421,Clap loader,1,9,5,18,0,Married,4
+2074,Gerlind Hettner,Female,44,Masters,Computer & Mathematical,1905000000.0,Married_2,Denmark,+49 (0) 0204 233722,Asphaltbauer,0,17,5,13,0,Married,2
+8553,이미숙,Female,43,Masters,Computer & Mathematical,2017500000.0,Married_1,Korea,031-747-1915,Health care manager,1,11,6,9,1,Married,1
+12014,Lara Seifert B.Sc.,Female,43,Masters,Computer & Mathematical,1890000000.0,Married_2,Denmark,08607 921353,Construction specialist,0,15,8,13,1,Married,2
+16930,Dra. Maria Alice da Luz,Female,43,Bachelor,Business & Financial,12050000000.0,Married_1,Brazil,+55 (071) 4257 7120,artistic gymnast,3,1,0,1,1,Married,1
+17031,Trudel Dussen van,Female,42,Bachelor,Business & Financial,9177500000.0,Married_2,Denmark,03838 988177,Pilot,1,1,1,3,2,Married,2
+17678,Inken Hettner B.A.,Female,44,Bachelor,Business & Financial,2625000000.0,Married_1,Denmark,+49 (0) 3311 285976,Physician,2,1,1,3,2,Married,1
+1729,Maria Eduarda Cirino,Female,43,Bachelor,Business & Financial,10922500000.0,Married_2,Brazil,11 6226 8019,Sugar cane cutter,2,0,1,1,1,Married,2
+17789,조지영,Female,31,Highschool,Healthcare Support,751200000.0,Single_0,Korea,063-890-1714,Senior corporate executive,0,1,2,2,2,Single,0
+15305,박명숙,Female,32,Highschool,Healthcare Support,822500000.0,Single_0,Korea,043-053-7158,Literature and language instructor,0,3,1,2,3,Single,0
+6718,Maria Flor Aragão,Female,35,Highschool,Healthcare Support,825000000.0,Single_0,Brazil,+55 (011) 1184 7262,Odontologist legal,0,1,3,1,1,Single,0
+7070,Sophia Rios,Female,33,Highschool,Healthcare Support,790000000.0,Single_0,Brazil,(031) 0997 1292,IR Investor Relations Professional,0,1,1,3,1,Single,0
+2678,Srta. Júlia Leão,Female,35,Highschool,Healthcare Support,760000000.0,Single_0,Brazil,51 3258 5297,Linguistics professional,0,2,1,3,3,Single,0
+9926,Janet Barrett,Female,32,Unknown,Computer & Mathematical,4130000000.0,Married_0,Australia,(07) 7243 9640,"Editor, commissioning",0,1,3,21,1,Married,0
+1152,Renee Perkins,Female,32,Unknown,Computer & Mathematical,9072000000.0,Married_0,Australia,08.7569.0341,Media buyer,0,1,2,15,0,Married,0
+2862,Gundula Ebert,Female,31,Unknown,Computer & Mathematical,10598400000.0,Married_0,Denmark,+49(0) 706368594,Binnenschiff,0,1,2,22,1,Married,0
+5907,Charlotte Brown,Female,46,Unknown,Arts Design Entertainment Sports & Media,932500000.0,Married_0,Australia,+61.497.314.163,Broadcast journalist,1,8,3,2,0,Married,0
+8862,Judy Patton,Female,48,Unknown,Arts Design Entertainment Sports & Media,648000000.0,Married_0,Australia,+61 404 050 841,"Engineer, maintenance",1,8,1,2,1,Married,0
+7710,Ana Vieira,Female,47,Unknown,Arts Design Entertainment Sports & Media,770400000.0,Married_0,Brazil,31 2983 6509,Goldsmith,1,8,1,2,0,Married,0
+13706,Cecilia Ribeiro,Female,49,Unknown,Arts Design Entertainment Sports & Media,872500000.0,Married_0,Brazil,41 2584 1306,Marketing professional,1,8,1,2,0,Married,0
+18206,손예원,Female,48,Unknown,Arts Design Entertainment Sports & Media,895000000.0,Married_0,Korea,041-670-7317,Chassis assembly and installation crew,1,4,1,2,0,Married,0
+9865,Maria Flor Fernandes,Female,45,Unknown,Unemployed,600000000.0,Married_2,Brazil,(084) 5352 5732,Baker/Baker,0,0,4,1,0,Married,2
+7194,Juliana Ferreira,Female,42,Unknown,Unemployed,777600000.0,Married_2,Brazil,+55 (041) 1108 0248,Camera assistant,0,0,5,2,1,Married,2
+13168,Lisa Trujillo,Female,43,Unknown,Unemployed,796800000.0,Married_2,Australia,64090163,Museum/gallery exhibitions officer,0,0,4,1,1,Married,2
+9785,Erica Nette-Atzler,Female,45,Unknown,Protective Service,625000000.0,Divorced_1,Denmark,+49(0) 148859534,Pilot,0,0,5,1,1,Divorced,1
+8934,Amy Sparks,Female,42,Unknown,Protective Service,782500000.0,Divorced_1,Australia,(02)-4957-2737,Insurance account manager,1,0,5,2,0,Divorced,1
+6528,Ing. Swetlana Lorch,Female,42,Unknown,Protective Service,808800000.0,Divorced_1,Denmark,+49(0)8152321366,Computer scientist,1,1,5,2,1,Divorced,1
+9770,황순옥,Female,43,Unknown,Protective Service,827500000.0,Divorced_1,Korea,018-439-6688,Technical and functional instructor,1,1,5,1,0,Divorced,1
+8311,Natasha Shaw,Female,43,Unknown,Protective Service,630000000.0,Divorced_2,Australia,+61 7 1779 7968,Production manager,0,0,4,2,0,Divorced,2
+7264,Jessica Mejia,Female,34,Bachelor,Sales & Related,516000000.0,Married_1,Australia,5063.7437,Chief Technology Officer,0,1,3,2,1,Married,1
+8305,Luara Costa,Female,32,Bachelor,Sales & Related,377500000.0,Married_2,Brazil,+55 (051) 2229-5989,Dairy Technology Professional,1,2,1,1,0,Married,2
+16012,Rachel Bell,Female,31,Bachelor,Sales & Related,447500000.0,Married_3,Australia,-9963,Fashion designer,1,3,1,1,0,Married,3
+6235,Lindsay Reynolds,Female,34,Bachelor,Sales & Related,549600000.0,Married_4,Australia,72702573,Theme park manager,0,3,2,3,1,Married,4
+16095,Jodi Andrews,Female,33,Bachelor,Sales & Related,315000000.0,Married_3,Australia,+61.7.0613.8198,"Surveyor, quantity",1,2,3,1,1,Married,3
+9340,Ing. Margot Henk B.Eng.,Female,33,Bachelor,Sales & Related,540000000.0,Married_4,Denmark,+49(0)1827 580179,Chemist,0,3,1,2,1,Married,4
+12134,Carolina Brito,Female,30,Highschool,Business & Financial,405600000.0,Unmarried_0,Brazil,(061) 2017-6888,Fabric Printer,0,1,1,3,0,Unmarried,0
+2193,이예지,Female,30,Highschool,Business & Financial,470400000.0,Unmarried_0,Korea,044-947-2784,construction plumber,0,2,1,3,0,Unmarried,0
+1756,Mirella da Conceição,Female,54,Bachelor,Sales & Related,876000000.0,Single_0,Brazil,+55 (051) 6989 5136,Captain,0,1,2,2,3,Single,0
+3676,Centa Zobel,Female,57,Bachelor,Sales & Related,715000000.0,Single_0,Denmark,04913847727,Florist,0,0,2,2,1,Single,0
+1533,곽옥순,Female,58,Bachelor,Sales & Related,763200000.0,Single_0,Korea,061-478-6558,Goods moving equipment operator,0,0,1,3,1,Single,0
+14473,Univ.Prof. Kordula Barth,Female,75,Bachelor,Sales & Related,897500000.0,Single_0,Denmark,+49 (0) 3792 072101,Chemist,0,1,3,3,2,Single,0
+8324,박예원,Female,53,Bachelor,Sales & Related,609600000.0,Single_0,Korea,017-585-5051,Photo printing and developer operator,0,1,1,1,2,Single,0
+7341,주하윤,Female,44,Bachelor,Management,1622400000.0,Married_2,Korea,042-765-2836,Insurance and Finance Manager,1,8,7,5,1,Married,2
+1604,Allison Andrews,Female,45,Bachelor,Management,1627500000.0,Married_3,Australia,8544.5047,Higher education careers adviser,3,8,8,5,3,Married,3
+7100,Allana Garcia,Female,44,Bachelor,Management,1756800000.0,Married_2,Brazil,81 3762-2342,Gagsman,3,5,8,8,2,Married,2
+4166,Sydney Paul,Female,43,Bachelor,Management,1684800000.0,Married_1,Australia,08-5672-5685,Fitness centre manager,1,5,6,8,1,Married,1
+10150,Karen Jackson,Female,30,Unknown,Food Preparation & Serving Related,847200000.0,Single_0,Australia,0443 891 883,Geophysicist/field seismologist,1,3,1,1,1,Single,0
+11348,Rafaela Fogaça,Female,56,Associate,Arts Design Entertainment Sports & Media,835200000.0,Married_2,Brazil,71 8596 1011,Gravedigger/Burial,0,0,0,1,0,Married,2
+14785,Jessica Williams,Female,63,Associate,Arts Design Entertainment Sports & Media,907500000.0,Married_2,Australia,8506 7032,Actuary,0,0,1,3,0,Married,2
+16551,유현숙,Female,30,Bachelor,Healthcare Practitioners & Technical,3100000000.0,Married_0,Korea,018-924-3384,aircraft maintenance worker,0,1,2,8,1,Married,0
+1297,Dipl.-Ing. Victoria Dörschner B.A.,Female,30,Bachelor,Arts Design Entertainment Sports & Media,465000000.0,Single_0,Denmark,08721 140843,Binnenschiff,0,0,1,0,0,Single,0
+19400,Nancy Heuser,Female,30,Bachelor,Arts Design Entertainment Sports & Media,550000000.0,Single_0,Denmark,+49(0)7255 14804,mechanic,0,0,2,0,0,Single,0
+19934,Isabel Melo,Female,30,Bachelor,Arts Design Entertainment Sports & Media,343200000.0,Single_0,Brazil,61 1166-1546,petroleum engineer,0,0,2,0,1,Single,0
+10678,Tatiana Gnatz,Female,58,Masters,Education&Training&Library,6970000000.0,Married_4,Denmark,(04449) 81564,Nurse,6,13,7,5,4,Married,4
+19203,Caitlyn Orr,Female,69,Masters,Education&Training&Library,7172500000.0,Married_4,Australia,0474 750 312,Engineering geologist,6,11,5,4,8,Married,4
+12404,이서연,Female,78,Masters,Education&Training&Library,11742500000.0,Married_1,Korea,016-489-3349,Other petroleum and chemical processing equipment operators,7,13,6,7,5,Married,1
+3752,Marika Caspar,Female,38,Unknown,Computer & Mathematical,922500000.0,Married_3,Denmark,0831464009,mathematician,0,0,3,0,0,Married,3
+1767,김민지,Female,36,Unknown,Computer & Mathematical,762500000.0,Married_2,Korea,011-138-8607,metal processing machine operator,0,0,2,1,0,Married,2
+8863,Suzanne Grimes,Female,30,Bachelor,Protective Service,10347500000.0,Married_1,Australia,03.3494.7170,"Journalist, broadcasting",0,11,4,13,2,Married,1
+7803,Susan Walker,Female,79,Unknown,Unemployed,820000000.0,Married_0,Australia,+61.3.3706.3590,Commercial art gallery manager,0,0,3,7,0,Married,0
+10109,Alexandria Weiss,Female,64,Unknown,Unemployed,887500000.0,Married_0,Australia,+61.3.1721.5891,Oceanographer,0,0,2,7,0,Married,0
+1745,Mary Hodges,Female,67,Unknown,Unemployed,667200000.0,Married_0,Australia,08 5577 3724,Waste management officer,0,0,3,7,0,Married,0
+19183,Ana Julia Camargo,Female,47,Unknown,Protective Service,920000000.0,Single_0,Brazil,(031) 2345-3389,Co-pilot,3,0,7,3,3,Single,0
+11321,Laís Machado,Female,49,Unknown,Protective Service,890000000.0,Single_0,Brazil,+55 (061) 7673-4022,Biller,1,0,5,3,3,Single,0
+3944,김미경,Female,33,Bachelor,Sales & Related,1092000000.0,Unmarried_2,Korea,011-244-4596,legal clerk,2,1,7,6,1,Unmarried,2
+16676,Alana Nogueira,Female,31,Bachelor,Sales & Related,1150000000.0,Unmarried_4,Brazil,(041) 4629 7320,Archive technician,2,1,5,5,0,Unmarried,4
+15348,Heloisa Pastor,Female,39,Bachelor,Computer & Mathematical,1510000000.0,Married_0,Brazil,+55 (084) 0771 7299,Mechanical designer,1,0,5,6,0,Married,0
+14642,최숙자,Female,37,Bachelor,Computer & Mathematical,1505000000.0,Married_0,Korea,070-1253-7055,Publications Specialist,0,0,5,5,0,Married,0
+9539,Megan Howard,Female,39,Masters,Education&Training&Library,1040000000.0,Single_3,Australia,0442 637 501,Maintenance engineer,0,0,4,1,0,Single,3
+10207,양예은,Female,39,Masters,Legal,1749600000.0,Unmarried_0,Korea,063-903-5754,Other manufacturing-related machine operators,3,9,4,19,3,Unmarried,0
+19332,Ayla Azevedo,Female,39,Masters,Legal,1680000000.0,Unmarried_0,Brazil,+55 (051) 3069-6376,Multimedia producer,2,18,8,12,3,Unmarried,0
+18137,Wera Schomber,Female,49,Unknown,Personal Care & Service,1070000000.0,Married_1,Denmark,(05881) 132665,Korean studies scholar,0,0,1,3,1,Married,1
+5999,Maria Julia Nascimento,Female,47,Unknown,Personal Care & Service,1142400000.0,Married_4,Brazil,0800-359-0451,Production assistant,0,1,1,2,1,Married,4
+7513,Hannah Wright,Female,34,Unknown,Office & Administrative Support,1192800000.0,Married_3,Australia,+61 3 7593 6618,Quarry manager,3,3,5,1,0,Married,3
+3119,Dr. Rebekah Simmons,Female,33,Unknown,Office & Administrative Support,981600000.0,Married_1,Australia,(03)75333755,Hospital pharmacist,1,1,6,3,0,Married,1
+13203,Holly Gonzalez,Female,31,Unknown,Office & Administrative Support,960000000.0,Married_2,Australia,(07)-3813-1744,Insurance underwriter,2,1,7,2,1,Married,2
+1298,Melanie Chase,Female,34,Unknown,Office & Administrative Support,1152000000.0,Married_3,Australia,4001-3871,Educational psychologist,3,3,5,2,0,Married,3
+1555,Anna-Lena Ernst MBA.,Female,35,Unknown,Office & Administrative Support,1149600000.0,Married_1,Denmark,+49(0)1846442991,programmer,1,2,4,1,1,Married,1
+3851,Tammy Ruiz,Female,30,Masters,Education&Training&Library,1125000000.0,Unmarried_0,Australia,0449-474-253,"Surveyor, land/geomatics",0,3,2,2,1,Unmarried,0
+3297,Maria Luiza Souza,Female,63,Masters,Sales & Related,1104000000.0,Divorced_1,Brazil,(041) 4816-4416,Cartographer,0,1,7,1,1,Divorced,1
+13662,Dipl.-Ing. Diana Fritsch MBA.,Female,72,Masters,Sales & Related,987500000.0,Divorced_1,Denmark,(00770) 03582,Nurse,0,2,5,3,1,Divorced,1
+14054,이현주,Female,66,Bachelor,Retired,1247500000.0,Single_0,Korea,031-421-6731,Railway locomotive and train maintenance worker,0,0,1,8,1,Single,0
+14020,이수민,Female,32,Bachelor,Community & Social Services,1308000000.0,Single_0,Korea,051-908-2997,Sign production and installation workers,4,1,1,1,0,Single,0
+5346,나영숙,Female,31,Bachelor,Community & Social Services,1302500000.0,Single_0,Korea,031-770-6784,financial office worker,6,1,1,2,1,Single,0
+2946,Sharon Johnson,Female,31,Bachelor,Community & Social Services,1456800000.0,Single_0,Australia,07.8165.7590,Transport planner,4,1,2,1,0,Single,0
+1476,손서윤,Female,34,Bachelor,Community & Social Services,1537500000.0,Single_0,Korea,044-331-1701,Entertainers and Sports Managers,7,3,2,1,0,Single,0
+15599,Olívia Peixoto,Female,31,Bachelor,Community & Social Services,1262400000.0,Single_0,Brazil,+55 (021) 1359 5336,Rubber,6,1,3,3,1,Single,0
+17972,Sandra Wright,Female,32,Bachelor,Community & Social Services,1308000000.0,Single_0,Australia,0363179299,Public librarian,7,3,2,1,0,Single,0
+18032,Frau Dorothe Fischer,Female,34,Unknown,Arts Design Entertainment Sports & Media,513600000.0,Married_2,Denmark,(05062) 267026,geriatric nurse,0,2,7,8,0,Married,2
+17785,Kaitlyn Jones,Female,34,Unknown,Arts Design Entertainment Sports & Media,315000000.0,Married_1,Australia,02-9286-8130,Occupational hygienist,0,1,6,4,0,Married,1
+15859,Kimberly Mcconnell,Female,31,Unknown,Arts Design Entertainment Sports & Media,499200000.0,Married_1,Australia,-1066,"Librarian, academic",0,1,5,4,0,Married,1
+18606,강은지,Female,34,Unknown,Unemployed,1455000000.0,Married_0,Korea,033-474-1425,debt collector,0,0,2,12,1,Married,0
+3422,송하은,Female,35,Unknown,Unemployed,1204800000.0,Married_0,Korea,061-163-5135,radiologist,0,0,3,22,2,Married,0
+9234,Melissa Barros,Female,35,Unknown,Unemployed,1537500000.0,Married_0,Brazil,+55 84 2849 8943,Auditor,0,0,2,11,2,Married,0
+8570,Wilhelmine Naser,Female,34,Unknown,Unemployed,1365600000.0,Married_0,Denmark,(00205) 608631,Nurse,0,0,1,17,2,Married,0
+16616,Birthe Weitzel B.Eng.,Female,34,Unknown,Unemployed,1252800000.0,Married_0,Denmark,+49 (0) 3831 694385,Schornsteinfeger,0,0,1,10,1,Married,0
+8118,Laura Garcia,Female,63,Masters,Education&Training&Library,496800000.0,Single_0,Brazil,0300 145 5187,Multimedia producer,0,0,7,7,0,Single,0
+13858,Nicole Lopes,Female,58,Unknown,Management,1110000000.0,Unmarried_3,Brazil,0300 955 6932,Network administrator,0,0,8,2,1,Unmarried,3
+12922,나서윤,Female,52,Unknown,Management,1085000000.0,Unmarried_2,Korea,061-373-4027,aircraft pilot,0,0,7,2,1,Unmarried,2
+2445,Marianna Rosemann,Female,78,Unknown,Management,967200000.0,Unmarried_1,Denmark,+49(0)4600626450,mathematician,0,0,8,2,0,Unmarried,1
+2169,Judy Mclaughlin,Female,30,Masters,Legal,1145000000.0,Unmarried_0,Australia,03.1082.9278,Financial manager,0,0,3,1,0,Unmarried,0
+6141,김영희,Female,30,Unknown,Student,825000000.0,Unmarried_0,Korea,041-023-0816,concrete ball,0,1,2,1,1,Unmarried,0
+1143,Emily Moran MD,Female,30,Associate,Office & Administrative Support,583200000.0,Unmarried_0,Australia,+61.493.664.040,Rural practice surveyor,1,3,2,1,3,Unmarried,0
+8276,윤지혜,Female,30,Bachelor,Personal Care & Service,342500000.0,Single_0,Korea,033-841-2713,cinematographer,0,9,1,1,0,Single,0
+10283,Sabine Benthin,Female,74,Bachelor,Unemployed,220800000.0,Single_0,Denmark,+49 (0) 9381 560223,Nurse,0,0,1,1,0,Single,0
+19622,Daria Aumann-Drewes,Female,61,Bachelor,Unemployed,136800000.0,Single_0,Denmark,0871640172,forester,0,0,0,0,0,Single,0
+18844,Miss Natasha Owens,Female,58,Bachelor,Unemployed,105600000.0,Single_0,Australia,(03) 8122 5991,Mudlogger,0,0,0,0,0,Single,0
+8715,Luara Mendes,Female,43,Unknown,Business & Financial,577500000.0,Single_2,Brazil,+55 21 7397-3191,Psychopedagogue,0,1,1,0,0,Single,2
+10513,Veronica Martinez,Female,44,Unknown,Business & Financial,445000000.0,Single_1,Australia,-16263,Pyhthesorapist,0,1,0,0,0,Single,1
+14834,이은경,Female,52,Highschool,Management,1094400000.0,Single_0,Korea,062-518-2636,Chinese chef and cook,1,1,0,0,1,Single,0
+15778,이정희,Female,54,Highschool,Management,1115000000.0,Single_0,Korea,044-402-9905,Officer level or higher,0,0,0,1,3,Single,0
+2941,Hanne Eberhardt,Female,78,Highschool,Management,1112500000.0,Single_0,Denmark,+49(0) 826328244,Artist,0,0,1,1,1,Single,0
+15095,Jessica Curtis,Female,63,Highschool,Management,955000000.0,Single_0,Australia,0416.539.378,Network engineer,0,1,1,1,1,Single,0
+12964,이미경,Female,39,Masters,Education&Training&Library,758400000.0,Single_1,Korea,054-211-0295,plasterer,0,5,4,3,0,Single,1
+8812,Srta. Clarice Costa,Female,39,Masters,Education&Training&Library,645000000.0,Single_2,Brazil,+55 (061) 9092-4862,About the dialogue,1,8,7,1,1,Single,2
+14806,Mary Hayden,Female,38,Masters,Education&Training&Library,660000000.0,Single_2,Australia,+61.7.6876.0030,"Radiographer, therapeutic",1,4,5,2,0,Single,2
+10738,이경숙,Female,38,Masters,Education&Training&Library,864000000.0,Single_2,Korea,052-421-4207,judge and prosecutor,1,8,8,1,1,Single,2
+7504,Univ.Prof. Semra Martin B.Eng.,Female,35,Bachelor,Production Occupations,1000000000.0,Single_1,Denmark,00452 07392,Electronics engineer,1,0,5,15,0,Single,1
+12608,김옥자,Female,31,Bachelor,Production Occupations,1147500000.0,Single_2,Korea,033-282-9518,Electrical parts and product manufacturing machine operator,0,0,5,12,0,Single,2
+13574,Annett Heinrich,Female,30,Masters,Unemployed,1667500000.0,Married_0,Denmark,+49(0) 221545140,programmer,6,1,8,6,2,Married,0
+3187,Carla Braun,Female,30,Masters,Unemployed,1625000000.0,Married_0,Australia,61313951189,Medical sales representative,4,3,8,8,3,Married,0
+2639,문미경,Female,43,Associate,Sales & Related,812500000.0,Single_2,Korea,017-590-6293,other office workers,0,1,4,7,2,Single,2
+5548,노은정,Female,44,Associate,Sales & Related,784800000.0,Single_1,Korea,018-817-0666,Oriental medicine doctor,0,0,8,4,2,Single,1
+7286,Milena Barros,Female,45,Associate,Sales & Related,680000000.0,Single_3,Brazil,+55 41 2110 7738,Dentist,0,0,7,4,2,Single,3
+4288,Nelli Mühle,Female,45,Associate,Sales & Related,820000000.0,Single_4,Denmark,+49 (0) 9655 162549,Barber,0,1,7,5,2,Single,4
+17862,Zdenka Drub B.A.,Female,32,Bachelor,Management,633600000.0,Unmarried_2,Denmark,+49(0)6838357922,Winzer,7,1,2,8,2,Unmarried,2
+3591,김정자,Female,31,Bachelor,Management,902500000.0,Unmarried_1,Korea,011-369-2725,Unloading and loading simple workers,8,1,1,8,3,Unmarried,1
+9563,Karen Long,Female,75,Masters,Arts Design Entertainment Sports & Media,1197500000.0,Single_0,Australia,-1525,Amenity horticulturist,2,7,5,8,1,Single,0
+11970,Meghan Bowman,Female,60,Masters,Arts Design Entertainment Sports & Media,938400000.0,Single_0,Australia,(02).0672.0277,"Horticulturist, amenity",3,4,6,4,1,Single,0
+3605,이숙자,Female,66,Masters,Arts Design Entertainment Sports & Media,948000000.0,Single_0,Korea,042-161-1942,Home appliance installer and repairman,1,8,8,5,2,Single,0
+19477,Hellena da Mota,Female,59,Masters,Arts Design Entertainment Sports & Media,1056000000.0,Single_0,Brazil,+55 (061) 0709 7801,cartoonist,1,6,5,5,2,Single,0
+5918,Sarah Azevedo,Female,30,Masters,Community & Social Services,1465000000.0,Married_0,Brazil,+55 (051) 5090 3495,Rectifier,1,0,1,12,1,Married,0
+6177,김지혜,Female,54,Masters,Retired,912000000.0,Divorced_0,Korea,02-3266-6055,landscape engineer,0,0,5,3,0,Divorced,0
+13397,고하은,Female,75,Masters,Retired,969600000.0,Divorced_0,Korea,054-773-1508,Railway locomotive and train maintenance worker,0,0,7,3,0,Divorced,0
+9045,Prof. Theodora Heydrich,Female,51,Masters,Retired,907200000.0,Divorced_0,Denmark,(02796) 33657,IT specialist,0,0,7,3,0,Divorced,0
+15769,Prof. Nadia Stolze,Female,61,Masters,Retired,1142400000.0,Divorced_0,Denmark,+49(0)5238887874,Nurse,0,0,7,2,0,Divorced,0
+14957,Clarice Aragão,Female,30,Highschool,Unemployed,26400000.0,Single_2,Brazil,(051) 6898-3078,Continuist,1,0,5,2,0,Single,2
+18762,Senta Beyer,Female,63,Masters,Unemployed,256800000.0,Single_0,Denmark,05120553854,Chemist,0,9,1,0,1,Single,0
+2175,박숙자,Female,57,Masters,Unemployed,282500000.0,Single_0,Korea,016-996-1319,forge operator,0,10,1,1,1,Single,0
+8895,Kathy Short,Female,63,Masters,Unemployed,60000000.0,Single_0,Australia,(07).2322.6742,Legal secretary,0,17,3,1,1,Single,0
+9328,송현정,Female,68,Masters,Unemployed,192000000.0,Single_0,Korea,017-603-7932,Water/sewage treatment equipment operator,0,22,1,1,1,Single,0
+1300,Eva Hermighausen-Hölzenbecher,Female,74,Masters,Unemployed,210000000.0,Single_0,Denmark,0070488040,Baker,0,15,1,1,1,Single,0
+10171,Dr. Aynur Drewes MBA.,Female,54,Masters,Unemployed,290400000.0,Single_0,Denmark,+49 (0) 9655 859068,Bank clerk,0,20,3,0,1,Single,0
+1276,박은정,Female,63,Masters,Unemployed,84000000.0,Single_0,Korea,033-667-2769,Sign production and installation workers,0,11,3,0,1,Single,0
+2340,Maria Sophia Vargas,Female,31,Highschool,Computer & Mathematical,435000000.0,Unmarried_0,Brazil,+55 51 7923 4756,Mechanical designer,3,3,7,1,0,Unmarried,0
+13501,Kara Buckley,Female,35,Highschool,Computer & Mathematical,617500000.0,Unmarried_0,Australia,0471 554 587,"Psychotherapist, dance movement",2,2,8,2,1,Unmarried,0
+17545,박선영,Female,32,Highschool,Computer & Mathematical,330000000.0,Unmarried_0,Korea,051-275-1794,Sanitation workers and recycling collectors,3,3,4,2,1,Unmarried,0
+9718,Alicia Davis,Female,33,Highschool,Computer & Mathematical,420000000.0,Unmarried_0,Australia,0478-359-813,Hotel manager,3,1,7,3,1,Unmarried,0
+8055,Katherine Reyes,Female,34,Highschool,Computer & Mathematical,462500000.0,Unmarried_0,Australia,+61 7 5287 9308,Electrical engineer,2,3,4,2,0,Unmarried,0
+6555,Univ.Prof. Angela Klotz,Female,33,Highschool,Computer & Mathematical,460800000.0,Unmarried_0,Denmark,(03635) 97071,Fleischer,3,3,8,1,1,Unmarried,0
+9794,Susan Cook,Female,45,Unknown,Arts Design Entertainment Sports & Media,1737500000.0,Married_2,Australia,4863-6278,Heritage manager,1,0,2,3,0,Married,2
+5013,김아름,Female,42,Unknown,Arts Design Entertainment Sports & Media,1625000000.0,Married_1,Korea,010-5328-1593,Other medical/welfare related service workers,0,0,1,1,1,Married,1
+17394,Betty Mcdaniel,Female,44,Unknown,Arts Design Entertainment Sports & Media,1612800000.0,Married_3,Australia,02-0660-6167,Radio broadcast assistant,0,0,2,1,0,Married,3
+2970,이보람,Female,32,Unknown,Computer & Mathematical,9530000000.0,Married_0,Korea,041-099-6191,welder operator,1,0,9,5,2,Married,0
+17481,황은경,Female,32,Unknown,Computer & Mathematical,4003200000.0,Married_0,Korea,02-2683-4926,Glass manufacturing and processing machine operator,1,0,13,6,3,Married,0
+5432,Victoria Kim,Female,34,Masters,Computer & Mathematical,1657500000.0,Married_3,Australia,08 7393 0309,Professor Emeritus,1,6,4,2,0,Married,3
+10972,Dra. Ester Souza,Female,35,Masters,Computer & Mathematical,1660800000.0,Married_2,Brazil,(041) 0728 4961,Health defense agent,0,7,8,3,0,Married,2
+11958,Tracy Smith,Female,34,Masters,Computer & Mathematical,1569600000.0,Married_1,Australia,03 7270 8305,"Scientist, audiological",1,6,7,3,0,Married,1
+16777,Frau Antonia Seifert B.A.,Female,32,Masters,Computer & Mathematical,1516800000.0,Married_2,Denmark,+49(0) 621216971,Pilot,0,4,8,3,0,Married,2
+5130,이서영,Female,33,Masters,Computer & Mathematical,1615000000.0,Married_1,Korea,033-301-3748,Power generation and distribution equipment operator,1,4,6,2,0,Married,1
+17948,Jessica Padilla,Female,54,Masters,Community & Social Services,856800000.0,Divorced_1,Australia,(08).8272.2838,Furniture designer,0,3,1,7,0,Divorced,1
+4494,김현정,Female,75,Masters,Community & Social Services,892500000.0,Divorced_1,Korea,018-595-4390,Recycling and incinerator operators,0,3,1,5,1,Divorced,1
+16362,Lieselotte Mülichen,Female,69,Masters,Community & Social Services,660000000.0,Divorced_4,Denmark,+49 (0) 2657 007286,Surgeon and mechanic,0,1,1,8,1,Divorced,4
+4715,Maria Flor Monteiro,Female,73,Masters,Community & Social Services,616800000.0,Divorced_1,Brazil,(081) 6464-5579,Receptionist,0,2,1,8,0,Divorced,1
+9519,김영순,Female,50,Masters,Community & Social Services,662500000.0,Divorced_1,Korea,011-059-0640,part-time university lecturer,0,1,1,4,1,Divorced,1
+16610,Dra. Maria Fernanda Brito,Female,72,Masters,Community & Social Services,845000000.0,Divorced_1,Brazil,11 1280-1050,Clarinettist,0,2,0,7,0,Divorced,1
+15580,안정자,Female,41,Bachelor,Office & Administrative Support,1641600000.0,Married_0,Korea,02-5320-5219,Metal/Materials Engineering Testing Institute,5,1,6,14,1,Married,0
+7143,오명숙,Female,41,Bachelor,Office & Administrative Support,1822500000.0,Married_0,Korea,031-452-5370,Other manufacturing-related machine operators,7,2,6,13,1,Married,0
+2725,Maria Luiza Gomes,Female,34,Associate,Unemployed,1090000000.0,Married_1,Brazil,+55 (071) 0119-2687,Brewmaster,0,1,1,3,3,Married,1
+12348,Heiderose Jungfer,Female,33,Associate,Unemployed,933600000.0,Married_1,Denmark,+49(0)0048085406,mechanic,0,1,2,1,3,Married,1
+17946,Cecília Rezende,Female,34,Unknown,Arts Design Entertainment Sports & Media,3522500000.0,Married_0,Brazil,(041) 1249 8257,Press advisor,0,1,10,6,1,Married,0
+16133,최윤서,Female,31,Unknown,Arts Design Entertainment Sports & Media,4161600000.0,Married_0,Korea,042-700-7328,architectural painter,0,0,22,6,1,Married,0
+7280,송유진,Female,34,Unknown,Arts Design Entertainment Sports & Media,3511200000.0,Married_0,Korea,011-462-9288,Western chef and cook,1,1,19,4,2,Married,0
+11003,Esther da Cruz,Female,49,Highschool,Unemployed,412800000.0,Married_3,Brazil,(081) 9398-9602,Microphonist,0,0,0,0,0,Married,3
+3568,Dörthe Rosemann-Heydrich,Female,49,Highschool,Unemployed,332500000.0,Married_1,Denmark,(07308) 872578,mechanic,0,0,1,0,0,Married,1
+4446,차경희,Female,47,Highschool,Unemployed,408000000.0,Married_1,Korea,054-777-9340,Elevator installation and maintenance workers,0,0,0,0,0,Married,1
+12886,Alana da Cruz,Female,48,Highschool,Unemployed,465000000.0,Married_2,Brazil,+55 81 1304-3226,Lieutenant,0,0,1,1,0,Married,2
+15768,Univ.Prof. Notburga Fechner B.Sc.,Female,46,Highschool,Unemployed,304800000.0,Married_2,Denmark,04486 83048,official,0,0,1,0,0,Married,2
+9619,이영숙,Female,73,Masters,Unemployed,487200000.0,Single_0,Korea,018-396-0018,Food engineering technician and researcher,0,5,3,2,0,Single,0
+11539,Sarah Renner,Female,66,Masters,Unemployed,499200000.0,Single_0,Denmark,+49(0)3156 211233,Binnenschiff,0,7,2,3,0,Single,0
+15821,이춘자,Female,45,Masters,Business & Financial,2160000000.0,Married_2,Korea,064-717-8741,Assembler of electrical/electronic components and products,0,1,23,4,0,Married,2
+13884,Ella Pieper B.Sc.,Female,42,Masters,Business & Financial,1947500000.0,Married_2,Denmark,+49(0)2323 80740,Medizininformatiker,1,3,17,5,0,Married,2
+18591,Samantha Sanders,Female,45,Masters,Business & Financial,1838400000.0,Married_1,Australia,02 5318 0544,Clinical molecular geneticist,0,1,20,4,1,Married,1
+15389,Luna Almeida,Female,45,Masters,Business & Financial,1975000000.0,Married_3,Brazil,+55 (071) 8323-0296,Paramedical,1,1,18,4,1,Married,3
+9412,Tracy Crawford,Female,42,Masters,Business & Financial,1824000000.0,Married_4,Australia,-1803,Careers information officer,1,3,23,4,1,Married,4
+6254,박수민,Female,31,Unknown,Computer & Mathematical,10170000000.0,Married_0,Korea,010-0405-6787,bodyguard,1,0,9,5,0,Married,0
+8421,Jacqueline Barry,Female,33,Unknown,Computer & Mathematical,5907500000.0,Married_0,Australia,08-0079-7120,"Scientist, biomedical",1,1,15,5,0,Married,0
+3069,Susanne Eimer,Female,34,Unknown,Computer & Mathematical,11092800000.0,Married_0,Denmark,(06580) 143839,Pilot,0,1,9,7,0,Married,0
+11323,Franca Heß,Female,35,Masters,Education&Training&Library,518400000.0,Married_1,Denmark,(01328) 81987,technician,0,3,0,3,1,Married,1
+17672,김지아,Female,33,Masters,Education&Training&Library,403200000.0,Married_1,Korea,053-127-6419,기타 여가 및 스포츠 관련 종사원,0,1,0,2,3,Married,1
+16167,Michelle Mendoza,Female,33,Masters,Education&Training&Library,444000000.0,Married_1,Australia,43971813,"Engineer, water",0,2,1,1,2,Married,1
+13817,Anna Hernandez,Female,68,Bachelor,Retired,67200000.0,Divorced_1,Australia,+61 409 550 131,Recruitment consultant,0,7,19,19,1,Divorced,1
+16077,Frau Traude Stroh,Female,56,Bachelor,Retired,192500000.0,Divorced_2,Denmark,+49 (0) 2604 269590,Barber,0,4,9,12,0,Divorced,2
+3335,손하윤,Female,64,Bachelor,Retired,245000000.0,Divorced_1,Korea,062-588-6874,Simple manufacturing-related workers,0,8,19,17,0,Divorced,1
+2804,Kamilly Aparecida,Female,45,Bachelor,Personal Care & Service,8971200000.0,Married_1,Brazil,+55 (061) 1071-6338,Materials engineer,1,0,1,1,1,Married,1
+18736,차춘자,Female,42,Bachelor,Personal Care & Service,3513600000.0,Married_1,Korea,017-548-6267,customs broker,1,0,0,1,3,Married,1
+17884,Swetlana Heser,Female,72,Unknown,Arts Design Entertainment Sports & Media,960000000.0,Married_4,Denmark,+49(0)7715 78164,Florist,0,2,0,3,1,Married,4
+9287,최영순,Female,30,Bachelor,Office & Administrative Support,2294400000.0,Single_0,Korea,044-002-1891,Food service manager,11,0,1,1,1,Single,0
+13487,민경숙,Female,30,Bachelor,Office & Administrative Support,2392500000.0,Single_0,Korea,041-769-4773,Meat/fish and dairy product processing machine operator,11,1,3,2,2,Single,0
+1460,Babett Hänel,Female,30,Bachelor,Computer & Mathematical,807500000.0,Single_0,Denmark,+49(0)8241584475,Barber,0,0,7,3,0,Single,0
+6662,Debbie Burnett,Female,76,Bachelor,Sales & Related,1280000000.0,Married_2,Australia,-2621,"Psychotherapist, child",4,5,2,2,1,Married,2
+12354,Susan Scott,Female,33,Masters,Life Physical Social Science,1555000000.0,Unmarried_2,Australia,+61.492.394.648,"Nurse, learning disability",0,0,1,0,0,Unmarried,2
+7033,Ana Julia Fernandes,Female,34,Masters,Life Physical Social Science,1522500000.0,Unmarried_1,Brazil,41 7097-9229,Florista,0,0,0,0,0,Unmarried,1
+19268,장지아,Female,33,Masters,Life Physical Social Science,1487500000.0,Unmarried_2,Korea,042-578-6012,Hanbok manufacturer,0,0,1,0,0,Unmarried,2
+17239,Marta Riehl,Female,43,Unknown,Unemployed,305000000.0,Unmarried_1,Denmark,0897549407,Nurse,0,2,2,7,1,Unmarried,1
+8988,Jacqueline Richardson,Female,44,Unknown,Unemployed,82500000.0,Unmarried_1,Australia,0421 608 044,Copy,0,1,2,5,1,Unmarried,1
+15763,Steffi Rust,Female,36,Unknown,Healthcare Practitioners & Technical,535200000.0,Single_1,Denmark,+49(0)6035 35675,Bank clerk,0,1,17,8,1,Single,1
+17430,최현주,Female,37,Unknown,Healthcare Practitioners & Technical,571200000.0,Single_2,Korea,055-324-4569,internet salesman,0,1,21,5,1,Single,2
+6999,Dra. Eduarda Vieira,Female,36,Unknown,Healthcare Practitioners & Technical,552500000.0,Single_1,Brazil,(011) 8357-5762,Public relations,0,1,20,6,1,Single,1
+5996,Brittany Wright,Female,36,Unknown,Healthcare Practitioners & Technical,425000000.0,Single_2,Australia,03.9066.5879,"Administrator, arts",0,0,12,5,0,Single,2
+19961,Lavínia Cunha,Female,37,Unknown,Computer & Mathematical,615000000.0,Unmarried_1,Brazil,31 0516-0172,Packer,0,2,0,2,6,Unmarried,1
+10916,Diana Mitschke,Female,40,Unknown,Computer & Mathematical,502500000.0,Unmarried_1,Denmark,+49(0) 874233864,Surgeon and mechanic,0,1,1,2,5,Unmarried,1
+3352,Dörte Schinke B.A.,Female,39,Unknown,Computer & Mathematical,343200000.0,Unmarried_1,Denmark,+49(0)6066 646111,technician,0,1,1,3,8,Unmarried,1
+14056,Jessica Alvarado,Female,36,Unknown,Computer & Mathematical,573600000.0,Unmarried_4,Australia,(02) 3204 7785,Writer,0,2,0,3,8,Unmarried,4
+8026,Stephanie Wilson,Female,32,Bachelor,Unemployed,11815200000.0,Single_0,Australia,(08).4042.5612,Broadcast journalist,0,7,19,8,0,Single,0
+14061,Tara Terrell,Female,32,Bachelor,Unemployed,2705000000.0,Single_0,Australia,(03)-7829-1381,Water quality scientist,0,6,17,4,1,Single,0
+9709,Thekla Oderwald,Female,33,Unknown,Computer & Mathematical,5815200000.0,Married_0,Denmark,+49(0)8651 44874,Korean studies scholar,1,1,19,7,0,Married,0
+14964,Rafaela Santos,Female,34,Unknown,Computer & Mathematical,11119200000.0,Married_0,Brazil,(031) 5461 8412,Jogador de basquete,1,0,22,4,1,Married,0
+2939,Allison King,Female,35,Unknown,Computer & Mathematical,7123200000.0,Married_0,Australia,-7046,"Surveyor, quantity",0,0,16,5,0,Married,0
+1425,김하윤,Female,34,Unknown,Computer & Mathematical,8390000000.0,Married_0,Korea,063-507-1108,Employees in other construction-related functions,0,1,22,6,0,Married,0
+12792,이지민,Female,33,Unknown,Computer & Mathematical,9045000000.0,Married_0,Korea,011-869-0645,loss adjuster,0,1,20,4,1,Married,0
+10062,장민서,Female,31,Unknown,Computer & Mathematical,11635000000.0,Married_0,Korea,043-037-0699,Ship deck crew and related employees,0,0,20,5,0,Married,0
+11356,김은서,Female,66,Bachelor,Office & Administrative Support,1112500000.0,Single_2,Korea,011-514-0643,Textile engineering technician and researcher,0,5,3,1,1,Single,2
+17418,Lauren Mclaughlin,Female,52,Bachelor,Office & Administrative Support,1020000000.0,Single_1,Australia,(07)-8099-6225,Town planner,1,4,1,1,3,Single,1
+8106,Gretl Jacob,Female,66,Bachelor,Office & Administrative Support,1150000000.0,Single_1,Denmark,0969939401,Asphaltbauer,1,7,1,2,3,Single,1
+14677,Sra. Ana Beatriz Costela,Female,30,Unknown,Healthcare Support,1120800000.0,Single_0,Brazil,+55 (051) 8963 1582,Cantor,0,1,2,17,16,Single,0
+14720,박은지,Female,30,Unknown,Healthcare Support,1094400000.0,Single_0,Korea,042-650-3679,가구조립원,0,0,2,16,16,Single,0
+9066,서은경,Female,51,Unknown,Education&Training&Library,1305000000.0,Married_1,Korea,061-326-9844,기타 여가 및 스포츠 관련 종사원,0,0,6,3,1,Married,1
+14181,Milena Cavalcanti,Female,62,Unknown,Education&Training&Library,1312800000.0,Married_1,Brazil,(031) 7930-6330,Civil police officer,0,0,6,2,1,Married,1
+2312,Daniela da Cunha,Female,68,Unknown,Education&Training&Library,1420800000.0,Married_1,Brazil,0900 042 6443,Anthropologist,1,0,6,2,1,Married,1
+1270,Helen Thompson,Female,60,Unknown,Education&Training&Library,1505000000.0,Married_4,Australia,08.8297.1940,Insurance broker,0,0,4,1,0,Married,4
+13982,안유진,Female,45,Associate,Education&Training&Library,1740000000.0,Married_4,Korea,010-2140-1306,social science researcher,0,1,0,1,1,Married,4
+12545,성경자,Female,41,Associate,Education&Training&Library,1585000000.0,Married_4,Korea,044-139-5089,Sports and Recreation Instructor,0,1,1,1,0,Married,4
+3498,서유진,Female,42,Associate,Education&Training&Library,1560000000.0,Married_2,Korea,044-382-1019,accounting clerk,0,0,0,0,1,Married,2
+14959,Daniela Rios,Female,49,Masters,Unemployed,6290400000.0,Unmarried_0,Brazil,+55 21 3943 2843,Housekeeper,0,0,0,2,1,Unmarried,0
+3579,Katherine Smith,Female,46,Masters,Unemployed,2654400000.0,Unmarried_0,Australia,0800121462,"Therapist, nutritional",0,0,1,1,0,Unmarried,0
+12304,Maren Speer,Female,48,Masters,Unemployed,8409600000.0,Unmarried_0,Denmark,06860 941914,official,0,1,0,2,1,Unmarried,0
+19673,이지혜,Female,47,Bachelor,Construction & Extraction,342500000.0,Married_0,Korea,016-878-9687,Glass manufacturing and processing machine operator,1,7,8,2,1,Married,0
+5615,김지은,Female,48,Bachelor,Construction & Extraction,332500000.0,Married_0,Korea,053-154-3162,architectural woodworking,2,7,6,2,1,Married,0
+5218,Susan Martinez,Female,49,Bachelor,Construction & Extraction,576000000.0,Married_0,Australia,0441-584-328,"Designer, exhibition/display",2,4,6,2,1,Married,0
+9497,Maria Eduarda Farias,Female,46,Bachelor,Construction & Extraction,312500000.0,Married_0,Brazil,+55 81 8732-0679,Zelador,2,5,8,2,0,Married,0
+4986,임서윤,Female,46,Bachelor,Construction & Extraction,600000000.0,Married_0,Korea,033-462-9007,Photo printing and developer operator,1,5,4,1,1,Married,0
+17395,Melissa Yang,Female,47,Bachelor,Construction & Extraction,405600000.0,Married_0,Australia,(03)-9125-9145,Facilities manager,2,5,8,1,1,Married,0
+4023,Anna Kim,Female,46,Bachelor,Construction & Extraction,557500000.0,Married_0,Australia,-1145,Police officer,2,6,6,1,0,Married,0
+10537,안서연,Female,40,Associate,Healthcare Practitioners & Technical,1890000000.0,Married_3,Korea,033-646-4007,mail carrier,1,0,4,3,0,Married,3
+15269,Sofia Sá,Female,37,Associate,Healthcare Practitioners & Technical,1999200000.0,Married_4,Brazil,84 0304-1867,Ortodontista,1,0,5,3,1,Married,4
+4599,송미정,Female,37,Associate,Healthcare Practitioners & Technical,2016000000.0,Married_1,Korea,044-054-7127,Other social welfare workers,1,0,6,2,0,Married,1
+5592,Clarice Castro,Female,38,Associate,Healthcare Practitioners & Technical,2054400000.0,Married_1,Brazil,71 3607 5570,Delegate,0,0,4,2,1,Married,1
+6155,윤은주,Female,42,Masters,Computer & Mathematical,2140000000.0,Married_1,Korea,041-254-8256,Ticket takers and lottery salespeople,0,4,15,3,1,Married,1
+18735,Liz Nunes,Female,43,Masters,Computer & Mathematical,2015000000.0,Married_2,Brazil,31 4973 8726,Film-maker,1,4,16,2,1,Married,2
+17399,Norma Wohlgemut,Female,64,Bachelor,Education&Training&Library,542400000.0,Married_1,Denmark,(04352) 09170,Physician,0,8,7,11,1,Married,1
+8384,Mirella Lopes,Female,55,Bachelor,Education&Training&Library,560000000.0,Married_2,Brazil,+55 21 9049 9775,Paramedical,1,4,8,20,1,Married,2
+8968,Catarina Machado,Female,72,Bachelor,Education&Training&Library,432500000.0,Married_2,Brazil,+55 (021) 9814 7843,Lubrificador de máquinas,1,6,4,10,1,Married,2
+19718,Renee Turner,Female,53,Bachelor,Education&Training&Library,470400000.0,Married_1,Australia,+61.7.3915.0837,"Scientist, audiological",1,6,7,9,0,Married,1
+6229,차명숙,Female,71,Bachelor,Installation Maintenance & Repair,684000000.0,Single_0,Korea,017-359-6971,system software developer,0,7,7,12,1,Single,0
+5499,Silva Höfig-Juncken,Female,76,Bachelor,Installation Maintenance & Repair,825000000.0,Single_0,Denmark,+49(0)9300509243,Chemist,0,6,6,16,1,Single,0
+16071,박민서,Female,55,Bachelor,Installation Maintenance & Repair,705600000.0,Single_0,Korea,032-463-3181,Other mining and civil engineering workers,0,8,6,23,1,Single,0
+6910,Milena Wende,Female,54,Bachelor,Installation Maintenance & Repair,727500000.0,Single_0,Denmark,+49 (0) 6191 652280,Bank clerk,0,7,7,21,1,Single,0
+18859,Jasmine Sharp,Female,69,Unknown,Personal Care & Service,2301600000.0,Married_1,Australia,0405-132-431,Further education lecturer,0,23,1,3,0,Married,1
+18155,문유진,Female,76,Associate,Office & Administrative Support,1965600000.0,Married_2,Korea,02-1657-2845,Production and Quality Control Clerk,3,6,9,4,6,Married,2
+1326,Irmingard Pieper,Female,79,Associate,Office & Administrative Support,2137500000.0,Married_2,Denmark,08023 35754,Nurse,3,4,13,6,5,Married,2
+8078,Herma Dehmel-Rogner,Female,65,Associate,Office & Administrative Support,1975000000.0,Married_1,Denmark,+49(0) 391105837,Binnenschiff,1,6,12,8,5,Married,1
+2918,Isadora Cavalcanti,Female,62,Associate,Office & Administrative Support,2073600000.0,Married_2,Brazil,(011) 9105-8200,Magical,3,6,17,5,6,Married,2
+10817,Bruna Gomes,Female,31,Unknown,Arts Design Entertainment Sports & Media,6677500000.0,Married_0,Brazil,(071) 5795 8884,Tesoureiro,1,1,14,8,0,Married,0
+19411,김혜진,Female,31,Unknown,Arts Design Entertainment Sports & Media,11387500000.0,Married_0,Korea,055-933-4001,시멘트 및 광물제품 제조기 조작원,1,1,14,4,1,Married,0
+11524,허영미,Female,41,Masters,Business & Financial,2192500000.0,Married_1,Korea,070-0075-2694,Unloading and loading simple workers,1,1,4,1,0,Married,1
+6432,Srta. Luana Araújo,Female,41,Masters,Business & Financial,2193600000.0,Married_1,Brazil,+55 84 4700-3489,Railway,0,3,5,3,0,Married,1
+2937,Nadine Hahn B.Eng.,Female,35,Unknown,Arts Design Entertainment Sports & Media,8508000000.0,Married_0,Denmark,01911080068,educator,0,0,12,8,1,Married,0
+14873,Erica Johnson,Female,34,Unknown,Arts Design Entertainment Sports & Media,2464800000.0,Married_0,Australia,08 6447 5150,Paramedic,1,0,12,8,1,Married,0
+16560,Lunna Gomes,Female,34,Unknown,Arts Design Entertainment Sports & Media,11157600000.0,Married_0,Brazil,(071) 5512-2510,Army Military,1,1,11,6,0,Married,0
+2436,Norma Löffler,Female,31,Associate,Student,2128800000.0,Married_1,Denmark,06058121899,Chemikant,0,7,6,0,1,Married,1
+15849,Kimberly Thomas,Female,31,Associate,Student,2332500000.0,Married_1,Australia,02 7125 0154,Trade union research officer,0,5,7,0,1,Married,1
+6475,Heidi Klotz,Female,33,Associate,Student,2335200000.0,Married_4,Denmark,+49(0) 210747747,Korean studies scholar,0,5,8,1,1,Married,4
+4361,Mariah Sales,Female,33,Associate,Student,2236800000.0,Married_3,Brazil,+55 (061) 4270 2176,Engenheiro agrônomo,0,6,5,0,1,Married,3
+16332,Nicole das Neves,Female,48,Highschool,Transportation & Material Moving,1235000000.0,Married_1,Brazil,(041) 2879-3015,Occupational safety engineer,1,1,1,3,0,Married,1
+18998,Dra. Ágatha Souza,Female,49,Highschool,Transportation & Material Moving,1029600000.0,Married_3,Brazil,0300 134 1388,Ciclista,0,1,1,1,0,Married,3
+19775,Lunna Marques,Female,47,Highschool,Transportation & Material Moving,1205000000.0,Married_1,Brazil,21 9194-3520,Tecelão,0,0,1,2,0,Married,1
+17264,Janet Lewis,Female,48,Highschool,Transportation & Material Moving,1125600000.0,Married_1,Australia,(03)55642716,Armed forces training and education officer,1,0,2,2,0,Married,1
+19320,한현숙,Female,48,Highschool,Transportation & Material Moving,979200000.0,Married_1,Korea,031-756-8276,Store cashier and billing clerk,0,1,3,3,0,Married,1
+18639,이예진,Female,46,Highschool,Transportation & Material Moving,1010000000.0,Married_1,Korea,063-616-5448,웨이터,0,0,3,1,0,Married,1
+1321,Emanuella Freitas,Female,30,Bachelor,Computer & Mathematical,9537500000.0,Married_1,Brazil,(011) 4808 9786,Profissional de relações internacionais,2,3,8,5,0,Married,1
+9120,Sara Miller,Female,48,Bachelor,Office & Administrative Support,705000000.0,Divorced_4,Australia,61822605822,Oceanographer,0,2,1,3,1,Divorced,4
+19101,Maria Flor Fogaça,Female,49,Bachelor,Office & Administrative Support,797500000.0,Divorced_3,Brazil,(031) 9363 0366,Guia turistico,0,2,3,3,2,Divorced,3
+4532,Univ.Prof. Oda Neuschäfer,Female,55,Associate,Retired,85000000.0,Single_4,Denmark,+49(0)1101 940747,Pilot,0,0,0,0,0,Single,4
+2381,Ulrike Kuhl,Female,68,Unknown,Unemployed,992500000.0,Divorced_3,Denmark,03809 20522,IT specialist,0,0,5,2,1,Divorced,3
+5269,안미정,Female,46,Unknown,Office & Administrative Support,1042500000.0,Single_0,Korea,031-921-2057,제관기 조작원,0,1,11,7,3,Single,0
+6102,Ester Bonbach,Female,46,Unknown,Office & Administrative Support,1100000000.0,Single_0,Denmark,0750891745,Computer scientist,0,1,23,5,1,Single,0
+5923,Katja Weller,Female,47,Unknown,Office & Administrative Support,1217500000.0,Single_0,Denmark,08009 696626,IT specialist,0,2,15,6,1,Single,0
+14604,Janna Losekann,Female,46,Unknown,Office & Administrative Support,1205000000.0,Single_0,Denmark,+49 (0) 8111 876457,official,0,3,20,5,1,Single,0
+17913,Bruna Alves,Female,49,Unknown,Office & Administrative Support,1077500000.0,Single_0,Brazil,51 3858 9189,Musical instrumentalist,0,3,15,8,3,Single,0
+2834,최예진,Female,48,Unknown,Office & Administrative Support,1210000000.0,Single_0,Korea,055-406-7954,교육 관리자,0,3,13,7,2,Single,0
+13220,Lisa Erickson,Female,48,Unknown,Office & Administrative Support,1132500000.0,Single_0,Australia,2594 3509,Speech and language therapist,0,3,14,5,3,Single,0
+16212,Zoe Pastor,Female,49,Unknown,Office & Administrative Support,1190400000.0,Single_0,Brazil,+55 71 4996 1169,Sculptor,0,2,11,6,3,Single,0
+18181,Giovanna Cavalcanti,Female,61,Bachelor,Education&Training&Library,3087500000.0,Married_1,Brazil,+55 (011) 7245-5581,Innovation or new business manager,0,1,4,3,3,Married,1
+5919,Vitória Santos,Female,59,Bachelor,Sales & Related,1352500000.0,Married_0,Brazil,+55 (031) 6721 8141,Auctioneer,1,5,0,2,1,Married,0
+7778,Katherine Hunter,Female,64,Bachelor,Sales & Related,1497500000.0,Married_0,Australia,+61 422 774 961,"Education officer, community",1,8,1,3,0,Married,0
+18680,Stella Monteiro,Female,37,Associate,Computer & Mathematical,336000000.0,Divorced_0,Brazil,+55 (011) 6927-3470,Cantor,0,6,3,1,0,Divorced,0
+5076,Maitê Machado,Female,38,Associate,Computer & Mathematical,327500000.0,Divorced_0,Brazil,(011) 3384-5492,Microphonist,1,4,2,0,0,Divorced,0
+13554,Luiza Pacheco,Female,38,Associate,Computer & Mathematical,592800000.0,Divorced_0,Brazil,51 0583 5407,Pizza chef,1,6,1,1,0,Divorced,0
+15809,Sra. Maria Fernanda Pacheco,Female,38,Associate,Computer & Mathematical,367500000.0,Divorced_0,Brazil,(011) 4827 8842,About the prosthesis,1,6,1,1,1,Divorced,0
+5487,Gabrielly Ferreira,Female,37,Bachelor,Sales & Related,452500000.0,Divorced_1,Brazil,(051) 8222-8370,Ceramist,0,1,1,0,0,Divorced,1
+4221,Inge Haase,Female,36,Bachelor,Sales & Related,583200000.0,Divorced_2,Denmark,01355 026424,Winzer,0,0,1,0,0,Divorced,2
+11102,Lori Wallace,Female,37,Bachelor,Sales & Related,415200000.0,Divorced_2,Australia,08 2902 6709,Licensed conveyancer,0,1,3,0,0,Divorced,2
+11316,Angelika Krein-Loos,Female,39,Bachelor,Sales & Related,385000000.0,Divorced_1,Denmark,(07452) 42669,forester,0,0,3,1,0,Divorced,1
+11201,이현지,Female,38,Bachelor,Sales & Related,412500000.0,Divorced_4,Korea,054-839-6006,Web and multimedia planner,0,1,1,1,0,Divorced,4
+2093,Kristen Stevens,Female,40,Bachelor,Sales & Related,410400000.0,Divorced_2,Australia,53233346,"Education officer, environmental",0,0,2,1,0,Divorced,2
+11030,Ana Julia Albuquerque,Female,76,Unknown,Unemployed,170400000.0,Single_4,Brazil,71 9848-0452,Camel,0,1,1,2,1,Single,4
+10856,Julie Horton,Female,54,Unknown,Unemployed,112500000.0,Single_1,Australia,61808548998,Film/video editor,0,2,0,1,0,Single,1
+7945,Natalja Meister,Female,50,Unknown,Unemployed,67500000.0,Single_1,Denmark,(00100) 893009,Nurse,0,3,0,2,0,Single,1
+14275,Crystal Lee,Female,65,Unknown,Unemployed,256800000.0,Single_1,Australia,+61 8 4298 5769,Printmaker,0,2,1,1,0,Single,1
+19879,심현주,Female,32,Associate,Arts Design Entertainment Sports & Media,2018400000.0,Single_0,Korea,043-472-4372,보육 교사,0,0,5,3,1,Single,0
+7154,Marjan Mielcarek,Female,38,Masters,Healthcare Practitioners & Technical,2354400000.0,Married_1,Denmark,+49(0)0519 47180,Chemikant,2,5,8,4,1,Married,1
+1574,강정숙,Female,38,Masters,Healthcare Practitioners & Technical,2296800000.0,Married_2,Korea,033-843-9492,금형원,1,8,6,7,1,Married,2
+1834,Heidi Kelly,Female,40,Masters,Healthcare Practitioners & Technical,2212800000.0,Married_2,Australia,3495-8061,Patent attorney,3,4,6,6,3,Married,2
+19806,Brittany Grant,Female,37,Masters,Healthcare Practitioners & Technical,2370000000.0,Married_1,Australia,-1260,Manufacturing systems engineer,1,4,5,4,2,Married,1
+2665,Taylor Roberts,Female,38,Masters,Healthcare Practitioners & Technical,2224800000.0,Married_3,Australia,02.7210.2336,"Engineer, maintenance",1,5,4,4,2,Married,3
+2928,Amanda Morris,Female,40,Masters,Healthcare Practitioners & Technical,2128800000.0,Married_3,Australia,0479.757.841,Podiatrist,1,5,8,4,3,Married,3
+5742,Olivia Cavalcanti,Female,39,Masters,Healthcare Practitioners & Technical,2217500000.0,Married_2,Brazil,(041) 6376-1070,Barbeiro,3,4,4,5,1,Married,2
+14184,Deborah Glass,Female,58,Unknown,Food Preparation & Serving Related,107500000.0,Widowed_1,Australia,03-9845-9435,"Biochemist, clinical",0,0,1,5,0,Widowed,1
+10946,Mary Parker,Female,57,Unknown,Food Preparation & Serving Related,225600000.0,Widowed_1,Australia,49288657,Transport planner,0,0,2,6,0,Widowed,1
+5664,Dipl.-Ing. Annegret Steinberg B.Eng.,Female,60,Unknown,Food Preparation & Serving Related,266400000.0,Widowed_1,Denmark,+49(0)6531 802673,Barber,0,0,1,8,1,Widowed,1
+1090,Meghan Johnson,Female,31,Unknown,Computer & Mathematical,10591200000.0,Married_0,Australia,07-6957-8404,Health and safety inspector,0,1,13,7,1,Married,0
+6078,Gabrielly Abreu,Female,77,Bachelor,Legal,825000000.0,Single_2,Brazil,41 3047-3548,Camel,0,0,7,2,0,Single,2
+16928,Bella Ferreira,Female,53,Bachelor,Legal,727200000.0,Single_4,Brazil,+55 (081) 6323-8132,Barbeiro,0,1,8,3,0,Single,4
+18564,Maitê Pinto,Female,33,Bachelor,Unemployed,12282500000.0,Married_1,Brazil,+55 (051) 1187 7275,Otorrinolaringologista,0,5,7,4,1,Married,1
+18229,김현주,Female,32,Bachelor,Unemployed,9065000000.0,Married_2,Korea,042-695-0857,실내장식 디자이너,0,6,7,8,1,Married,2
+9992,Dorit Meister-Hentschel,Female,40,Unknown,Office & Administrative Support,727500000.0,Divorced_1,Denmark,+49(0)6178 15841,Designer,0,14,8,5,0,Divorced,1
+15133,Gabrielly Macedo,Female,39,Unknown,Office & Administrative Support,657500000.0,Divorced_1,Brazil,+55 (021) 2756 2736,Pawnbroker,0,11,6,5,1,Divorced,1
+13177,강영미,Female,37,Unknown,Office & Administrative Support,794400000.0,Divorced_3,Korea,064-731-8834,의지보조기기사,0,23,4,6,1,Divorced,3
+17577,Daisy Brown,Female,36,Unknown,Office & Administrative Support,897500000.0,Divorced_1,Australia,2802 3397,Geophysical data processor,0,22,5,7,1,Divorced,1
+4951,Maria Campbell,Female,31,Masters,Student,850000000.0,Unmarried_0,Australia,0401.523.764,English as a foreign language teacher,2,1,1,2,0,Unmarried,0
+18459,Ana Sophia Vieira,Female,32,Masters,Student,780000000.0,Unmarried_0,Brazil,11 4234 2335,Generator,3,0,1,3,1,Unmarried,0
+17322,Karen Gates,Female,32,Masters,Student,702500000.0,Unmarried_0,Australia,5781 8091,"Doctor, hospital",1,0,2,3,0,Unmarried,0
+1795,Maya Moreira,Female,34,Masters,Student,753600000.0,Unmarried_0,Brazil,+55 71 0324-3571,Esgrimista,2,0,2,1,0,Unmarried,0
+9705,Ana Luiza Aparecida,Female,57,Bachelor,Unemployed,2119200000.0,Married_2,Brazil,+55 84 3200-3732,Oftalmologista,0,7,3,6,3,Married,2
+5328,진정희,Female,34,Bachelor,Unemployed,1025000000.0,Married_1,Korea,055-780-7074,Customer consultation and monitoring personnel,1,8,8,19,2,Married,1
+1883,Maria Isis Oliveira,Female,31,Unknown,Food Preparation & Serving Related,422400000.0,Divorced_2,Brazil,+55 84 7766 4491,Lunchbox,0,1,7,21,14,Divorced,2
+19191,Lauren Russell,Female,30,Unknown,Unemployed,775200000.0,Married_1,Australia,3661.4413,Fast food restaurant manager,0,0,1,0,0,Married,1
+11580,박지은,Female,44,Bachelor,Healthcare Support,1924800000.0,Single_2,Korea,042-092-3836,방문 판매원,0,0,2,3,1,Single,2
+14108,Sandra Giles,Female,45,Bachelor,Healthcare Support,1884000000.0,Single_1,Australia,(08)-8457-5328,"Pharmacist, community",1,0,2,1,1,Single,1
+13352,Hannah Dickson,Female,45,Bachelor,Healthcare Support,2044800000.0,Single_3,Australia,+61 402 058 802,"Nurse, mental health",1,0,1,1,0,Single,3
+14583,박예은,Female,45,Bachelor,Healthcare Support,1958400000.0,Single_3,Korea,018-827-7669,조세행정 사무원,1,0,3,1,1,Single,3
+11134,Luana da Cruz,Female,43,Bachelor,Healthcare Support,2027500000.0,Single_1,Brazil,+55 84 6412-6915,Promotor público/de justiça,0,1,1,1,0,Single,1
+9549,송예지,Female,45,Masters,Food Preparation & Serving Related,11565600000.0,Married_1,Korea,031-246-4683,화학공학 기술자 및 연구원,0,22,8,6,4,Married,1
+8383,Brenda Montgomery,Female,45,Masters,Food Preparation & Serving Related,6137500000.0,Married_1,Australia,84328668,Speech and language therapist,0,9,4,7,8,Married,1
+18266,Brianna Aguirre,Female,34,Masters,Computer & Mathematical,1236000000.0,Unmarried_0,Australia,-4999,Garment/textile technologist,1,2,1,3,1,Unmarried,0
+2407,김서연,Female,34,Masters,Computer & Mathematical,1411200000.0,Unmarried_0,Korea,017-944-1573,자동차 부분품 조립원,0,2,1,2,0,Unmarried,0
+9886,Dipl.-Ing. Annie Bärer MBA.,Female,31,Masters,Computer & Mathematical,1482500000.0,Unmarried_0,Denmark,+49(0)6693 676453,programmer,0,1,1,3,1,Unmarried,0
+16345,임현지,Female,31,Highschool,Healthcare Support,752500000.0,Single_0,Korea,061-465-7740,제품 디자이너,0,3,3,2,0,Single,0
+11877,Walli Jopich,Female,33,Highschool,Healthcare Support,802500000.0,Single_0,Denmark,02086301535,Barber,0,3,3,2,1,Single,0
+1126,Univ.Prof. Rosita Reising,Female,32,Highschool,Healthcare Support,785000000.0,Single_0,Denmark,+49(0)9477 61948,official,0,2,2,2,1,Single,0
+14264,Natalie Anderson,Female,31,Highschool,Healthcare Support,847200000.0,Single_0,Australia,-15024,"Surveyor, land/geomatics",0,3,3,3,1,Single,0
+6701,Valentina Nunes,Female,32,Bachelor,Student,1135200000.0,Married_2,Brazil,71 3615-3769,Army Military,0,0,21,6,1,Married,2
+8080,Vitória Borges,Female,32,Bachelor,Student,1185000000.0,Married_3,Brazil,(084) 7953-7066,Pediatrician,0,1,17,5,0,Married,3
+19873,Antonietta Wulf MBA.,Female,31,Bachelor,Student,992500000.0,Married_1,Denmark,03595319189,Barber,0,0,13,5,1,Married,1
+1185,안지연,Female,32,Bachelor,Student,1132800000.0,Married_1,Korea,061-679-2456,세무사,0,0,17,6,1,Married,1
+10354,이민서,Female,36,Highschool,Food Preparation & Serving Related,595200000.0,Single_0,Korea,070-0329-9732,Meat/fish and dairy product processing machine operator,0,1,3,1,0,Single,0
+8663,문서현,Female,38,Highschool,Food Preparation & Serving Related,484800000.0,Single_0,Korea,031-496-9293,car assembler,0,0,2,0,1,Single,0
+5421,최미영,Female,40,Highschool,Food Preparation & Serving Related,441600000.0,Single_0,Korea,031-286-0665,Transportation equipment assembler,1,0,2,0,0,Single,0
+9458,Jennifer Hunter,Female,40,Unknown,Unemployed,310000000.0,Married_2,Australia,61829180539,Psychiatrist,0,0,7,0,0,Married,2
+4122,Esther Ramos,Female,41,Masters,Computer & Mathematical,1850400000.0,Married_1,Brazil,+55 41 7037-3356,Atendente,0,4,22,1,0,Married,1
+1179,Maria Luísa Costela,Female,55,Bachelor,Food Preparation & Serving Related,583200000.0,Single_1,Brazil,81 9054-6365,Preventive and social dentist,0,3,4,0,0,Single,1
+14072,Sra. Manuela da Luz,Female,64,Bachelor,Food Preparation & Serving Related,345000000.0,Single_4,Brazil,51 6007 2161,Illustrator,0,1,6,1,0,Single,4
+9800,오지혜,Female,58,Bachelor,Food Preparation & Serving Related,345000000.0,Single_1,Korea,032-520-0575,Korean chef and cook,0,2,7,1,0,Single,1
+3616,Heloísa Porto,Female,72,Bachelor,Food Preparation & Serving Related,365000000.0,Single_1,Brazil,(051) 7711-5689,Metalúrgico,0,1,6,0,0,Single,1
+4449,Camila Carvalho,Female,60,Bachelor,Food Preparation & Serving Related,417500000.0,Single_2,Brazil,+55 11 6731-0886,Dispatcher,0,1,8,1,1,Single,2
+4732,Emily Ball,Female,61,Bachelor,Food Preparation & Serving Related,528000000.0,Single_1,Australia,(08) 2926 4414,"Psychotherapist, dance movement",0,1,7,1,0,Single,1
+11422,송윤서,Female,65,Bachelor,Food Preparation & Serving Related,429600000.0,Single_1,Korea,051-050-8062,선박 및 열차 객실승무원,0,2,6,1,0,Single,1
+3108,Augusta Gröttner,Female,63,Bachelor,Food Preparation & Serving Related,448800000.0,Single_2,Denmark,+49(0) 494534634,geriatric nurse,0,2,5,1,0,Single,2
+6918,Ashley Hansen,Female,45,Unknown,Education&Training&Library,4090000000.0,Married_2,Australia,61353149852,Insurance underwriter,0,13,22,23,6,Married,2
+19315,Ana Luiza Ribeiro,Female,41,Unknown,Education&Training&Library,3400000000.0,Married_1,Brazil,41 2245-5225,Receptionist,0,11,18,15,5,Married,1
+9547,Srta. Kamilly Siqueira,Female,43,Unknown,Education&Training&Library,5359200000.0,Married_1,Brazil,51 4208 6847,Textile engineer,0,15,13,17,4,Married,1
+7007,Stefani Paffrath,Female,43,Unknown,Arts Design Entertainment Sports & Media,2427500000.0,Married_0,Denmark,+49(0)2916 741325,Barber,1,3,7,6,2,Married,0
+14150,Heiderose Ullmann,Female,44,Unknown,Arts Design Entertainment Sports & Media,2342400000.0,Married_0,Denmark,+49(0)9116 092659,Surgeon and mechanic,1,3,8,4,1,Married,0
+2801,Lara Brito,Female,44,Unknown,Arts Design Entertainment Sports & Media,2290000000.0,Married_0,Brazil,+55 (084) 7965-9983,Packer,1,2,6,4,3,Married,0
+5908,Dra. Antonella Araújo,Female,42,Unknown,Arts Design Entertainment Sports & Media,2392500000.0,Married_0,Brazil,31 8949-5648,Camel,3,1,6,4,1,Married,0
+1026,Madison Spears,Female,44,Unknown,Arts Design Entertainment Sports & Media,2256000000.0,Married_0,Australia,(07)17500184,Counselling psychologist,2,3,6,7,2,Married,0
+3280,Dipl.-Ing. Wenke Hahn,Female,43,Unknown,Arts Design Entertainment Sports & Media,2388000000.0,Married_0,Denmark,(06175) 915754,technician,1,1,6,5,3,Married,0
+13486,Isabelly da Cunha,Female,44,Unknown,Arts Design Entertainment Sports & Media,2200800000.0,Married_0,Brazil,61 1900-6272,Designer,3,1,8,6,1,Married,0
+18021,Ana Lívia Rios,Female,44,Masters,Management,2072500000.0,Married_4,Brazil,84 8640 0386,Pawnbroker,1,2,6,3,0,Married,4
+2775,Juliana Vasconcelos,Female,45,Masters,Management,2077500000.0,Married_2,Brazil,+55 (041) 6716-9688,Profissional de manutenção industrial,1,1,4,3,0,Married,2
+13051,Irena Hande,Female,45,Masters,Management,1828800000.0,Married_1,Denmark,04577343929,Korean studies scholar,0,2,5,3,0,Married,1
+3835,Isadora Carvalho,Female,43,Masters,Management,1995000000.0,Married_2,Brazil,(071) 6815 4462,Dairy Technology Professional,1,2,7,2,0,Married,2
+16075,Ing. Karla Schmiedt,Female,44,Masters,Management,1980000000.0,Married_2,Denmark,+49(0)5683 391466,mathematician,1,3,7,3,0,Married,2
+18943,Tanya Durham,Female,44,Masters,Management,2020800000.0,Married_1,Australia,0764313734,Actor,1,2,5,2,0,Married,1
+12537,Ana Lívia Jesus,Female,64,Highschool,Sales & Related,1195000000.0,Married_1,Brazil,(011) 3409 8763,Production Polisher,0,20,5,3,0,Married,1
+14818,최민서,Female,51,Highschool,Sales & Related,1132500000.0,Married_2,Korea,031-853-3656,Computer data entry clerk and office assistant,0,20,7,3,0,Married,2
+12597,Meral Neuschäfer,Female,30,Bachelor,Office & Administrative Support,300000000.0,Single_0,Denmark,01887626681,Optometrist,1,0,1,1,1,Single,0
+15729,이하윤,Female,41,Associate,Unemployed,1747200000.0,Married_3,Korea,019-429-6277,Glass manufacturing and processing machine operator,1,0,1,0,0,Married,3
+11724,Annemarie Peukert,Female,41,Associate,Unemployed,1820000000.0,Married_4,Denmark,(06802) 49858,Artist,0,0,0,1,1,Married,4
+2910,Elizabeth Hull,Female,43,Associate,Unemployed,1582500000.0,Married_2,Australia,9084-3725,Cytogeneticist,1,0,1,1,0,Married,2
+7967,Susan Pierce,Female,44,Associate,Unemployed,1682500000.0,Married_1,Australia,03 1178 4120,Higher education lecturer,1,0,1,0,0,Married,1
+11349,Isabela Rezende,Female,71,Associate,Healthcare Support,365000000.0,Widowed_3,Brazil,+55 (041) 5011 8386,Pathologist,1,0,8,3,0,Widowed,3
+2150,고서윤,Female,64,Associate,Healthcare Support,607500000.0,Widowed_2,Korea,042-693-5814,Power generation and distribution equipment operator,1,0,7,2,0,Widowed,2
+2047,Bárbara Caldeira,Female,49,Bachelor,Business & Financial,5616000000.0,Married_1,Brazil,+55 (081) 1704 0758,Shipowner,0,6,4,3,19,Married,1
+19877,Maria Fernanda Guerra,Female,46,Bachelor,Business & Financial,4161600000.0,Married_1,Brazil,(081) 3945-5401,Marshal,0,5,5,2,17,Married,1
+6355,Oda Weller,Female,48,Bachelor,Business & Financial,4605000000.0,Married_3,Denmark,09849 08265,official,0,4,8,1,11,Married,3
+13241,Mrs. Lindsey Donaldson PhD,Female,62,Highschool,Retired,360000000.0,Widowed_4,Australia,-821,Museum/gallery exhibitions officer,0,0,5,1,23,Widowed,4
+7002,Sra. Maria Alice Rodrigues,Female,65,Highschool,Retired,460000000.0,Widowed_1,Brazil,71 6132-7222,Agente de combate à endemias,0,0,8,1,13,Widowed,1
+16849,Sra. Isabella da Mota,Female,50,Highschool,Retired,484800000.0,Widowed_1,Brazil,41 8278-9842,paratrooper,0,0,8,2,9,Widowed,1
+4144,Colleen Welch,Female,35,Bachelor,Education&Training&Library,816000000.0,Single_0,Australia,0451.016.606,Data scientist,0,5,0,5,1,Single,0
+8407,Sofia Moura,Female,39,Bachelor,Education&Training&Library,936000000.0,Married_1,Brazil,0900 016 5843,Dispatcher,0,19,3,2,1,Married,1
+15608,최영자,Female,78,Bachelor,Unemployed,1082500000.0,Married_1,Korea,062-686-3664,Assistant Teachers and Other Teachers,0,0,1,1,3,Married,1
+18176,Klaudia Tröst,Female,54,Bachelor,Unemployed,1227500000.0,Married_1,Denmark,+49(0)5969 473881,forester,0,0,2,1,2,Married,1
+15662,Olav Segebahn,Female,78,Bachelor,Unemployed,1082500000.0,Married_1,Denmark,02595 36857,Fleischer,0,0,3,3,1,Married,1
+13256,Dr. Elif Mans,Female,51,Bachelor,Unemployed,1070000000.0,Married_3,Denmark,+49(0)2493752747,Chemist,0,0,2,3,3,Married,3
+13438,권순자,Female,71,Bachelor,Unemployed,1164000000.0,Married_1,Korea,033-640-0874,치과 의사,0,0,2,2,1,Married,1
+8520,이영희,Female,57,Bachelor,Unemployed,947500000.0,Married_3,Korea,016-101-6870,car assembler,0,0,1,2,2,Married,3
+9692,최경숙,Female,59,Bachelor,Unemployed,1012500000.0,Married_2,Korea,055-512-4866,패션 디자이너,0,0,2,3,1,Married,2
+18262,Samantha Bradley,Female,30,Unknown,Office & Administrative Support,1303200000.0,Unmarried_0,Australia,+61 3 7683 2220,Ecologist,2,0,7,4,1,Unmarried,0
+4490,Jasmin Röhricht B.Sc.,Female,30,Unknown,Office & Administrative Support,1308000000.0,Unmarried_0,Denmark,+49(0)7596 53478,policeman,2,0,7,7,0,Unmarried,0
+2681,Larissa Campos,Female,74,Unknown,Personal Care & Service,567500000.0,Divorced_4,Brazil,51 5125 2636,Lumberjack,0,1,1,2,1,Divorced,4
+3117,Hellena da Rocha,Female,65,Unknown,Personal Care & Service,350000000.0,Divorced_2,Brazil,+55 71 7279-7701,flight controller,0,0,2,1,0,Divorced,2
+17912,Sophie da Conceição,Female,60,Unknown,Personal Care & Service,617500000.0,Divorced_1,Brazil,(031) 5362-0060,Ambassador,0,0,1,1,0,Divorced,1
+11973,Amanda Mendez,Female,35,Masters,Unemployed,1586400000.0,Married_1,Australia,61360155722,"Scientist, research (maths)",0,0,3,0,1,Married,1
+17962,Wendy West,Female,41,Bachelor,Arts Design Entertainment Sports & Media,590000000.0,Divorced_1,Australia,(08).8012.9440,Lawyer,0,20,1,3,0,Divorced,1
+16927,Ira Heuser-Sauer,Female,44,Bachelor,Arts Design Entertainment Sports & Media,555000000.0,Divorced_1,Denmark,01208134974,programmer,0,12,1,3,0,Divorced,1
+13569,Sarah Foster,Female,45,Bachelor,Arts Design Entertainment Sports & Media,499200000.0,Divorced_2,Australia,+61.8.3460.8561,Broadcast presenter,0,14,1,1,0,Divorced,2
+7797,나서영,Female,33,Bachelor,Life Physical Social Science,1185000000.0,Married_3,Korea,010-2838-2214,항공기 객실승무원,0,0,8,8,1,Married,3
+12957,Alícia Mendonça,Female,35,Bachelor,Life Physical Social Science,1113600000.0,Married_1,Brazil,(081) 9374-8330,Necromaquiador,0,0,8,5,1,Married,1
+2809,Grace Patel,Female,46,Bachelor,Arts Design Entertainment Sports & Media,1044000000.0,Single_0,Australia,6202.7649,Animal technologist,0,1,0,1,0,Single,0
+8508,Rachel Brock,Female,49,Bachelor,Arts Design Entertainment Sports & Media,1232500000.0,Single_0,Australia,+61 470 828 670,Herpetologist,0,1,0,0,0,Single,0
+13689,김서현,Female,46,Bachelor,Arts Design Entertainment Sports & Media,945000000.0,Single_0,Korea,042-226-9370,Production and Quality Control Clerk,0,0,0,1,0,Single,0
+7837,Beatriz Novaes,Female,44,Unknown,Office & Administrative Support,880800000.0,Single_1,Brazil,+55 41 6731 1604,Engenheiro de aquicultura,0,3,3,2,0,Single,1
+4640,Luiza Andrade,Female,30,Masters,Legal,742500000.0,Single_0,Brazil,(031) 0089-8894,Chemical,2,2,1,22,1,Single,0
+9817,배서영,Female,46,Unknown,Sales & Related,835000000.0,Married_2,Korea,019-598-8832,"Health, Sanitation and Environmental Inspector",0,0,3,0,0,Married,2
+12524,Trudi Hänel,Female,33,Masters,Life Physical Social Science,1390000000.0,Single_0,Denmark,+49(0)1418 41931,Bank clerk,1,4,8,4,7,Single,0
+10979,김현숙,Female,34,Masters,Life Physical Social Science,1298400000.0,Single_0,Korea,032-872-3079,Light source/quarry source and stone cutting source,3,5,7,7,4,Single,0
+8978,문은경,Female,33,Masters,Life Physical Social Science,1520000000.0,Single_0,Korea,062-836-2112,물품 이동 장비 설치 및 정비원,3,4,5,7,7,Single,0
+1736,Laila Tlustek B.Eng.,Female,36,Masters,Healthcare Practitioners & Technical,2392500000.0,Married_1,Denmark,08947 89846,Construction specialist,0,0,3,8,0,Married,1
+19316,Jamie Cannon,Female,38,Masters,Healthcare Practitioners & Technical,2310000000.0,Married_2,Australia,9700-8355,Herpetologist,0,0,3,6,0,Married,2
+7900,손은서,Female,36,Masters,Healthcare Practitioners & Technical,2380800000.0,Married_1,Korea,032-715-6365,Other manufacturing-related machine operators,1,1,2,6,1,Married,1
+6930,Theresa Peters MD,Female,39,Masters,Healthcare Practitioners & Technical,2312500000.0,Married_3,Australia,(03) 6032 7511,Armed forces training and education officer,1,1,1,8,0,Married,3
+5780,양순자,Female,34,Bachelor,Arts Design Entertainment Sports & Media,875000000.0,Married_3,Korea,061-966-1024,National/provincial and public administration clerks,0,0,3,0,0,Married,3
+11438,Lisa Mills,Female,33,Bachelor,Arts Design Entertainment Sports & Media,609600000.0,Married_1,Australia,-661,Academic librarian,0,0,2,0,0,Married,1
+13407,Susan Lynch,Female,57,Masters,Retired,319200000.0,Divorced_2,Australia,+61.8.2467.9808,Lawyer,2,7,7,6,0,Divorced,2
+9556,Frau Lea Säuberlich MBA.,Female,66,Masters,Retired,582500000.0,Divorced_1,Denmark,(04215) 14612,Construction specialist,2,7,7,5,1,Divorced,1
+9398,Erica West,Female,68,Masters,Retired,420000000.0,Divorced_2,Australia,+61.8.2535.3049,Freight forwarder,3,4,6,8,1,Divorced,2
+11653,이예원,Female,74,Masters,Retired,453600000.0,Divorced_2,Korea,032-404-3039,elementary school teacher,3,5,4,6,0,Divorced,2
+3988,Vera Tröst,Female,34,Unknown,Office & Administrative Support,1985000000.0,Unmarried_0,Denmark,+49(0)5341 061380,Computer scientist,1,3,19,5,2,Unmarried,0
+11355,송현주,Female,42,Associate,Unemployed,1977600000.0,Married_3,Korea,051-596-2127,Sports and Recreation Instructor,0,0,5,2,1,Married,3
+15304,Prof. Sylke Förster MBA.,Female,41,Associate,Unemployed,2062500000.0,Married_1,Denmark,+49(0)2558 53347,Baker,0,0,5,2,1,Married,1
+9183,Hellena Pacheco,Female,42,Associate,Unemployed,2065000000.0,Married_3,Brazil,+55 (081) 0434 2140,Otorrinolaringologista,0,1,4,1,1,Married,3
+15334,이정자,Female,43,Associate,Unemployed,2062500000.0,Married_1,Korea,011-515-9572,재봉사,0,1,7,2,1,Married,1
+3598,주예은,Female,41,Associate,Unemployed,1879200000.0,Married_3,Korea,051-368-1601,예능 강사,0,1,6,3,1,Married,3
+1091,Leslie Conway MD,Female,42,Associate,Unemployed,1980000000.0,Married_4,Australia,0440 322 370,Clinical embryologist,0,0,6,3,0,Married,4
+4955,Ing. Marie-Luise Köhler,Female,45,Associate,Unemployed,1893600000.0,Married_4,Denmark,05909394176,Fleischer,0,0,5,1,1,Married,4
+12386,류경자,Female,39,Bachelor,Unemployed,2457500000.0,Married_4,Korea,018-457-5798,조적공 및 석재 부설원,1,3,3,1,0,Married,4
+17579,허서영,Female,38,Bachelor,Unemployed,2203200000.0,Married_1,Korea,02-0013-6929,kindergarten teacher,0,1,3,1,0,Married,1
+12309,Catarina Marques,Female,36,Bachelor,Unemployed,2242500000.0,Married_1,Brazil,+55 21 1999 5138,gas station attendant,1,3,1,1,1,Married,1
+3141,Elsbeth Loos MBA.,Female,38,Bachelor,Unemployed,2232000000.0,Married_2,Denmark,+49(0)4330903170,mechanic,0,3,1,0,0,Married,2
+6646,Natasha Taylor,Female,39,Bachelor,Unemployed,2227200000.0,Married_2,Australia,08-6900-1726,Engineering geologist,1,2,2,0,1,Married,2
+1930,Dr. Krystyna Scholz,Female,35,Unknown,Computer & Mathematical,6576000000.0,Married_0,Denmark,+49 (0) 8751 885608,Chemist,1,0,15,8,1,Married,0
+9417,Letícia Ramos,Female,31,Unknown,Computer & Mathematical,6417600000.0,Married_0,Brazil,(021) 7332 0629,Advertising,0,0,16,4,1,Married,0
+11780,박영희,Female,32,Unknown,Computer & Mathematical,10942500000.0,Married_0,Korea,019-709-0383,Production and Quality Control Clerk,1,0,9,4,0,Married,0
+9932,김명자,Female,34,Unknown,Computer & Mathematical,2527200000.0,Married_0,Korea,042-165-0492,Pharmacist and Oriental Pharmacist,0,0,17,5,1,Married,0
+11816,조현지,Female,35,Unknown,Sales & Related,317500000.0,Married_1,Korea,070-5632-5950,Human resources and labor-related experts,1,20,7,4,21,Married,1
+11692,Isabela da Rosa,Female,32,Unknown,Sales & Related,437500000.0,Married_2,Brazil,31 0058 0304,Biotechnologist,2,17,8,8,12,Married,2
+1060,Rafaela Melo,Female,46,Unknown,Sales & Related,1035000000.0,Single_2,Brazil,31 4350-9756,Co-pilot,0,0,2,1,1,Single,2
+19627,최보람,Female,48,Unknown,Sales & Related,902400000.0,Single_1,Korea,019-934-0636,Other Sports and Recreation Professionals,0,1,2,1,2,Single,1
+19993,이서현,Female,49,Unknown,Sales & Related,1102500000.0,Single_1,Korea,052-493-7736,사진기자 및 사진가,0,1,2,2,1,Single,1
+15724,Jennifer Watson,Female,47,Unknown,Sales & Related,1060000000.0,Single_4,Australia,-997,Corporate investment banker,0,0,2,2,1,Single,4
+16074,이채원,Female,48,Unknown,Sales & Related,1046400000.0,Single_1,Korea,033-573-6828,Home appliance installer and repairman,0,0,1,1,1,Single,1
+7299,Annette Molina,Female,46,Unknown,Sales & Related,1142400000.0,Single_1,Australia,3622 8447,"Therapist, sports",0,1,1,2,1,Single,1
+17015,Tina Eaton,Female,47,Unknown,Sales & Related,960000000.0,Single_1,Australia,0374191102,Systems developer,0,0,1,2,3,Single,1
+19317,Alyssa Johnson,Female,72,Highschool,Retired,482400000.0,Widowed_2,Australia,(02) 3679 6140,Quantity surveyor,0,0,1,8,0,Widowed,2
+19206,Bruni Hettner,Female,66,Highschool,Retired,415000000.0,Widowed_1,Denmark,+49(0)5359551572,Bank clerk,0,0,3,5,1,Widowed,1
+3200,Rosel Jockel MBA.,Female,37,Bachelor,Education&Training&Library,2450000000.0,Married_1,Denmark,05683599018,Pilot,1,21,5,3,0,Married,1
+7164,Ana Clara Pimenta,Female,38,Bachelor,Education&Training&Library,2400000000.0,Married_4,Brazil,0800-865-3755,Acupuncturist,1,11,4,1,1,Married,4
+14257,Sarah Farias,Female,39,Bachelor,Education&Training&Library,2237500000.0,Married_1,Brazil,+55 31 2815 5583,Violonista,1,14,5,3,1,Married,1
+13334,Laurie Vang,Female,37,Bachelor,Education&Training&Library,2184000000.0,Married_1,Australia,0474-642-738,Civil Service fast streamer,1,12,6,3,1,Married,1
+6165,Ana Sophia da Paz,Female,49,Unknown,Sales & Related,895200000.0,Single_0,Brazil,+55 (011) 0616 1779,Notary,0,0,2,1,1,Single,0
+1292,Bianca Rodriguez,Female,46,Unknown,Sales & Related,868800000.0,Single_0,Australia,0467.288.438,Clothing/textile technologist,0,0,2,0,0,Single,0
+5345,Zofia Hellwig B.A.,Female,48,Unknown,Sales & Related,741600000.0,Single_0,Denmark,+49(0)3275 95155,Electronics engineer,0,0,2,1,1,Single,0
+13614,Brenda Martins,Female,48,Unknown,Sales & Related,830000000.0,Single_0,Brazil,+55 31 1877 1003,Engenheiro agrícola,0,0,1,0,0,Single,0
+4730,Frau Paola Hölzenbecher B.A.,Female,73,Unknown,Retired,981600000.0,Unmarried_2,Denmark,+49(0)0814598980,programmer,0,1,1,3,2,Unmarried,2
+13122,Jacqueline Gray,Female,68,Unknown,Retired,1108800000.0,Unmarried_2,Australia,0437.307.794,Quantity surveyor,0,1,1,3,1,Unmarried,2
+11636,Alice Dias,Female,34,Bachelor,Legal,8976000000.0,Unmarried_0,Brazil,+55 51 7574 4748,Carpenter,0,1,1,1,1,Unmarried,0
+5374,Brianna Klein,Female,31,Bachelor,Legal,7437600000.0,Unmarried_0,Australia,(03) 8167 4815,Ophthalmologist,0,0,0,2,1,Unmarried,0
+9420,Rafaela Pereira,Female,39,Unknown,Construction & Extraction,321600000.0,Married_4,Brazil,(071) 0173 5511,Deputado,0,3,2,1,0,Married,4
+16288,서지아,Female,38,Unknown,Construction & Extraction,332500000.0,Married_1,Korea,070-8425-5568,경기심판 및 경기기록원,0,3,2,1,1,Married,1
+17638,Marlis Drub B.Sc.,Female,40,Unknown,Construction & Extraction,309600000.0,Married_2,Denmark,03745 44128,official,0,2,1,1,0,Married,2
+10733,권유진,Female,30,Unknown,Unemployed,1020000000.0,Married_3,Korea,061-621-9951,방문 판매원,1,8,1,4,1,Married,3
+2884,Shannon Scott,Female,30,Bachelor,Education&Training&Library,787200000.0,Single_0,Australia,0868570934,Hospital doctor,0,1,1,3,0,Single,0
+13417,Carla Schönland-Schüler,Female,71,Bachelor,Retired,1310400000.0,Married_2,Denmark,03644 18355,official,0,0,6,1,0,Married,2
+4510,Jennifer Le,Female,64,Bachelor,Retired,1207200000.0,Married_2,Australia,(02)42241195,"Development worker, international aid",0,1,6,2,0,Married,2
+10391,Agatha Pires,Female,70,Bachelor,Retired,1332500000.0,Married_1,Brazil,(084) 4994 0172,Housekeeper,0,0,8,3,1,Married,1
+14436,Beatrice Ziegert,Female,73,Bachelor,Retired,1532500000.0,Married_4,Denmark,+49 (0) 7783 253117,IT specialist,0,1,7,1,1,Married,4
+12459,Lindsey Willis,Female,53,Bachelor,Retired,1345000000.0,Married_4,Australia,+61.473.652.076,Special educational needs teacher,0,1,7,2,1,Married,4
+18872,Stella Jesus,Female,32,Bachelor,Transportation & Material Moving,794400000.0,Single_0,Brazil,+55 41 5827-1187,Psychopedagogue,0,3,6,14,0,Single,0
+15452,Elizabeth Estrada,Female,35,Bachelor,Transportation & Material Moving,686400000.0,Single_0,Australia,61283410077,Banker,0,1,4,19,0,Single,0
+13163,박지영,Female,67,Associate,Legal,6669600000.0,Married_4,Korea,031-015-8276,Electronic engineering technician and researcher,1,0,15,8,3,Married,4
+9819,Beatrix Kensy,Female,54,Associate,Legal,6604800000.0,Married_1,Denmark,06985439564,mathematician,0,0,15,8,2,Married,1
+9454,Dr. Desiree Alvarez,Female,63,Associate,Legal,4057500000.0,Married_2,Australia,+61 8 5245 2155,"Librarian, public",0,0,21,6,2,Married,2
+19535,송지현,Female,30,Unknown,Management,935000000.0,Married_3,Korea,053-519-3944,metal processing machine operator,0,2,1,8,3,Married,3
+1908,Solveig Köster,Female,39,Masters,Arts Design Entertainment Sports & Media,1365000000.0,Married_1,Denmark,+49(0)6794 374475,mathematician,5,12,8,6,2,Married,1
+1175,Dr. Annie Schleich B.Eng.,Female,37,Masters,Arts Design Entertainment Sports & Media,1461600000.0,Married_1,Denmark,0642609063,Bank clerk,7,15,8,7,3,Married,1
+8975,Catherine Hammond,Female,37,Masters,Student,497500000.0,Divorced_2,Australia,-11624,Electrical engineer,0,10,17,22,3,Divorced,2
+18431,Deanna Carey,Female,38,Masters,Student,500000000.0,Divorced_4,Australia,(07)-6271-9320,Licensed conveyancer,0,20,13,21,3,Divorced,4
+8396,Srta. Gabriela Melo,Female,39,Masters,Student,365000000.0,Divorced_1,Brazil,0300-271-3569,Perfusionista,0,22,22,17,2,Divorced,1
+11707,Phyllis Clark DDS,Female,30,Bachelor,Unemployed,261600000.0,Single_0,Australia,08 2300 4382,Ecologist,5,3,19,5,3,Single,0
+16966,박미정,Female,30,Associate,Management,425000000.0,Married_0,Korea,019-708-0529,beautician,0,0,12,8,0,Married,0
+3662,배명자,Female,41,Unknown,Office & Administrative Support,693600000.0,Single_1,Korea,055-132-4689,announcer and reporter,0,1,1,0,0,Single,1
+15327,Hedi Trupp,Female,31,Bachelor,Sales & Related,707500000.0,Single_0,Denmark,(01298) 483582,Schornsteinfeger,5,2,3,5,1,Single,0
+17032,Traude Döhn,Female,33,Unknown,Education&Training&Library,1389600000.0,Married_1,Denmark,+49 (0) 4505 519271,Korean studies scholar,0,1,8,8,0,Married,1
+16817,Jessica Martin,Female,56,Unknown,Transportation & Material Moving,2182500000.0,Married_1,Australia,+61.3.1666.0394,"Designer, interior/spatial",0,0,4,23,1,Married,1
+7410,Theresa Kraushaar B.A.,Female,68,Unknown,Transportation & Material Moving,1850400000.0,Married_4,Denmark,03143 74523,Nurse,0,0,4,9,0,Married,4
+4562,안지현,Female,78,Unknown,Transportation & Material Moving,2016000000.0,Married_1,Korea,052-610-1166,accountant,0,0,6,18,1,Married,1
+17564,Lauren Mendoza,Female,47,Masters,Management,1819200000.0,Single_1,Australia,61208605953,"Surveyor, building",0,0,19,8,0,Single,1
+13725,Hatice Haase,Female,46,Masters,Management,1939200000.0,Single_4,Denmark,0335930093,technician,0,0,10,5,1,Single,4
+14966,Júlia Araújo,Female,58,Unknown,Education&Training&Library,865000000.0,Married_1,Brazil,0900 430 2231,Cartographic engineer,0,1,22,7,0,Married,1
+4983,Tiffany Martinez,Female,72,Unknown,Education&Training&Library,735000000.0,Married_3,Australia,+61 8 2690 7828,Theatre manager,0,0,20,4,1,Married,3
+7118,Maria Flor da Rosa,Female,79,Unknown,Education&Training&Library,816000000.0,Married_3,Brazil,(011) 1135-5814,Imunologista,0,0,17,6,1,Married,3
+5252,Ana Carolina Cavalcante,Female,65,Unknown,Education&Training&Library,823200000.0,Married_1,Brazil,+55 (051) 7385 9096,Technologist in real estate business,0,0,21,8,0,Married,1
+15632,Kimberly Taylor,Female,64,Unknown,Education&Training&Library,892800000.0,Married_2,Australia,08.4013.6571,Financial adviser,0,0,19,5,0,Married,2
+10197,Judy Golden,Female,65,Unknown,Education&Training&Library,864000000.0,Married_2,Australia,07-5915-9410,Primary school teacher,0,1,21,5,0,Married,2
+4941,Henni Eckbauer MBA.,Female,45,Bachelor,Legal,9763200000.0,Married_2,Denmark,03318 34603,Korean studies scholar,0,2,2,2,1,Married,2
+17676,장현주,Female,44,Bachelor,Legal,2666400000.0,Married_2,Korea,019-996-8262,Registrar,0,1,1,1,0,Married,2
+10970,Konstanze Schinke,Female,41,Bachelor,Legal,5208000000.0,Married_1,Denmark,+49(0) 425824044,Fleischer,0,2,2,2,1,Married,1
+6677,서보람,Female,41,Bachelor,Legal,11956800000.0,Married_2,Korea,017-219-9062,노점 및 이동 판매원,0,2,2,3,0,Married,2
+2877,Sina Martin-Junitz,Female,43,Bachelor,Legal,4100000000.0,Married_2,Denmark,+49(0)1410 242654,Asphaltbauer,0,2,1,1,0,Married,2
+8164,Julie Torres,Female,44,Bachelor,Education&Training&Library,8697500000.0,Married_1,Australia,-1201,"Designer, blown glass/stained glass",0,2,1,4,0,Married,1
+13712,Heidi Fernandez,Female,43,Bachelor,Education&Training&Library,11592000000.0,Married_1,Australia,+61 2 2220 3929,IT trainer,0,2,3,4,0,Married,1
+8155,Teresa Birnbaum,Female,45,Bachelor,Education&Training&Library,11822400000.0,Married_1,Denmark,+49(0)7018319383,Baker,0,3,1,5,0,Married,1
+18118,Leah Moore,Female,52,Bachelor,Education&Training&Library,1238400000.0,Married_1,Australia,08-1587-5108,Actuary,0,0,1,0,0,Married,1
+14506,장서현,Female,79,Bachelor,Education&Training&Library,1500000000.0,Married_1,Korea,064-760-3148,행사기획자,0,0,1,0,0,Married,1
+13911,Jamie Smith,Female,78,Bachelor,Education&Training&Library,1522500000.0,Married_1,Australia,03 2741 0141,Radio broadcast assistant,0,0,0,1,0,Married,1
+5991,Milena Martins,Female,56,Bachelor,Education&Training&Library,1252500000.0,Married_1,Brazil,+55 (011) 5902 7921,Statistical,0,0,1,1,0,Married,1
+14871,박수빈,Female,70,Bachelor,Life Physical Social Science,1315000000.0,Married_3,Korea,031-936-6435,정부 및 공공 행정 전문가,1,0,4,1,0,Married,3
+15915,Sylvana Hiller,Female,62,Bachelor,Life Physical Social Science,1540000000.0,Married_1,Denmark,+49(0)5559 97596,Nurse,1,0,7,0,0,Married,1
+8974,Alina Steckel,Female,68,Bachelor,Life Physical Social Science,1377500000.0,Married_1,Denmark,(04059) 13474,official,0,0,7,0,0,Married,1
+14740,김현지,Female,34,Highschool,Business & Financial,815000000.0,Divorced_4,Korea,016-242-8954,Pipe cleaners and quarantine workers,3,1,1,1,8,Divorced,4
+7621,Ariel Davis,Female,31,Highschool,Business & Financial,920000000.0,Divorced_1,Australia,(07)70022327,"Lecturer, higher education",2,0,3,1,6,Divorced,1
+9059,하영자,Female,34,Unknown,Food Preparation & Serving Related,542500000.0,Divorced_4,Korea,044-701-0338,Store cashier and billing clerk,2,0,7,1,0,Divorced,4
+1334,이영미,Female,33,Unknown,Food Preparation & Serving Related,440000000.0,Divorced_1,Korea,053-832-4330,Other theater/film and video related workers,2,0,6,1,0,Divorced,1
+15414,Helena Mendonça,Female,32,Unknown,Food Preparation & Serving Related,365000000.0,Divorced_3,Brazil,(071) 5735 3616,Product designer or industrial designer,1,0,6,0,0,Divorced,3
+14329,박지원,Female,31,Unknown,Food Preparation & Serving Related,530000000.0,Divorced_4,Korea,053-884-1276,internet salesman,3,0,4,0,1,Divorced,4
+9446,Mackenzie Landry,Female,32,Unknown,Food Preparation & Serving Related,497500000.0,Divorced_1,Australia,0415 286 438,Counselling psychologist,3,0,6,1,0,Divorced,1
+3711,이현정,Female,31,Unknown,Food Preparation & Serving Related,465600000.0,Divorced_2,Korea,051-670-1883,Technical and functional instructor,2,0,4,1,1,Divorced,2
+17019,Kamilly Fonseca,Female,41,Bachelor,Business & Financial,2414400000.0,Married_2,Brazil,+55 (071) 5047-0753,Sculptor,3,0,0,2,1,Married,2
+1796,Zeynep Ernst B.Sc.,Female,33,Unknown,Computer & Mathematical,11457500000.0,Married_0,Denmark,+49(0) 626869599,technician,1,1,1,15,1,Married,0
+6086,Ester Castro,Female,49,Unknown,Arts Design Entertainment Sports & Media,750000000.0,Married_0,Brazil,0800-076-7868,Artista plástico,0,4,3,1,1,Married,0
+7198,Luna Guerra,Female,49,Unknown,Arts Design Entertainment Sports & Media,710000000.0,Married_0,Brazil,(051) 7579 3248,Archive technician,1,6,2,1,1,Married,0
+14937,임미정,Female,41,Unknown,Unemployed,722500000.0,Married_2,Korea,043-338-9093,응용 소프트웨어 개발자,0,0,8,3,1,Married,2
+6326,Ana Sophia Monteiro,Female,42,Unknown,Unemployed,722500000.0,Married_1,Brazil,+55 (011) 1705-1578,Somelier,0,0,6,1,0,Married,1
+10765,Andrea Smith,Female,43,Unknown,Protective Service,712800000.0,Divorced_1,Australia,-1577,Building surveyor,1,0,6,1,1,Divorced,1
+15399,Ana Beatriz da Luz,Female,41,Unknown,Protective Service,796800000.0,Divorced_2,Brazil,+55 31 0441-5560,Private security,0,1,6,1,0,Divorced,2
+1133,Amanda Caldwell,Female,41,Unknown,Protective Service,655000000.0,Divorced_1,Australia,6413-1118,Community education officer,1,0,5,1,1,Divorced,1
+2072,Connie Melton,Female,44,Unknown,Protective Service,878400000.0,Divorced_1,Australia,0475-615-174,Multimedia specialist,0,0,4,1,0,Divorced,1
+7849,Annika Jacob,Female,43,Unknown,Protective Service,748800000.0,Divorced_1,Denmark,+49(0)9467 570039,IT specialist,0,0,8,1,0,Divorced,1
+8181,김정희,Female,34,Bachelor,Sales & Related,380000000.0,Married_1,Korea,042-322-6254,안마사,1,2,2,2,1,Married,1
+16411,Ana Julia Jesus,Female,50,Bachelor,Sales & Related,910000000.0,Single_0,Brazil,(081) 9811-6151,Marinheiro,0,1,3,1,3,Single,0
+2991,Barbara Wood,Female,58,Bachelor,Sales & Related,888000000.0,Single_0,Australia,61844355079,Aeronautical engineer,0,1,2,2,3,Single,0
+12198,Magdalene Bender,Female,65,Bachelor,Sales & Related,725000000.0,Single_0,Denmark,+49 (0) 2952 663337,Medizininformatiker,0,0,1,3,1,Single,0
+5410,김정순,Female,45,Bachelor,Management,1689600000.0,Married_3,Korea,070-7001-9744,안마사,1,6,6,7,3,Married,3
+19060,Erin Webb,Female,44,Bachelor,Management,1580000000.0,Married_2,Australia,0442.355.354,Physiological scientist,3,6,8,6,1,Married,2
+15996,Frau Reingard Heser MBA.,Female,51,Associate,Arts Design Entertainment Sports & Media,662500000.0,Married_1,Denmark,0617782854,Korean studies scholar,0,0,0,2,0,Married,1
+18652,Frau Marcella Kuhl B.A.,Female,62,Associate,Arts Design Entertainment Sports & Media,667500000.0,Married_2,Denmark,08249254143,technician,0,0,0,1,0,Married,2
+12598,박미영,Female,54,Associate,Arts Design Entertainment Sports & Media,796800000.0,Married_1,Korea,052-932-7225,Western chef and cook,0,0,0,3,0,Married,1
+5042,Steffi Bauer-Etzold,Female,62,Associate,Arts Design Entertainment Sports & Media,672500000.0,Married_2,Denmark,+49(0) 862022459,Optometrist,0,0,1,2,0,Married,2
+12197,Maria Vitória Barros,Female,53,Associate,Arts Design Entertainment Sports & Media,854400000.0,Married_3,Brazil,41 0919 5854,Numerólogo,0,0,1,1,0,Married,3
+1625,양혜진,Female,66,Associate,Arts Design Entertainment Sports & Media,621600000.0,Married_1,Korea,033-634-8154,Vegetable and special crop farm,0,0,1,2,0,Married,1
+15459,Colleen Miller,Female,60,Associate,Arts Design Entertainment Sports & Media,867500000.0,Married_1,Australia,66433444,Insurance broker,0,0,1,3,0,Married,1
+9505,Bella Araújo,Female,69,Associate,Arts Design Entertainment Sports & Media,852000000.0,Married_1,Brazil,+55 (021) 9561 9913,Cardiologista,0,0,1,1,0,Married,1
+9238,Srta. Stella Câmara,Female,30,Bachelor,Healthcare Practitioners & Technical,8967500000.0,Married_0,Brazil,(011) 4962-2095,Swimmer,0,2,2,6,1,Married,0
+17313,백서연,Female,54,Masters,Education&Training&Library,7788000000.0,Married_2,Korea,053-051-8709,product and advertising salesperson,4,15,4,5,6,Married,2
+8684,노순옥,Female,71,Masters,Education&Training&Library,4420000000.0,Married_3,Korea,052-358-4592,목제품 제조관련 종사원,5,9,8,6,6,Married,3
+10151,Brigitta Ring-Hornich,Female,38,Unknown,Computer & Mathematical,655200000.0,Married_3,Denmark,(09709) 98316,Construction specialist,0,0,2,0,0,Married,3
+13240,Amanda Gamble,Female,38,Unknown,Computer & Mathematical,856800000.0,Married_1,Australia,+61 418 930 396,Physiological scientist,0,0,3,1,0,Married,1
+15757,Linda Martinez,Female,37,Unknown,Computer & Mathematical,734400000.0,Married_4,Australia,7988.5143,"Lecturer, further education",0,0,1,0,0,Married,4
+3790,Wiltrud Mende,Female,50,Unknown,Unemployed,672000000.0,Married_0,Denmark,0780531694,Nurse,0,0,1,4,0,Married,0
+8842,Therese Stahr,Female,67,Unknown,Unemployed,782500000.0,Married_0,Denmark,+49(0)2042 57436,Korean studies scholar,0,0,3,7,0,Married,0
+16632,Marieluise Rohleder,Female,57,Unknown,Unemployed,825000000.0,Married_0,Denmark,+49(0)1406612455,Fleischer,0,0,2,5,0,Married,0
+2954,Alice Schulz MBA.,Female,68,Unknown,Unemployed,636000000.0,Married_0,Denmark,00194 95583,Bank clerk,0,0,2,4,0,Married,0
+19200,장정숙,Female,67,Unknown,Unemployed,730000000.0,Married_0,Korea,063-239-9950,Textile engineering technician and researcher,0,0,3,8,0,Married,0
+12069,Jessica Anderson,Female,46,Unknown,Protective Service,645600000.0,Single_0,Australia,0444 533 680,"Conservator, furniture",1,0,8,1,3,Single,0
+14543,최옥순,Female,47,Unknown,Protective Service,804000000.0,Single_0,Korea,018-420-2485,용접원,3,0,6,2,1,Single,0
+15153,황은서,Female,31,Bachelor,Sales & Related,1192500000.0,Unmarried_4,Korea,051-517-4129,Assembler of electrical/electronic components and products,3,1,8,5,0,Unmarried,4
+14303,윤채원,Female,40,Bachelor,Computer & Mathematical,1442500000.0,Married_0,Korea,016-677-1555,방문 판매원,1,0,6,8,0,Married,0
+12484,Damaris Förster,Female,37,Bachelor,Computer & Mathematical,1300800000.0,Married_0,Denmark,06661 922222,Computer scientist,1,0,7,8,0,Married,0
+4167,Margarita Dietz,Female,39,Bachelor,Computer & Mathematical,1430400000.0,Married_0,Denmark,00360052474,Baker,0,0,4,5,0,Married,0
+6313,Maysa da Costa,Female,40,Masters,Education&Training&Library,1225000000.0,Single_1,Brazil,61 5002 0258,Voice actor,0,0,5,2,0,Single,1
+17851,Paige Dawson MD,Female,40,Masters,Education&Training&Library,1063200000.0,Single_1,Australia,-1286,Chief Marketing Officer,1,0,4,3,1,Single,1
+19995,Ana Sophia Barbosa,Female,37,Masters,Legal,1735000000.0,Unmarried_0,Brazil,+55 (071) 5138 5408,Programmer,2,13,8,13,3,Unmarried,0
+1313,Ing. Gertraud Ullrich B.Eng.,Female,38,Masters,Legal,1514400000.0,Unmarried_0,Denmark,+49(0) 302655661,Barber,2,18,5,20,3,Unmarried,0
+2418,Gabrielly Gomes,Female,34,Unknown,Office & Administrative Support,1197500000.0,Married_1,Brazil,+55 (031) 1270 6224,Necromaquiador,2,3,6,1,0,Married,1
+8755,Rebeca Leão,Female,78,Masters,Sales & Related,1222500000.0,Divorced_2,Brazil,(084) 1675 8680,Garbage collector/garbage collector,0,2,7,3,0,Divorced,2
+2692,Laís Nunes,Female,52,Masters,Sales & Related,1065000000.0,Divorced_1,Brazil,0300 781 6250,automobile pilot,0,3,6,3,0,Divorced,1
+8360,Pamela Sandoval,Female,57,Masters,Sales & Related,977500000.0,Divorced_2,Australia,+61 462 992 752,Armed forces operational officer,0,3,5,2,0,Divorced,2
+9416,Lissy Trapp,Female,62,Masters,Sales & Related,1187500000.0,Divorced_2,Denmark,+49(0)7419425414,Fleischer,1,1,5,3,0,Divorced,2
+13233,Alicia Rädel,Female,70,Masters,Sales & Related,1092000000.0,Divorced_1,Denmark,0084101493,Chemikant,0,2,7,3,1,Divorced,1
+19853,Pamela Duran,Female,51,Bachelor,Retired,1048800000.0,Single_0,Australia,(07).6440.3064,Scientific laboratory technician,0,0,0,7,1,Single,0
+2205,손은정,Female,71,Bachelor,Retired,1041600000.0,Single_0,Korea,070-7585-2472,Food service manager,0,0,1,4,1,Single,0
+11026,Ivanka Striebitz B.A.,Female,66,Bachelor,Retired,1070400000.0,Single_0,Denmark,02025 912041,Baker,0,0,0,4,0,Single,0
+15352,Erika Gould MD,Female,61,Bachelor,Retired,1080000000.0,Single_0,Australia,9869.3263,Actor,0,0,0,8,1,Single,0
+9650,박명자,Female,70,Bachelor,Retired,1000800000.0,Single_0,Korea,043-323-6910,cleaner,0,0,0,8,0,Single,0
+11774,Alícia da Rosa,Female,33,Bachelor,Community & Social Services,1365000000.0,Single_0,Brazil,+55 (071) 0512 7308,Fundidor,5,3,3,3,0,Single,0
+13968,이은서,Female,34,Bachelor,Community & Social Services,1411200000.0,Single_0,Korea,019-012-2656,Assembler of electrical/electronic components and products,7,2,1,3,0,Single,0
+6890,Antje Haase,Female,33,Unknown,Arts Design Entertainment Sports & Media,517500000.0,Married_2,Denmark,0802910253,policeman,0,2,5,6,0,Married,2
+17179,Luiza Gonçalves,Female,33,Unknown,Unemployed,1411200000.0,Married_0,Brazil,41 1291-4433,Artista de circo,0,0,1,14,3,Married,0
+16297,Tatjana Löwer,Female,35,Unknown,Unemployed,1470000000.0,Married_0,Denmark,04097 204552,Fleischer,0,0,2,18,3,Married,0
+7584,Giovanna Correia,Female,33,Unknown,Unemployed,1353600000.0,Married_0,Brazil,(041) 9762 9144,Engenheiro civil,0,0,1,17,2,Married,0
+17908,Slavica Herrmann-Stoll,Female,66,Masters,Education&Training&Library,342500000.0,Single_0,Denmark,00683 664844,Chemikant,0,0,6,5,1,Single,0
+10014,Mary Dunn DDS,Female,63,Masters,Education&Training&Library,620000000.0,Single_0,Australia,3546 9159,Recycling officer,0,0,4,4,0,Single,0
+8673,Jessica Myers,Female,56,Masters,Education&Training&Library,559200000.0,Single_0,Australia,29718824,Dance movement psychotherapist,0,0,5,4,0,Single,0
+19771,하지연,Female,52,Unknown,Management,952500000.0,Unmarried_3,Korea,044-076-7479,Industrial machinery installation and maintenance worker,0,0,8,1,1,Unmarried,3
+1829,김수민,Female,63,Unknown,Management,1060000000.0,Unmarried_4,Korea,016-062-0201,Long-term NCOs and Warrant Officers,0,0,8,3,0,Unmarried,4
+13265,박영자,Female,76,Unknown,Management,1008000000.0,Unmarried_2,Korea,054-787-2416,priest,0,0,6,3,1,Unmarried,2
+2151,Rachel Carter,Female,60,Unknown,Management,957500000.0,Unmarried_4,Australia,(07)-3729-3714,Animator,0,0,7,1,0,Unmarried,4
+14844,Emma Kambs,Female,30,Masters,Legal,1084800000.0,Unmarried_0,Denmark,(08866) 054402,Physician,0,1,2,0,0,Unmarried,0
+13647,Deanna Clayton,Female,30,Bachelor,Personal Care & Service,508800000.0,Single_0,Australia,7260 7700,Writer,0,14,3,2,0,Single,0
+1727,이현숙,Female,54,Bachelor,Unemployed,122500000.0,Single_0,Korea,019-555-7926,Industrial major,0,0,1,1,0,Single,0
+9629,Marion Bien B.Sc.,Female,51,Bachelor,Unemployed,100800000.0,Single_0,Denmark,+49(0) 682415379,IT specialist,0,0,1,0,0,Single,0
+4515,Antonella Camargo,Female,57,Bachelor,Unemployed,268800000.0,Single_0,Brazil,+55 (081) 6249-5012,Box,0,0,1,0,0,Single,0
+5932,Gabriela Costela,Female,78,Bachelor,Unemployed,261600000.0,Single_0,Brazil,51 2462 4340,Kite-surfer,0,0,0,0,0,Single,0
+6175,Maria Sophia Guerra,Female,77,Bachelor,Unemployed,82500000.0,Single_0,Brazil,61 5467 2206,Chiropractor,0,0,1,0,0,Single,0
+12251,엄수진,Female,45,Unknown,Business & Financial,445000000.0,Single_4,Korea,032-998-2071,응용 소프트웨어 개발자,0,1,1,0,0,Single,4
+7929,Ana Clara Carvalho,Female,41,Unknown,Business & Financial,340000000.0,Single_1,Brazil,41 7281 5690,Lyricist,0,1,0,1,0,Single,1
+1801,한지민,Female,41,Unknown,Business & Financial,420000000.0,Single_1,Korea,032-284-1154,food delivery man,0,1,1,1,0,Single,1
+7549,Ana Julia das Neves,Female,43,Unknown,Business & Financial,530000000.0,Single_4,Brazil,(071) 3549 6865,Salva-vidas,0,0,0,0,0,Single,4
+19747,Ana Vitória Santos,Female,43,Unknown,Business & Financial,357500000.0,Single_2,Brazil,+55 (051) 2945-8385,Major,0,0,1,1,0,Single,2
+17508,문은서,Female,44,Unknown,Business & Financial,415000000.0,Single_2,Korea,019-159-4395,fish farm,0,1,1,1,0,Single,2
+15163,Ester Dias,Female,73,Highschool,Management,1056000000.0,Single_0,Brazil,61 4081-0800,Designer,1,0,0,1,3,Single,0
+16556,홍숙자,Female,61,Highschool,Management,1015000000.0,Single_0,Korea,041-995-0597,clinical pathologist,1,1,1,0,1,Single,0
+12508,Frau Rosita Textor B.Eng.,Female,59,Highschool,Management,909600000.0,Single_0,Denmark,(05416) 79914,forester,0,0,1,1,1,Single,0
+6893,Lisa Morris,Female,63,Highschool,Management,952500000.0,Single_0,Australia,0493.806.648,"Psychologist, prison and probation services",0,0,0,0,2,Single,0
+15448,Katja Dehmel B.Eng.,Female,76,Highschool,Management,942500000.0,Single_0,Denmark,(09355) 05742,policeman,1,1,1,1,1,Single,0
+11983,Dr. Laila Lehmann,Female,39,Masters,Education&Training&Library,684000000.0,Single_4,Denmark,+49(0)3999 798915,Medizininformatiker,0,5,7,1,0,Single,4
+9039,Hannchen Nerger B.Sc.,Female,33,Bachelor,Production Occupations,1094400000.0,Single_2,Denmark,+49(0)5786 60840,Optometrist,1,0,7,11,1,Single,2
+4435,Hadassa Moura,Female,32,Bachelor,Production Occupations,921600000.0,Single_4,Brazil,+55 (081) 9351-1983,Catador de material reciclável,0,0,5,16,1,Single,4
+17668,Amanda Matthews,Female,31,Bachelor,Production Occupations,970000000.0,Single_1,Australia,61353953056,Child psychotherapist,0,0,5,18,0,Single,1
+4488,서영자,Female,42,Associate,Sales & Related,837500000.0,Single_2,Korea,054-699-2156,Public relations assistant and salesperson,0,1,8,8,3,Single,2
+8712,한정순,Female,42,Associate,Sales & Related,753600000.0,Single_1,Korea,019-404-3606,controller,1,0,4,8,2,Single,1
+17084,Lisa Mcpherson,Female,45,Associate,Sales & Related,872500000.0,Single_1,Australia,0312166490,Heritage manager,0,0,6,8,3,Single,1
+18291,Donna Brown,Female,44,Associate,Sales & Related,690000000.0,Single_1,Australia,8033 3628,Oceanographer,1,0,6,8,3,Single,1
+10449,Geza Scholl,Female,42,Associate,Sales & Related,852000000.0,Single_1,Denmark,0211240199,Surgeon and mechanic,0,1,7,6,2,Single,1
+15231,Manuela Ferreira,Female,42,Associate,Sales & Related,647500000.0,Single_4,Brazil,(061) 9528 4008,Engenheiro físico,0,0,6,7,2,Single,4
+7890,강지아,Female,43,Associate,Sales & Related,830400000.0,Single_2,Korea,032-381-4407,주조기 조작원,0,1,5,5,2,Single,2
+13899,Mary Anderson,Female,45,Associate,Sales & Related,607200000.0,Single_1,Australia,+61 444 683 724,Higher education lecturer,0,1,7,6,3,Single,1
+3202,이영자,Female,34,Bachelor,Management,784800000.0,Unmarried_2,Korea,017-020-2113,안마사,6,1,1,4,1,Unmarried,2
+13116,Sra. Yasmin Alves,Female,32,Bachelor,Management,635000000.0,Unmarried_1,Brazil,(041) 4321-6178,Generator,7,1,2,4,3,Unmarried,1
+1733,Dipl.-Ing. Adriane Zobel,Female,73,Masters,Arts Design Entertainment Sports & Media,1173600000.0,Single_0,Denmark,+49(0)1350449113,Artist,2,5,4,6,2,Single,0
+9867,백현지,Female,71,Masters,Arts Design Entertainment Sports & Media,1022500000.0,Single_0,Korea,016-043-9955,Industrial Safety and Risk Management Institute,1,6,7,5,2,Single,0
+16730,Univ.Prof. Caterina Linke,Female,63,Masters,Arts Design Entertainment Sports & Media,912000000.0,Single_0,Denmark,0643860376,IT specialist,2,4,7,4,1,Single,0
+18546,신숙자,Female,30,Masters,Community & Social Services,1370000000.0,Married_0,Korea,055-077-9959,조적공 및 석재 부설원,1,1,1,21,1,Married,0
+2278,Shannon Huang,Female,64,Masters,Retired,1172500000.0,Divorced_0,Australia,+61 2 3388 6596,Geochemist,0,0,5,2,0,Divorced,0
+8569,Anneke Schuchhardt,Female,59,Masters,Retired,995000000.0,Divorced_0,Denmark,+49 (0) 2963 188032,Surgeon and mechanic,0,0,8,2,0,Divorced,0
+7188,Courtney Stevens,Female,69,Masters,Retired,1183200000.0,Divorced_0,Australia,(07) 3803 8486,Electrical engineer,0,0,6,2,0,Divorced,0
+14040,Tracy Duarte,Female,56,Masters,Retired,1132800000.0,Divorced_0,Australia,61804690339,Purchasing manager,0,0,6,2,0,Divorced,0
+11210,Trudi Stadelmann,Female,30,Unknown,Management,921600000.0,Unmarried_0,Denmark,(07349) 629600,Chemikant,1,1,1,2,0,Unmarried,0
+9835,Edda Caspar-Salz,Female,68,Masters,Unemployed,165600000.0,Single_0,Denmark,04204565995,IT specialist,0,19,3,0,1,Single,0
+5271,Yolanda Gomez,Female,44,Unknown,Arts Design Entertainment Sports & Media,1653600000.0,Married_3,Australia,0460 056 192,Occupational therapist,0,1,2,2,1,Married,3
+5817,Birthe Kobelt,Female,42,Unknown,Arts Design Entertainment Sports & Media,1665000000.0,Married_4,Denmark,(04771) 929937,Schornsteinfeger,1,0,2,2,0,Married,4
+10715,Ana Júlia da Paz,Female,31,Unknown,Computer & Mathematical,11431200000.0,Married_0,Brazil,+55 (031) 7242-2794,music therapist,1,1,13,8,3,Married,0
+19310,Judith Knappe,Female,32,Unknown,Computer & Mathematical,7152000000.0,Married_0,Denmark,00583 074554,Designer,0,1,15,7,1,Married,0
+3251,Ms. Heather Garcia,Female,33,Masters,Computer & Mathematical,1603200000.0,Married_1,Australia,0178.9972,"Engineer, site",0,4,7,2,0,Married,1
+4940,Evelyn Lamb,Female,32,Masters,Computer & Mathematical,1658400000.0,Married_2,Australia,+61.471.540.842,Senior tax professional/tax inspector,0,8,8,2,0,Married,2
+1036,전혜진,Female,33,Masters,Computer & Mathematical,1776000000.0,Married_2,Korea,052-404-8756,Paper product production machine operator,1,4,7,3,0,Married,2
+5974,Amy Frye,Female,38,Masters,Student,537600000.0,Divorced_2,Australia,7045.1338,Editorial assistant,0,13,23,13,2,Divorced,2
+15431,Isabella da Cunha,Female,39,Masters,Student,542500000.0,Divorced_2,Brazil,0800-721-3044,Jogador de badminton,0,23,21,15,1,Divorced,2
+11048,Beth Hart,Female,39,Masters,Student,330000000.0,Divorced_1,Australia,0446-836-057,"Nurse, mental health",0,22,22,17,3,Divorced,1
+18983,Sra. Lunna Duarte,Female,39,Masters,Student,610000000.0,Divorced_1,Brazil,0500-454-6611,Psychologist,0,21,13,18,2,Divorced,1
+12878,Viktoria Birnbaum B.Eng.,Female,70,Masters,Community & Social Services,750000000.0,Divorced_1,Denmark,(03074) 986423,Optometrist,0,3,1,7,0,Divorced,1
+3223,Maria Helena Freitas,Female,65,Masters,Community & Social Services,872500000.0,Divorced_1,Brazil,+55 61 6528-3606,Car seat,0,1,0,5,0,Divorced,1
+2311,강하은,Female,72,Masters,Community & Social Services,900000000.0,Divorced_1,Korea,032-386-8492,Electrical parts and product manufacturing machine operator,0,2,0,8,0,Divorced,1
+7442,Alana Macedo,Female,41,Bachelor,Office & Administrative Support,1562500000.0,Married_0,Brazil,+55 21 1992-2513,music therapist,8,3,8,19,0,Married,0
+14569,Tonya Smith,Female,43,Bachelor,Office & Administrative Support,1740000000.0,Married_0,Australia,(08)-6650-5754,Animal technologist,4,1,5,11,0,Married,0
+14023,Sra. Ana Júlia Carvalho,Female,41,Bachelor,Office & Administrative Support,1672500000.0,Married_0,Brazil,+55 (011) 5333 3004,Cancerologist or Oncologist,4,3,8,14,1,Married,0
+8933,박경숙,Female,43,Bachelor,Office & Administrative Support,1646400000.0,Married_0,Korea,018-780-6460,냉동/냉장 /공조기 설치 및 정비원,5,3,7,20,1,Married,0
+18351,Courtney Martin,Female,32,Associate,Unemployed,960000000.0,Married_4,Australia,0271700513,Higher education lecturer,0,1,3,1,3,Married,4
+14586,Courtney Bond,Female,34,Associate,Unemployed,955200000.0,Married_1,Australia,(08) 4271 0349,"Geologist, engineering",0,2,1,1,3,Married,1
+10174,Marcella Sorgatz,Female,31,Associate,Unemployed,1042500000.0,Married_2,Denmark,0394846006,mechanic,0,2,1,1,1,Married,2
+9056,한혜진,Female,31,Associate,Unemployed,1156800000.0,Married_2,Korea,016-298-8727,기자 및 논설위원,0,2,3,1,3,Married,2
+13967,Sra. Maria Alice Fogaça,Female,35,Associate,Unemployed,1089600000.0,Married_1,Brazil,+55 61 4342 0864,gas station attendant,0,2,1,2,2,Married,1
+14332,Rebecca Nielsen,Female,33,Unknown,Arts Design Entertainment Sports & Media,6207500000.0,Married_0,Australia,0210779731,Retail manager,0,1,17,7,2,Married,0
+19798,Terri Anderson,Female,31,Unknown,Arts Design Entertainment Sports & Media,7099200000.0,Married_0,Australia,61257128740,Police officer,1,0,18,8,3,Married,0
+2002,Barbara Cox,Female,47,Highschool,Unemployed,328800000.0,Married_4,Australia,-9793,"Therapist, occupational",0,0,0,0,0,Married,4
+13963,Alana Cassiano,Female,48,Highschool,Unemployed,317500000.0,Married_1,Brazil,+55 81 9358 0292,Designer de interiores,0,0,1,0,0,Married,1
+15275,Amy Flores,Female,48,Highschool,Unemployed,501600000.0,Married_1,Australia,-1433,Professor Emeritus,0,0,0,0,0,Married,1
+19104,Sarah Costa,Female,48,Highschool,Unemployed,566400000.0,Married_1,Brazil,+55 (031) 0375-9793,Engenheiro de horticultura,0,0,0,1,0,Married,1
+18455,Rebecca Ewing,Female,47,Highschool,Unemployed,458400000.0,Married_1,Australia,-7221,"Designer, blown glass/stained glass",0,0,1,1,0,Married,1
+17070,Stephanie Oliver,Female,50,Masters,Unemployed,561600000.0,Single_0,Australia,+61 494 036 712,Environmental education officer,0,6,2,3,0,Single,0
+17012,Dr. Adeline Sorgatz B.Eng.,Female,76,Masters,Unemployed,447500000.0,Single_0,Denmark,(00749) 10847,Computer scientist,0,6,2,1,0,Single,0
+3319,최지민,Female,69,Masters,Unemployed,552000000.0,Single_0,Korea,064-713-3108,aircraft pilot,0,6,3,1,0,Single,0
+11808,Marlen Drewes,Female,71,Masters,Unemployed,465600000.0,Single_0,Denmark,+49(0) 355590661,technician,0,6,1,1,0,Single,0
+7487,Florentine Stahr,Female,43,Masters,Business & Financial,1929600000.0,Married_4,Denmark,02829 064106,Physician,1,2,9,7,0,Married,4
+5003,Ashley Smith,Female,43,Masters,Business & Financial,1920000000.0,Married_4,Australia,0410 271 013,Neurosurgeon,0,1,14,7,1,Married,4
+10273,Sra. Aylla Camargo,Female,42,Masters,Business & Financial,1895000000.0,Married_1,Brazil,+55 (011) 0376 1551,Bible interpreter,0,1,19,5,0,Married,1
+2722,Monica Ford,Female,43,Masters,Business & Financial,2122500000.0,Married_2,Australia,8117-0165,"Engineer, energy",1,3,23,5,1,Married,2
+15301,주영숙,Female,35,Unknown,Computer & Mathematical,10687200000.0,Married_0,Korea,019-956-1746,기타 경호 및 보안 관련 종사원,0,1,12,7,1,Married,0
+9035,조은주,Female,34,Masters,Education&Training&Library,425000000.0,Married_1,Korea,010-3874-3052,Culture/Arts/Design and Video Manager,0,3,0,1,1,Married,1
+8152,Sophia Kühnert,Female,33,Masters,Education&Training&Library,377500000.0,Married_1,Denmark,+49(0)6316 53397,Artist,0,3,0,1,2,Married,1
+17679,Sybilla Nette,Female,35,Masters,Education&Training&Library,355200000.0,Married_2,Denmark,+49(0)5998 627632,Asphaltbauer,0,3,1,3,1,Married,2
+15485,Sara Junken B.Eng.,Female,57,Bachelor,Retired,105600000.0,Divorced_2,Denmark,01359 22469,Artist,0,5,23,13,0,Divorced,2
+3228,박은경,Female,72,Bachelor,Retired,105000000.0,Divorced_1,Korea,031-201-9011,Shoe making machine operators and assemblers,0,7,14,13,0,Divorced,1
+14673,Dra. Raquel Novais,Female,77,Bachelor,Retired,110400000.0,Divorced_1,Brazil,(081) 9967 7462,flight attendant,0,5,18,12,1,Divorced,1
+13684,서영숙,Female,75,Bachelor,Retired,88800000.0,Divorced_1,Korea,017-298-3682,Sign production and installation workers,0,5,22,19,1,Divorced,1
+10412,Maria Helena Aragão,Female,45,Bachelor,Personal Care & Service,10867200000.0,Married_3,Brazil,+55 (081) 5411 3334,Telegrafista,2,0,1,2,2,Married,3
+17228,Jenna Davis MD,Female,41,Bachelor,Personal Care & Service,8457500000.0,Married_2,Australia,07 0654 7223,"Lighting technician, broadcasting/film/video",3,0,1,1,1,Married,2
+10192,Nancy Russo,Female,44,Bachelor,Personal Care & Service,5949600000.0,Married_4,Australia,(07)87935216,"Journalist, broadcasting",1,1,1,2,3,Married,4
+12848,Stephanie Walker,Female,42,Bachelor,Personal Care & Service,9424800000.0,Married_2,Australia,(07).1481.9114,Sales executive,3,0,0,2,2,Married,2
+1788,Maria Liz Pimenta,Female,44,Bachelor,Personal Care & Service,6460800000.0,Married_2,Brazil,+55 41 5468 9130,Film professional,1,1,1,1,1,Married,2
+10493,Maria Flor da Cruz,Female,44,Bachelor,Personal Care & Service,6625000000.0,Married_2,Brazil,(041) 5117 4384,Brigadier,3,0,0,3,1,Married,2
+6414,Katherine Lynn,Female,42,Bachelor,Personal Care & Service,8862500000.0,Married_2,Australia,+61 492 592 254,"Producer, television/film/video",3,1,1,2,2,Married,2
+1597,Kim Ramirez,Female,76,Unknown,Arts Design Entertainment Sports & Media,1104000000.0,Married_1,Australia,02.5444.0536,Advertising account planner,0,3,0,1,0,Married,1
+14609,Hannah Morris,Female,58,Unknown,Arts Design Entertainment Sports & Media,1147500000.0,Married_4,Australia,0469.855.597,"Scientist, physiological",0,3,0,1,1,Married,4
+16896,Gesine Höfig,Female,77,Unknown,Arts Design Entertainment Sports & Media,1075200000.0,Married_2,Denmark,+49 (0) 6732 150700,Schornsteinfeger,0,3,0,1,0,Married,2
+3204,Eileen Mende,Female,75,Unknown,Arts Design Entertainment Sports & Media,1178400000.0,Married_1,Denmark,+49(0) 676305138,Designer,0,3,0,3,1,Married,1
+1327,Emily Alvarez,Female,68,Unknown,Arts Design Entertainment Sports & Media,967500000.0,Married_4,Australia,0658.6063,Mudlogger,0,1,0,2,1,Married,4
+4114,조경자,Female,60,Unknown,Arts Design Entertainment Sports & Media,992500000.0,Married_1,Korea,019-584-8840,visual designer,0,2,0,2,0,Married,1
+2322,Katelyn Jones,Female,31,Masters,Life Physical Social Science,1365600000.0,Unmarried_3,Australia,+61 8 6552 7415,Control and instrumentation engineer,0,0,1,1,0,Unmarried,3
+13974,Eveline Schmiedt B.A.,Female,42,Unknown,Unemployed,175000000.0,Unmarried_4,Denmark,+49(0)6613396163,Chemikant,0,3,2,6,1,Unmarried,4
+3957,손지현,Female,43,Unknown,Unemployed,97500000.0,Unmarried_3,Korea,017-981-3403,오락시설 서비스원,0,1,3,6,0,Unmarried,3
+7390,Meta Trupp,Female,41,Unknown,Unemployed,155000000.0,Unmarried_2,Denmark,05243334445,Designer,0,1,3,5,1,Unmarried,2
+9255,Maria Sanders,Female,39,Unknown,Healthcare Practitioners & Technical,545000000.0,Single_2,Australia,8154-2942,Radio producer,0,1,21,7,1,Single,2
+1399,Srta. Aylla Lima,Female,37,Unknown,Healthcare Practitioners & Technical,482500000.0,Single_1,Brazil,+55 (084) 1299 0418,plaster technician,0,0,15,8,1,Single,1
+17401,Denise Bailey,Female,37,Unknown,Healthcare Practitioners & Technical,439200000.0,Single_3,Australia,61314103162,Materials engineer,0,1,23,5,0,Single,3
+14261,Natalija Sölzer,Female,38,Unknown,Healthcare Practitioners & Technical,456000000.0,Single_1,Denmark,+49(0)5007 68923,Korean studies scholar,0,0,22,6,0,Single,1
+12453,Emanuella Fernandes,Female,30,Bachelor,Arts Design Entertainment Sports & Media,1272500000.0,Married_1,Brazil,+55 (021) 5602 4370,Tosador,0,0,0,0,0,Married,1
+2427,Maysa Ribeiro,Female,32,Bachelor,Unemployed,2677500000.0,Single_0,Brazil,+55 (021) 0222 6375,Personnel selector,0,4,23,6,1,Single,0
+18128,Ing. Sibille Beier,Female,31,Bachelor,Unemployed,5187500000.0,Single_0,Denmark,03706498886,mechanic,0,6,21,8,0,Single,0
+19553,Joana Fernandes,Female,31,Bachelor,Unemployed,8157600000.0,Single_0,Brazil,(051) 8423-4217,Costureira,0,6,19,7,1,Single,0
+10403,Karen Arnold,Female,31,Unknown,Computer & Mathematical,4362500000.0,Married_0,Australia,0414 467 411,"Therapist, speech and language",0,1,23,8,1,Married,0
+12800,유옥자,Female,31,Unknown,Computer & Mathematical,3535200000.0,Married_0,Korea,033-115-6641,information systems operator,1,0,11,7,0,Married,0
+12596,Maria Julia Novaes,Female,50,Bachelor,Office & Administrative Support,1036800000.0,Single_3,Brazil,21 9360-3735,Editor,0,8,3,3,2,Single,3
+5638,Stephany Castro,Female,32,Bachelor,Computer & Mathematical,1602500000.0,Unmarried_1,Brazil,(051) 7289 3579,Costume Designer,0,5,6,10,6,Unmarried,1
+17233,Sara Vieira,Female,34,Bachelor,Computer & Mathematical,1722500000.0,Unmarried_2,Brazil,+55 84 1142-8656,Fisherman,0,6,6,19,4,Unmarried,2
+15571,Yasmin Sampaio,Female,34,Bachelor,Computer & Mathematical,1749600000.0,Unmarried_1,Brazil,0500 003 5932,Serventuário,0,4,7,9,4,Unmarried,1
+13200,Svetlana Hofmann,Female,34,Bachelor,Computer & Mathematical,1660000000.0,Unmarried_3,Denmark,06329 29789,IT specialist,0,8,5,20,8,Unmarried,3
+18036,Michelle Mendez,Female,35,Bachelor,Computer & Mathematical,1820000000.0,Unmarried_1,Australia,+61 448 131 041,Copy,0,6,6,13,7,Unmarried,1
+2268,조지연,Female,31,Bachelor,Computer & Mathematical,1766400000.0,Unmarried_1,Korea,016-328-3452,Japanese chef and cook,0,4,4,21,5,Unmarried,1
+9821,Milena Sales,Female,31,Bachelor,Computer & Mathematical,1842500000.0,Unmarried_2,Brazil,(021) 8703-5126,Profissional de relações públicas,0,8,5,23,5,Unmarried,2
+10810,곽현숙,Female,78,Unknown,Education&Training&Library,1427500000.0,Married_2,Korea,019-860-2503,광고 및 홍보 전문가,1,0,6,3,0,Married,2
+8930,엄숙자,Female,52,Unknown,Education&Training&Library,1322500000.0,Married_1,Korea,042-498-5157,무용가 및 안무가,1,0,4,3,1,Married,1
+5558,Verena Ullrich,Female,57,Unknown,Education&Training&Library,1495200000.0,Married_4,Denmark,0355996831,Chemist,1,0,8,1,0,Married,4
+4503,Sara Cirino,Female,45,Associate,Education&Training&Library,1590000000.0,Married_2,Brazil,+55 31 5602 4668,Lutador de luta livre,0,1,0,0,1,Married,2
+18609,Mirella Montenegro,Female,48,Masters,Unemployed,9120000000.0,Unmarried_0,Brazil,0300-399-8274,Operator,0,0,0,3,1,Unmarried,0
+3379,Melina Sampaio,Female,49,Masters,Unemployed,10120800000.0,Unmarried_0,Brazil,(051) 5904 6907,Scout,0,1,1,3,0,Unmarried,0
+15298,Crystal Anderson,Female,48,Bachelor,Construction & Extraction,422500000.0,Married_0,Australia,-11596,Community arts worker,3,7,4,2,0,Married,0
+1014,Lindsey Garcia,Female,40,Associate,Healthcare Practitioners & Technical,2004000000.0,Married_4,Australia,+61 2 6527 7772,"Scientist, biomedical",1,0,8,2,1,Married,4
+8944,Joyce Williams,Female,36,Associate,Healthcare Practitioners & Technical,1970400000.0,Married_1,Australia,(02) 0802 3595,"Pilot, airline",0,0,8,2,0,Married,1
+14838,Mary Morris,Female,38,Associate,Healthcare Practitioners & Technical,1816800000.0,Married_1,Australia,08 1947 7528,Interior and spatial designer,1,0,8,2,1,Married,1
+8315,Lisa Perez,Female,39,Associate,Healthcare Practitioners & Technical,1879200000.0,Married_1,Australia,-967,Agricultural consultant,0,0,6,2,1,Married,1
+15249,Heide-Marie Benthin,Female,36,Associate,Healthcare Practitioners & Technical,2067500000.0,Married_1,Denmark,+49(0)3177468733,Asphaltbauer,1,0,4,3,1,Married,1
+12871,Madison Burns,Female,38,Associate,Healthcare Practitioners & Technical,2008800000.0,Married_1,Australia,0835466837,Food technologist,0,0,4,1,0,Married,1
+11168,홍명자,Female,41,Masters,Computer & Mathematical,1924800000.0,Married_1,Korea,017-808-2047,가구조립원,0,4,18,1,0,Married,1
+4358,Lilian Möchlichen-Jäntsch,Female,41,Masters,Computer & Mathematical,1972800000.0,Married_2,Denmark,+49(0) 569741004,geriatric nurse,1,4,22,1,1,Married,2
+6493,Emanuelly Rodrigues,Female,45,Masters,Computer & Mathematical,2049600000.0,Married_4,Brazil,(031) 9009-7045,music therapist,1,7,19,3,1,Married,4
+11809,Julia Moreira,Female,61,Bachelor,Education&Training&Library,470400000.0,Married_1,Brazil,(031) 9512 9722,Neonatologista,1,5,6,13,1,Married,1
+7111,Ana Beatriz Sales,Female,62,Bachelor,Education&Training&Library,515000000.0,Married_4,Brazil,31 5838-7636,Army Military,1,6,5,9,0,Married,4
+5533,황현정,Female,54,Bachelor,Education&Training&Library,620000000.0,Married_2,Korea,032-046-7419,Entertainers and Sports Managers,0,7,5,19,1,Married,2
+11394,Eloá Macedo,Female,74,Bachelor,Education&Training&Library,417600000.0,Married_4,Brazil,(031) 1779-7228,Guarantor,0,5,6,18,1,Married,4
+10252,Marjan Hering-Höfig,Female,64,Unknown,Personal Care & Service,2297500000.0,Married_1,Denmark,+49(0)2599 22267,programmer,0,20,1,3,1,Married,1
+13824,Alice Viana,Female,62,Unknown,Personal Care & Service,2345000000.0,Married_1,Brazil,0800-221-7987,Bancário,0,12,0,1,1,Married,1
+10614,Stella Barbosa,Female,64,Unknown,Personal Care & Service,2315000000.0,Married_3,Brazil,61 7141 3578,Screenwriter,0,22,1,2,1,Married,3
+9254,Ing. Monika Bloch MBA.,Female,75,Unknown,Personal Care & Service,2284800000.0,Married_4,Denmark,+49 (0) 8378 177145,Winzer,0,19,1,3,0,Married,4
+9611,Melissa Luna,Female,63,Unknown,Personal Care & Service,2257500000.0,Married_2,Australia,0844162784,Brewing technologist,0,16,0,2,0,Married,2
+7036,Marie-Luise Mülichen-Siering,Female,66,Masters,Business & Financial,1120000000.0,Single_0,Denmark,(04533) 206702,Nurse,0,16,3,2,1,Single,0
+16379,Stacy Marshall,Female,71,Masters,Business & Financial,912000000.0,Single_0,Australia,0456 423 463,"Investment banker, corporate",0,11,3,2,1,Single,0
+12232,Emily Kim,Female,61,Masters,Business & Financial,945600000.0,Single_0,Australia,(03) 9944 5379,"Pharmacist, hospital",0,20,3,2,3,Single,0
+19369,Cynthia Park,Female,40,Associate,Unemployed,2080000000.0,Unmarried_0,Australia,07-3344-6415,Equality and diversity officer,0,0,16,18,3,Unmarried,0
+1565,안영희,Female,39,Associate,Unemployed,2040000000.0,Unmarried_0,Korea,019-531-6111,paralegal and bailiff,0,0,14,20,1,Unmarried,0
+19540,Jennifer Sullivan,Female,64,Associate,Office & Administrative Support,1936800000.0,Married_2,Australia,+61.8.8180.9417,Animal technologist,3,4,17,5,5,Married,2
+1454,Lívia Dias,Female,57,Associate,Office & Administrative Support,1915000000.0,Married_3,Brazil,+55 (031) 0656 9910,Cartographer,3,4,17,8,6,Married,3
+6243,Ágatha Pacheco,Female,52,Associate,Office & Administrative Support,2016000000.0,Married_2,Brazil,(051) 7911 1430,Supervisor,2,8,20,8,8,Married,2
+6178,Daria Eimer MBA.,Female,35,Unknown,Arts Design Entertainment Sports & Media,11121600000.0,Married_0,Denmark,+49(0)9973128379,Artist,1,0,20,4,1,Married,0
+1111,Angela Wallace DDS,Female,34,Unknown,Arts Design Entertainment Sports & Media,10742400000.0,Married_0,Australia,0565.5779,Rural practice surveyor,0,0,23,8,0,Married,0
+5894,Sra. Ana Júlia Fogaça,Female,32,Unknown,Arts Design Entertainment Sports & Media,6252500000.0,Married_0,Brazil,31 7861 0381,Transcritor,0,0,20,7,1,Married,0
+9102,Srta. Evelyn Campos,Female,35,Unknown,Arts Design Entertainment Sports & Media,11376000000.0,Married_0,Brazil,+55 21 8488 3970,Gravedigger/Burial,0,0,18,8,0,Married,0
+3386,Maria Clara Pereira,Female,32,Unknown,Arts Design Entertainment Sports & Media,6895000000.0,Married_0,Brazil,+55 11 4422 7149,Bible interpreter,1,0,15,7,1,Married,0
+14670,이서윤,Female,44,Masters,Business & Financial,2357500000.0,Married_3,Korea,031-401-3791,Cashier at the cashier,0,3,6,2,1,Married,3
+5423,Karina Armstrong,Female,45,Masters,Business & Financial,2405000000.0,Married_1,Australia,0741.0647,"Engineer, agricultural",1,2,8,2,0,Married,1
+17043,이미정,Female,45,Masters,Business & Financial,2157600000.0,Married_2,Korea,010-3639-0816,Western chef and cook,0,1,7,1,1,Married,2
+3572,Joanna Wells,Female,62,Masters,Education&Training&Library,2497500000.0,Single_0,Australia,0431 092 833,Biomedical scientist,1,2,0,1,0,Single,0
+9256,Olivia Cassiano,Female,60,Masters,Education&Training&Library,2131200000.0,Single_0,Brazil,11 2736-2689,Profissional de relações públicas,3,3,0,2,1,Single,0
+15948,박경자,Female,74,Masters,Education&Training&Library,2150400000.0,Single_0,Korea,019-504-9152,Other mining and civil engineering workers,2,2,0,2,0,Single,0
+19274,윤현숙,Female,54,Masters,Education&Training&Library,2392800000.0,Single_0,Korea,031-726-0221,웨이터,1,1,0,1,0,Single,0
+12734,박하은,Female,60,Masters,Education&Training&Library,2265000000.0,Single_0,Korea,043-189-5899,Sign production and installation workers,3,3,1,2,1,Single,0
+16042,Maria Alice da Rosa,Female,53,Masters,Education&Training&Library,2395200000.0,Single_0,Brazil,(081) 7146 2789,Profissional de relações internacionais,3,2,0,2,1,Single,0
+2754,Mrs. Alicia Boone,Female,69,Masters,Education&Training&Library,2260000000.0,Single_0,Australia,0458 394 007,Ranger/warden,2,1,0,2,1,Single,0
+3123,Jutta Kallert-Schäfer,Female,63,Masters,Education&Training&Library,2109600000.0,Single_0,Denmark,(01779) 098869,Winzer,2,3,1,1,1,Single,0
+17206,Rafaela Andrade,Female,33,Unknown,Arts Design Entertainment Sports & Media,6345000000.0,Married_0,Brazil,0800-726-2853,Co-pilot,0,1,10,7,0,Married,0
+15746,진은서,Female,35,Associate,Student,2380800000.0,Married_4,Korea,043-994-9155,cleaner,0,8,6,0,0,Married,4
+7024,이명숙,Female,48,Highschool,Transportation & Material Moving,1097500000.0,Married_4,Korea,031-504-9306,car salesman,1,0,3,2,0,Married,4
+14644,Esther Peixoto,Female,46,Highschool,Transportation & Material Moving,1057500000.0,Married_1,Brazil,+55 51 0237 3347,Metallurgical engineer,1,1,1,3,0,Married,1
+7278,Clara Campos,Female,47,Highschool,Transportation & Material Moving,919200000.0,Married_4,Brazil,(084) 3388 8034,Community leader,0,0,2,1,0,Married,4
+16234,Prof. Irmtrud Lorch B.Eng.,Female,49,Highschool,Transportation & Material Moving,1052500000.0,Married_2,Denmark,(00898) 997614,policeman,0,0,1,2,0,Married,2
+14199,Irma Zahn,Female,30,Highschool,Healthcare Support,775000000.0,Unmarried_0,Denmark,05166075747,Medizininformatiker,0,1,2,3,1,Unmarried,0
+18433,Ida Henk,Female,48,Bachelor,Office & Administrative Support,703200000.0,Divorced_4,Denmark,+49(0)0282176132,policeman,0,1,3,3,3,Divorced,4
+19312,Natália Cunha,Female,48,Bachelor,Office & Administrative Support,636000000.0,Divorced_3,Brazil,(081) 6147-4532,Contador,0,3,3,1,1,Divorced,3
+18607,Ann Williams,Female,47,Bachelor,Office & Administrative Support,607200000.0,Divorced_1,Australia,-11307,"Accountant, chartered public finance",0,1,1,2,1,Divorced,1
+12958,Anneli Margraf,Female,75,Associate,Retired,261600000.0,Single_4,Denmark,+49(0)0738498896,Asphaltbauer,0,0,1,0,0,Single,4
+9784,Dra. Ana Cecília Mendonça,Female,74,Associate,Retired,130000000.0,Single_1,Brazil,(041) 2177 3521,Navy Military,0,0,1,0,0,Single,1
+16508,Anna Medina,Female,77,Associate,Retired,28800000.0,Single_1,Australia,+61.465.786.346,"Exhibitions officer, museum/gallery",0,0,1,0,0,Single,1
+12989,Yasmin Heydrich,Female,65,Unknown,Unemployed,962500000.0,Divorced_1,Denmark,07314 44245,Pilot,0,0,8,2,0,Divorced,1
+6956,Eduarda Sá,Female,59,Unknown,Unemployed,1020000000.0,Divorced_1,Brazil,61 1112 4538,Skater,0,0,6,2,1,Divorced,1
+12923,Liliana Lorch,Female,50,Unknown,Unemployed,1007500000.0,Divorced_1,Denmark,+49(0)9710 99892,Construction specialist,0,0,8,3,0,Divorced,1
+7578,Elisa Moura,Female,68,Unknown,Unemployed,938400000.0,Divorced_3,Brazil,+55 51 3067 4658,Cartoonist,0,0,8,2,1,Divorced,3
+6856,Prof. Elisabeth Kraushaar,Female,77,Unknown,Unemployed,1106400000.0,Divorced_1,Denmark,+49(0)2996910043,Fleischer,0,0,7,2,1,Divorced,1
+5546,Rachel Jensen,Female,73,Unknown,Unemployed,1245000000.0,Divorced_2,Australia,07 1278 9069,"Engineer, maintenance",0,0,5,2,0,Divorced,2
+16421,Julie Vasquez,Female,59,Unknown,Unemployed,955000000.0,Divorced_4,Australia,0470-273-070,Sports coach,0,0,7,3,1,Divorced,4
+1040,Rose Segebahn,Female,32,Bachelor,Computer & Mathematical,1770000000.0,Unmarried_1,Denmark,04865 24842,Optometrist,0,3,5,2,2,Unmarried,1
+13600,Tara Reed,Female,34,Bachelor,Computer & Mathematical,1802500000.0,Unmarried_1,Australia,+61.2.4451.6823,Economist,0,2,8,1,1,Unmarried,1
+7378,Amanda Brito,Female,34,Bachelor,Computer & Mathematical,1509600000.0,Unmarried_2,Brazil,11 9710 3666,Day laborer,0,2,5,1,3,Unmarried,2
+7477,Nicole Rodriguez,Female,33,Bachelor,Computer & Mathematical,1827500000.0,Unmarried_2,Australia,0207.4112,Patent examiner,0,2,7,1,3,Unmarried,2
+6544,한옥순,Female,46,Unknown,Office & Administrative Support,1202500000.0,Single_0,Korea,064-791-3271,Electrical engineering technician and researcher,0,1,16,7,3,Single,0
+9958,엄선영,Female,49,Unknown,Office & Administrative Support,1047500000.0,Single_0,Korea,017-956-3756,accountant,0,2,12,4,1,Single,0
+10180,양영미,Female,47,Unknown,Office & Administrative Support,1085000000.0,Single_0,Korea,02-9182-0963,Travel and tourism interpreter guide,0,3,23,7,1,Single,0
+15900,김은정,Female,55,Bachelor,Education&Training&Library,8847500000.0,Married_1,Korea,031-986-5568,Unloading and loading simple workers,0,1,4,2,2,Married,1
+14810,Sarah Hahn-Ullrich,Female,75,Bachelor,Education&Training&Library,6976800000.0,Married_1,Denmark,04218 04104,programmer,0,0,7,1,2,Married,1
+12166,Bianca Schuster B.Eng.,Female,53,Bachelor,Education&Training&Library,2825000000.0,Married_3,Denmark,00693 376902,Medizininformatiker,0,1,6,2,3,Married,3
+16670,Maria Julia Moura,Female,58,Bachelor,Sales & Related,1540000000.0,Married_0,Brazil,+55 (081) 1344-5423,Clerk,2,6,0,2,0,Married,0
+6880,Lavínia Sá,Female,39,Associate,Computer & Mathematical,520800000.0,Divorced_0,Brazil,+55 71 1234 7319,Innovation or new business manager,0,7,1,1,0,Divorced,0
+13885,Madison Gardner,Female,38,Associate,Computer & Mathematical,385000000.0,Divorced_0,Australia,0410 671 622,Midwife,0,7,1,1,1,Divorced,0
+2375,Cecilia Mendonça,Female,36,Associate,Computer & Mathematical,452500000.0,Divorced_0,Brazil,81 6322 4811,pharmaceutical chemist,1,5,1,1,0,Divorced,0
+6836,Clara Zahn,Female,40,Bachelor,Sales & Related,422400000.0,Divorced_1,Denmark,+49(0)7908229853,Optometrist,0,0,1,1,0,Divorced,1
+1603,고채원,Female,50,Unknown,Unemployed,96000000.0,Single_4,Korea,016-944-4838,Other religious workers,0,3,1,1,1,Single,4
+3021,Florentine Hornig,Female,58,Unknown,Unemployed,285000000.0,Single_1,Denmark,+49(0)1026 32611,educator,0,3,1,1,1,Single,1
+10100,Kristina Gill,Female,78,Unknown,Unemployed,135000000.0,Single_1,Australia,(03)94165079,"Presenter, broadcasting",0,1,0,1,1,Single,1
+8564,Cathrin Mielcarek,Female,71,Unknown,Unemployed,33600000.0,Single_2,Denmark,06546 557778,Baker,0,3,1,3,1,Single,2
+10409,양서연,Female,62,Unknown,Unemployed,70000000.0,Single_1,Korea,018-768-9259,Other beauty/ceremony and medical assistance service workers,0,2,1,2,1,Single,1
+13186,Emine Birnbaum-Peukert,Female,32,Associate,Arts Design Entertainment Sports & Media,1833600000.0,Single_0,Denmark,+49(0)5458 51457,Fleischer,0,1,8,2,1,Single,0
+7924,Juliana Novaes,Female,35,Associate,Arts Design Entertainment Sports & Media,2025600000.0,Single_0,Brazil,+55 (011) 3639 6477,Apothecary,0,1,8,1,1,Single,0
+4910,한정희,Female,33,Associate,Arts Design Entertainment Sports & Media,2140000000.0,Single_0,Korea,063-020-0375,Architects and structural engineering technicians,0,1,4,2,1,Single,0
+19899,Sylke Schmidt-Meister,Female,58,Unknown,Food Preparation & Serving Related,92500000.0,Widowed_1,Denmark,02374372828,mechanic,0,0,2,8,0,Widowed,1
+1205,Giovanna Lopes,Female,60,Unknown,Food Preparation & Serving Related,240000000.0,Widowed_2,Brazil,61 7980 9207,Neonatologista,0,0,1,5,1,Widowed,2
+17424,Ashley Lambert,Female,76,Unknown,Food Preparation & Serving Related,76800000.0,Widowed_4,Australia,-10091,"Teacher, early years/pre",0,0,1,7,1,Widowed,4
+7293,Hildburg Seidel,Female,33,Unknown,Computer & Mathematical,12010000000.0,Married_0,Denmark,05712 94428,Pilot,0,0,15,6,0,Married,0
+19543,Isabel Montenegro,Female,35,Masters,Student,832500000.0,Married_1,Brazil,+55 (021) 5936-0051,Social worker,0,16,5,1,1,Married,1
+3994,Kelly Scott,Female,34,Masters,Student,616800000.0,Married_1,Australia,+61 2 0531 2774,Public house manager,0,18,5,1,1,Married,1
+2733,노정숙,Female,33,Masters,Student,770400000.0,Married_3,Korea,054-699-5306,Loom and knitting machine operators,0,17,7,1,0,Married,3
+9219,Maria Fernanda Brito,Female,61,Bachelor,Legal,645000000.0,Single_1,Brazil,+55 71 0351-4514,Cartoonist,0,1,8,3,1,Single,1
+13445,박순옥,Female,59,Bachelor,Legal,693600000.0,Single_1,Korea,031-213-6034,물품 이동 장비 설치 및 정비원,0,1,7,1,0,Single,1
+17516,하지영,Female,32,Bachelor,Unemployed,11611200000.0,Married_3,Korea,02-0716-5473,Metal machinery parts assembler,0,7,4,7,1,Married,3
+12993,Vanessa Taylor,Female,35,Bachelor,Unemployed,9300000000.0,Married_3,Australia,(03)71059851,Child psychotherapist,0,4,4,4,0,Married,3
+8213,Sophie Nunes,Female,30,Masters,Computer & Mathematical,1872500000.0,Unmarried_0,Brazil,(084) 2371 9196,Produtor fonográfico,1,0,3,6,3,Unmarried,0
+18364,Maitê Siqueira,Female,30,Bachelor,Community & Social Services,1025000000.0,Unmarried_0,Brazil,61 0946-0774,Biomedical,0,0,1,1,0,Unmarried,0
+12495,Jaqueline Weimer B.Sc.,Female,33,Masters,Student,672000000.0,Unmarried_0,Denmark,(04407) 096798,policeman,2,1,3,2,0,Unmarried,0
+13165,Jennifer Perry,Female,32,Masters,Student,823200000.0,Unmarried_0,Australia,(03)-2509-1825,Analytical chemist,1,1,2,1,1,Unmarried,0
+10305,Melita Kostolzin,Female,31,Masters,Student,888000000.0,Unmarried_0,Denmark,02474 704139,Fleischer,2,0,2,3,1,Unmarried,0
+8032,Bruna Fernandes,Female,34,Masters,Student,647500000.0,Unmarried_0,Brazil,+55 81 4274 3776,Lighting engineer,1,1,2,3,1,Unmarried,0
+4623,박정자,Female,60,Bachelor,Unemployed,2497500000.0,Married_3,Korea,070-2366-8706,Communication and broadcasting transmission equipment engineer,0,5,1,7,2,Married,3
+1938,Ann Walters,Female,54,Bachelor,Unemployed,2383200000.0,Married_4,Australia,03-1969-4107,"Teacher, secondary school",0,4,1,5,2,Married,4
+15836,Caroline Ferreira,Female,53,Bachelor,Unemployed,2462500000.0,Married_3,Brazil,61 0800-1637,Milling cutter,0,8,1,4,1,Married,3
+6755,Sara Dias,Female,72,Highschool,Retired,2030000000.0,Married_1,Brazil,0500 563 0849,Translator,0,0,6,1,3,Married,1
+1431,Ana Liz Araújo,Female,72,Highschool,Retired,1864800000.0,Married_2,Brazil,+55 (071) 7995 6538,Meteorologista,0,0,7,1,2,Married,2
+4142,김하은,Female,77,Highschool,Retired,2082500000.0,Married_1,Korea,031-614-9661,검표원,0,0,6,0,3,Married,1
+14535,Briana Solis,Female,34,Bachelor,Unemployed,1012800000.0,Married_3,Australia,03 9601 4963,"Lecturer, higher education",0,8,5,23,2,Married,3
+4542,Frieda Mentzel,Female,34,Bachelor,Unemployed,1063200000.0,Married_3,Denmark,+49(0)5621416086,Baker,1,5,4,9,3,Married,3
+11822,임정숙,Female,33,Unknown,Food Preparation & Serving Related,588000000.0,Divorced_1,Korea,011-063-0312,technical salesperson,1,1,7,19,20,Divorced,1
+14509,Gabriela Hertrampf,Female,32,Unknown,Food Preparation & Serving Related,424800000.0,Divorced_2,Denmark,0197342830,Designer,0,1,7,18,12,Divorced,2
+5949,차정숙,Female,33,Unknown,Food Preparation & Serving Related,434400000.0,Divorced_2,Korea,061-297-1416,Congressmen/high-ranking public officials and public organization executives,1,1,6,17,22,Divorced,2
+4645,Rosita Ebert B.Eng.,Female,44,Bachelor,Healthcare Support,1982400000.0,Single_2,Denmark,07003333033,Pilot,0,0,2,3,0,Single,2
+18255,강지영,Female,43,Bachelor,Healthcare Support,2080800000.0,Single_2,Korea,051-824-7846,debt collector,1,1,3,1,1,Single,2
+18990,Sra. Helena Vieira,Female,45,Masters,Food Preparation & Serving Related,11637600000.0,Married_1,Brazil,84 4095-1604,Remador,1,20,8,6,8,Married,1
+17367,Olivia Aragão,Female,41,Masters,Food Preparation & Serving Related,6827500000.0,Married_2,Brazil,+55 (021) 3628 1094,Mototaxista,0,22,8,5,8,Married,2
+12283,윤보람,Female,43,Masters,Food Preparation & Serving Related,6562500000.0,Married_1,Korea,018-709-0060,aircraft maintenance worker,0,15,5,8,6,Married,1
+16064,Bertha Gertz,Female,34,Masters,Legal,2016000000.0,Single_0,Denmark,+49(0)2384 929630,official,18,5,7,6,4,Single,0
+8482,Leonie Ebert,Female,35,Masters,Legal,1982500000.0,Single_0,Denmark,01284 597921,Designer,10,4,8,8,5,Single,0
+19562,Kamilly Teixeira,Female,32,Masters,Legal,2017500000.0,Single_0,Brazil,61 2658 5617,Sugar cane cutter,18,6,8,6,6,Single,0
+19565,Dörthe Löffler-Hermighausen,Female,33,Masters,Legal,1802400000.0,Single_0,Denmark,+49(0)7654 845136,Asphaltbauer,12,8,7,4,7,Single,0
+2767,Victoria Khan,Female,35,Masters,Legal,1893600000.0,Single_0,Australia,07-5630-3364,Printmaker,18,7,7,4,5,Single,0
+14941,문은주,Female,32,Masters,Legal,2012500000.0,Single_0,Korea,052-932-2448,의지보조기기사,19,6,8,7,6,Single,0
+15016,Trudi Cichorius,Female,35,Masters,Legal,2080000000.0,Single_0,Denmark,0891637599,Artist,22,6,7,4,6,Single,0
+2149,Simone Bruder,Female,32,Masters,Legal,2000000000.0,Single_0,Denmark,03554677128,official,16,6,6,6,4,Single,0
+3029,Ing. Christiane Wesack B.A.,Female,34,Masters,Legal,1937500000.0,Single_0,Denmark,(00956) 538966,Bank clerk,21,4,4,7,8,Single,0
+17203,Lilian Mende,Female,37,Highschool,Food Preparation & Serving Related,468000000.0,Single_0,Denmark,+49(0)2747 05311,Baker,0,0,1,1,1,Single,0
+4442,Denise Blackburn,Female,38,Highschool,Food Preparation & Serving Related,377500000.0,Single_0,Australia,0482.542.708,"Conservation officer, nature",1,1,3,0,1,Single,0
+11458,Kim Barber,Female,38,Unknown,Unemployed,250000000.0,Married_1,Australia,3087-7312,"Programmer, multimedia",0,0,6,1,1,Married,1
+2345,Mrs. Melanie Berry,Female,36,Unknown,Unemployed,216000000.0,Married_1,Australia,-15072,Solicitor,0,0,8,1,1,Married,1
+14367,Erica Moore,Female,37,Unknown,Unemployed,57500000.0,Married_3,Australia,(02)70456035,"Loss adjuster, chartered",0,0,4,1,0,Married,3
+16548,Judith Adler B.Eng.,Female,37,Unknown,Unemployed,268800000.0,Married_3,Denmark,+49(0) 833606229,Florist,0,0,5,1,1,Married,3
+14190,Brenda Porto,Female,41,Masters,Computer & Mathematical,1972800000.0,Married_1,Brazil,+55 (084) 6578 0830,Ortoptista,0,7,15,1,1,Married,1
+17285,Amanda Rasmussen,Female,41,Masters,Computer & Mathematical,1896000000.0,Married_1,Australia,0760047890,Firefighter,1,5,16,1,0,Married,1
+18581,Carmen Lynch,Female,41,Masters,Computer & Mathematical,1952500000.0,Married_4,Australia,61733223301,Neurosurgeon,0,5,21,2,1,Married,4
+16221,하수진,Female,45,Masters,Computer & Mathematical,2025600000.0,Married_2,Korea,042-047-4139,bartender,1,7,17,1,1,Married,2
+16783,황경희,Female,36,Bachelor,Unemployed,2191200000.0,Married_4,Korea,063-425-5522,translator,0,0,0,0,1,Married,4
+3632,Maria Flor Alves,Female,38,Bachelor,Unemployed,2366400000.0,Married_3,Brazil,51 6803 4979,Marinheiro,1,0,0,1,1,Married,3
+7414,최수민,Female,39,Bachelor,Unemployed,2415000000.0,Married_2,Korea,010-5270-5340,Hanbok manufacturer,0,0,0,1,0,Married,2
+11443,Julie Jones,Female,39,Bachelor,Unemployed,2220000000.0,Married_2,Australia,61801988416,Optometrist,0,0,0,1,1,Married,2
+19488,Isabelly Borges,Female,54,Bachelor,Food Preparation & Serving Related,610000000.0,Single_1,Brazil,(084) 7316-3393,President of the Republic,0,2,6,1,1,Single,1
+18027,Maria Alice Carvalho,Female,66,Bachelor,Food Preparation & Serving Related,385000000.0,Single_3,Brazil,+55 (061) 4979 1334,gas station attendant,0,3,6,0,0,Single,3
+16954,차은영,Female,60,Bachelor,Food Preparation & Serving Related,343200000.0,Single_3,Korea,051-041-4354,경영지원 관리자,0,3,4,1,0,Single,3
+15625,황옥순,Female,54,Bachelor,Food Preparation & Serving Related,304800000.0,Single_1,Korea,055-431-5133,Laundry attendant and ironing attendant,0,1,6,0,1,Single,1
+9201,Amanda George,Female,42,Unknown,Education&Training&Library,6362400000.0,Married_2,Australia,+61 7 6268 1421,Arts development officer,0,18,12,20,8,Married,2
+5892,April Patrick,Female,44,Unknown,Education&Training&Library,10262400000.0,Married_2,Australia,+61.2.9723.0595,Proofreader,0,17,13,18,4,Married,2
+15054,손영자,Female,42,Unknown,Education&Training&Library,11402500000.0,Married_1,Korea,017-982-2239,elementary school teacher,0,16,19,16,7,Married,1
+14338,Emanuelly Porto,Female,45,Unknown,Education&Training&Library,4805000000.0,Married_1,Brazil,(061) 9793-7425,Cancerologist or Oncologist,0,14,20,19,4,Married,1
+5659,Mariana Fogaça,Female,41,Unknown,Education&Training&Library,3388800000.0,Married_1,Brazil,(084) 2276 7920,Passer,0,15,20,11,5,Married,1
+5811,Bruna Lima,Female,42,Unknown,Education&Training&Library,10422500000.0,Married_3,Brazil,+55 31 3226 0607,Administrator,0,22,16,12,8,Married,3
+16176,Stella Novais,Female,45,Unknown,Arts Design Entertainment Sports & Media,2200000000.0,Married_0,Brazil,61 1020 9402,Steward,2,2,8,6,1,Married,0
+8037,Dorothy Graves,Female,43,Unknown,Arts Design Entertainment Sports & Media,2366400000.0,Married_0,Australia,-1862,"Surveyor, quantity",1,2,6,8,2,Married,0
+7112,Ana Vitória Farias,Female,41,Unknown,Arts Design Entertainment Sports & Media,2359200000.0,Married_0,Brazil,21 0333 6010,Builder,2,2,7,6,2,Married,0
+13000,Lívia Cardoso,Female,44,Unknown,Arts Design Entertainment Sports & Media,2179200000.0,Married_0,Brazil,(081) 4765-8368,Taifeiro,2,3,7,7,1,Married,0
+5700,최현숙,Female,42,Masters,Management,1970400000.0,Married_1,Korea,062-296-8968,Network system developer,0,1,6,2,0,Married,1
+7875,Yolanda Thomas,Female,44,Masters,Management,1819200000.0,Married_2,Australia,5355.293,Comptroller,1,2,6,1,0,Married,2
+16429,Adolfine Mangold B.Sc.,Female,68,Highschool,Sales & Related,981600000.0,Married_2,Denmark,00539 951075,Winzer,0,22,8,1,1,Married,2
+14843,Júlia da Conceição,Female,51,Highschool,Sales & Related,1137500000.0,Married_1,Brazil,+55 21 9718-7777,sound engineer,0,13,4,3,1,Married,1
+8150,Claire Hogan,Female,63,Highschool,Sales & Related,1077600000.0,Married_1,Australia,(08)19444569,Insurance underwriter,0,21,4,3,1,Married,1
+19468,권은영,Female,42,Associate,Unemployed,1648800000.0,Married_3,Korea,018-125-7014,sheet metal worker,1,1,0,1,1,Married,3
+9428,Sylvana Naser-Jäkel,Female,44,Associate,Unemployed,1837500000.0,Married_1,Denmark,01258 75935,Winzer,1,0,1,0,1,Married,1
+8281,곽지원,Female,75,Associate,Healthcare Support,576000000.0,Widowed_1,Korea,044-393-0614,painter and sculptor,1,0,4,2,1,Widowed,1
+8891,김선영,Female,35,Unknown,Computer & Mathematical,5295000000.0,Married_0,Korea,017-473-1772,Other service-related simple employees,1,1,9,8,1,Married,0
+2271,Irmhild Heintze,Female,35,Unknown,Computer & Mathematical,9995000000.0,Married_0,Denmark,(06714) 48367,Korean studies scholar,0,0,18,6,1,Married,0
+14664,Susi Bähr,Female,35,Unknown,Computer & Mathematical,3076800000.0,Married_0,Denmark,(09493) 052809,mechanic,0,0,21,4,0,Married,0
+16351,Amanda Holmes,Female,31,Unknown,Computer & Mathematical,11685000000.0,Married_0,Australia,+61.8.8286.0858,"Geologist, wellsite",0,0,11,4,0,Married,0
+8608,Esther Abreu,Female,34,Unknown,Computer & Mathematical,8899200000.0,Married_0,Brazil,+55 11 5720 4129,Dogueiro,1,0,10,8,0,Married,0
+8012,Myriam Kostolzin,Female,35,Unknown,Computer & Mathematical,9813600000.0,Married_0,Denmark,0536255157,Physician,1,1,9,8,0,Married,0
+8081,Cristina Mcclure,Female,48,Bachelor,Business & Financial,2635200000.0,Married_3,Australia,-1205,"Accountant, chartered public finance",0,4,4,2,15,Married,3
+8112,Eloá Pimenta,Female,37,Bachelor,Unemployed,890400000.0,Married_0,Brazil,(061) 9556-6752,Milkman,0,3,4,4,6,Married,0
+6719,Karen Roberts,Female,33,Associate,Arts Design Entertainment Sports & Media,2035200000.0,Single_0,Australia,03-7425-4968,Learning disability nurse,9,0,11,2,1,Single,0
+1141,백채원,Female,32,Associate,Arts Design Entertainment Sports & Media,1875000000.0,Single_0,Korea,010-5628-0644,Construction Materials Testing Institute,19,0,19,2,1,Single,0
+11320,Sra. Maria Isis Fogaça,Female,31,Associate,Arts Design Entertainment Sports & Media,2008800000.0,Single_0,Brazil,+55 51 2299 2412,Labor scorer,20,0,16,2,0,Single,0
+5577,Eloah Peixoto,Female,33,Associate,Arts Design Entertainment Sports & Media,1942500000.0,Single_0,Brazil,(041) 6428 8688,sound engineer,12,1,20,3,1,Single,0
+7719,오윤서,Female,33,Associate,Arts Design Entertainment Sports & Media,1927200000.0,Single_0,Korea,062-245-8784,Rice cake manufacturer,14,1,14,3,1,Single,0
+2394,Elma Wesack,Female,32,Associate,Arts Design Entertainment Sports & Media,1833600000.0,Single_0,Denmark,05166357732,Nurse,14,1,18,2,0,Single,0
+2071,Joana Mendonça,Female,32,Associate,Arts Design Entertainment Sports & Media,2015000000.0,Single_0,Brazil,+55 (084) 4781-6311,Naval engineer,12,0,21,2,1,Single,0
+14894,Prof. Liesel Bauer,Female,35,Associate,Arts Design Entertainment Sports & Media,1821600000.0,Single_0,Denmark,0773405644,Electronics engineer,17,1,11,3,0,Single,0
+6502,Maria Fernanda Nogueira,Female,32,Associate,Arts Design Entertainment Sports & Media,2012500000.0,Single_0,Brazil,0300 690 0768,Foreman,23,0,10,3,1,Single,0
+7602,Patricia Harris,Female,33,Associate,Arts Design Entertainment Sports & Media,2130000000.0,Single_0,Australia,03 2926 3016,Mental health nurse,12,1,9,1,0,Single,0
+6295,Julia Patterson,Female,72,Highschool,Retired,302400000.0,Widowed_4,Australia,02-2725-2991,Herpetologist,0,0,6,1,9,Widowed,4
+15376,Theresa Roach,Female,71,Highschool,Retired,457500000.0,Widowed_1,Australia,61299117609,"Surveyor, mining",0,0,6,2,10,Widowed,1
+19968,Samantha Beasley,Female,53,Highschool,Retired,453600000.0,Widowed_2,Australia,03-7403-9036,"Engineer, electrical",0,0,4,2,13,Widowed,2
+18772,Melissa Aparecida,Female,39,Bachelor,Unemployed,8736000000.0,Married_0,Brazil,+55 (061) 2307-3891,Lighting engineer,0,0,2,1,0,Married,0
+16736,Ellinor Zirme,Female,36,Bachelor,Unemployed,6938400000.0,Married_0,Denmark,02502 34646,Schornsteinfeger,0,0,3,0,1,Married,0
+4572,Alexia Novaes,Female,38,Bachelor,Unemployed,7430000000.0,Married_0,Brazil,(061) 8749 2780,automobile pilot,1,0,3,1,0,Married,0
+2838,Josephine Zahn MBA.,Female,39,Bachelor,Unemployed,9582500000.0,Married_0,Denmark,+49 (0) 0599 927546,Pilot,0,0,2,1,0,Married,0
+15245,Martine Ring,Female,39,Bachelor,Unemployed,7540000000.0,Married_0,Denmark,(01742) 95628,Construction specialist,0,0,1,0,1,Married,0
+15117,Christina Wolf,Female,38,Bachelor,Unemployed,11673600000.0,Married_0,Australia,(08)65644248,"Engineer, aeronautical",0,0,3,1,1,Married,0
+15596,Gudrun Roskoth,Female,37,Bachelor,Unemployed,11177500000.0,Married_0,Denmark,(07706) 824546,programmer,1,0,1,0,1,Married,0
+10157,Justine Gunpf,Female,38,Bachelor,Unemployed,3482500000.0,Married_0,Denmark,+49(0)0201 571146,Nurse,1,0,1,0,0,Married,0
+17202,Frau Annemarie Koch,Female,39,Bachelor,Unemployed,12120000000.0,Married_0,Denmark,01302674614,geriatric nurse,0,0,3,1,0,Married,0
+8140,배옥순,Female,34,Bachelor,Education&Training&Library,627500000.0,Single_0,Korea,053-573-9367,방문 판매원,0,6,1,7,3,Single,0
+6721,Lauren Jones,Female,34,Bachelor,Education&Training&Library,777600000.0,Single_0,Australia,0482 438 115,Youth worker,0,7,1,8,3,Single,0
+13862,Luna Oliveira,Female,35,Bachelor,Education&Training&Library,861600000.0,Single_0,Brazil,+55 (011) 9915 9016,Forestry technologist,1,4,0,7,3,Single,0
+1497,Samira Weiß MBA.,Female,31,Bachelor,Education&Training&Library,650400000.0,Single_0,Denmark,0755631390,Korean studies scholar,0,7,0,5,1,Single,0
+9787,Dipl.-Ing. Nuran Stolze B.Eng.,Female,36,Bachelor,Education&Training&Library,1164000000.0,Married_2,Denmark,05105474538,Nurse,1,21,2,2,2,Married,2
+18074,서지민,Female,38,Bachelor,Education&Training&Library,1080000000.0,Married_4,Korea,010-6475-0585,보일러 설치 및 정비원,0,13,2,3,2,Married,4
+19084,박서윤,Female,37,Bachelor,Education&Training&Library,1047500000.0,Married_1,Korea,010-9131-7720,guitar delivery man,0,15,2,1,2,Married,1
+18221,Theodora Metz-Stolze,Female,40,Bachelor,Education&Training&Library,960000000.0,Married_2,Denmark,+49(0) 459976230,Winzer,0,21,3,2,1,Married,2
+16530,Berta Fischer MBA.,Female,54,Bachelor,Unemployed,1190000000.0,Married_4,Denmark,+49(0)1144 224313,Schornsteinfeger,0,1,2,3,1,Married,4
+1906,유서현,Female,72,Bachelor,Unemployed,947500000.0,Married_1,Korea,018-002-8075,Ship deck crew and related employees,0,0,1,3,3,Married,1
+17979,Sra. Isabel Montenegro,Female,61,Unknown,Personal Care & Service,336000000.0,Divorced_1,Brazil,41 5238-3545,Esteticista,0,1,2,2,1,Divorced,1
