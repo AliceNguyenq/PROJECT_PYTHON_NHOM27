@@ -133,12 +133,20 @@ Sử dụng notebook để chạy từng bước phân tích:
    jupyter notebook
    ```
 - Các notebook chính:
+
 | Notebook                                              | Chức năng                                     |
 | ----------------------------------------------------- | --------------------------------------------- |
 | `[NHOM27_PYTHON_1]_DataPreprocessing_NoneClass.ipynb` | Tiền xử lý dữ liệu không sử dụng class        |
 | `[NHOM27_PYTHON_2]_DataPreprocessing_WithClass.ipynb` | Tiền xử lý dữ liệu có sử dụng class           |
 | `[NHOM27_PYTHON_3]_EDA.ipynb`                         | Phân tích dữ liệu khám phá (EDA)              |
 | `[NHOM27_PYTHON_4]_Model_Final.ipynb`                 | Xây dựng, huấn luyện, đánh giá mô hình        |
+
+| Notebook                                              | Chức năng                                     |
+| ----------------------------------------------------- | --------------------------------------------- |
+| `[NHOM27_PYTHON_1]_DataPreprocessing_NoneClass.ipynb` | Tiền xử lý dữ liệu không sử dụng class        |
+| `[NHOM27_PYTHON_2]_DataPreprocessing_WithClass.ipynb` | Tiền xử lý dữ liệu có sử dụng class           |
+| `[NHOM27_PYTHON_3]_EDA.ipynb`                         | Phân tích dữ liệu khám phá (EDA)              |
+| `[NHOM27_PYTHON_4]_Model_Final.ipynb`                 | Xây dựng, huấn luyện và đánh giá mô hình      |
   
 > [Lưu ý] Sau khi chạy xong, kết quả đánh giá mô hình và file log sẽ được tạo tự động.
 
